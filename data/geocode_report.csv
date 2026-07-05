@@ -1,0 +1,318 @@
+hospital,existing_lat,existing_lon,new_lat,new_lon,distance_km,matched_query,status
+Manipal Hospital Whitefield,,,12.958259,77.745391,,"Manipal Hospital Whitefield, Whitefield, Bengaluru, Karnataka",existing_invalid_new_available
+Manipal Hospital Old Airport Road,,,12.959678,77.649238,,"Manipal Hospital Old Airport Road, Old Airport Road, Bengaluru, Karnataka",existing_invalid_new_available
+Manipal Hospital Yeshwanthpur,,,13.017694,77.555501,,"Yeshwanthpur, Bengaluru, Karnataka",existing_invalid_new_available
+Manipal Hospital Sarjapur Road,,,12.923994,77.65303,,"Sarjapur Road, Bengaluru, Karnataka",existing_invalid_new_available
+Fortis Hospital Bannerghatta,,,12.894751,77.598676,,"Fortis Hospital Bannerghatta, Bannerghatta Road, Bengaluru, Karnataka",existing_invalid_new_available
+Fortis Hospital Cunningham Road,,,12.988549,77.594574,,"Fortis Hospital Cunningham Road, Cunningham Road, Bengaluru, Karnataka",existing_invalid_new_available
+Apollo Hospital Bannerghatta Road,,,12.896298,77.598285,,"Apollo Hospital Bannerghatta Road, Bannerghatta Road, Bengaluru, Karnataka",existing_invalid_new_available
+Apollo Hospital Jayanagar,,,12.929273,77.582423,,"Jayanagar, Bengaluru, Karnataka",existing_invalid_new_available
+Apollo Hospital Sheshadripuram,,,12.997121,77.580675,,"Sheshadripuram, Bengaluru, Karnataka",existing_invalid_new_available
+Narayana Health City,,,12.816016,77.689222,,"Bommasandra, Bengaluru, Karnataka",existing_invalid_new_available
+Narayana Institute of Cardiac Sciences,,,12.816016,77.689222,,"Bommasandra, Bengaluru, Karnataka",existing_invalid_new_available
+Columbia Asia Hospital Hebbal,,,13.038218,77.5919,,"Hebbal, Bengaluru, Karnataka",existing_invalid_new_available
+Columbia Asia Hospital Yeshwanthpur,,,13.017694,77.555501,,"Yeshwanthpur, Bengaluru, Karnataka",existing_invalid_new_available
+Columbia Asia Hospital Whitefield,,,12.958259,77.745391,,"Columbia Asia Hospital Whitefield, Whitefield, Bengaluru, Karnataka",existing_invalid_new_available
+Aster CMI Hospital,,,13.038218,77.5919,,"Hebbal, Bengaluru, Karnataka",existing_invalid_new_available
+Aster RV Hospital,,,12.911417,77.585027,,"Aster RV Hospital, JP Nagar, Bengaluru, Karnataka",existing_invalid_new_available
+Sakra World Hospital,,,12.955257,77.698416,,"Marathahalli, Bengaluru, Karnataka",existing_invalid_new_available
+BGS Gleneagles Global Hospital,,,12.917657,77.483757,,"Kengeri, Bengaluru, Karnataka",existing_invalid_new_available
+Vikram Hospital Millers Road,,,12.988213,77.592159,,"Vikram Hospital Millers Road, Millers Road, Bengaluru, Karnataka",existing_invalid_new_available
+Vikram Hospital Bellandur,,,12.932049,77.684292,,"Bellandur, Bengaluru, Karnataka",existing_invalid_new_available
+St. John's Medical College Hospital,,,12.929678,77.618358,,"St. John's Medical College Hospital, Koramangala, Bengaluru, Karnataka",existing_invalid_new_available
+MS Ramaiah Memorial Hospital,,,13.03331,77.56682,,"MSR Nagar, Bengaluru, Karnataka",existing_invalid_new_available
+Sparsh Hospital Infantry Road,,,12.98333,77.594536,,"Sparsh Hospital Infantry Road, Infantry Road, Bengaluru, Karnataka",existing_invalid_new_available
+Sparsh Hospital Yeshwanthpur,,,13.017694,77.555501,,"Yeshwanthpur, Bengaluru, Karnataka",existing_invalid_new_available
+HCG Cancer Centre Bengaluru,,,12.966608,77.592509,,"Sampangi Rama Nagar, Bengaluru, Karnataka",existing_invalid_new_available
+Sagar Hospitals Jayanagar,,,12.927891,77.599838,,"Sagar Hospitals Jayanagar, Jayanagar, Bengaluru, Karnataka",existing_invalid_new_available
+Sagar Hospitals Banashankari,,,12.92782,77.556621,,"Banashankari, Bengaluru, Karnataka",existing_invalid_new_available
+Rainbow Children's Hospital Bengaluru,,,12.955257,77.698416,,"Marathahalli, Bengaluru, Karnataka",existing_invalid_new_available
+Motherhood Hospital Indiranagar,,,12.978441,77.637585,,"Motherhood Hospital Indiranagar, Indiranagar, Bengaluru, Karnataka",existing_invalid_new_available
+Cloudnine Hospital Old Airport Road,,,12.959775,77.656913,,"Cloudnine Hospital Old Airport Road, Old Airport Road, Bengaluru, Karnataka",existing_invalid_new_available
+Bangalore Baptist Hospital,,,13.035789,77.589498,,"Bangalore Baptist Hospital, Bellary Road, Bengaluru, Karnataka",existing_invalid_new_available
+Mallya Hospital,,,12.96798,77.595074,,"Mallya Hospital, Vittal Mallya Road, Bengaluru, Karnataka",existing_invalid_new_available
+Vydehi Institute of Medical Sciences,,,12.995743,77.757949,,"Whitefield, Bengaluru, Karnataka",existing_invalid_new_available
+East Point Hospital,,,13.052684,77.716977,,"East Point Hospital, Bangalore Urban, Karnataka, India",existing_invalid_new_available
+Apollo BGS Hospital Mysuru,,,12.27664,76.62911,,"Adichunchanagiri Road, Mysuru, Karnataka",existing_invalid_new_available
+JSS Hospital Mysuru,,,12.297588,76.654858,,"MG Road, Mysuru, Karnataka",existing_invalid_new_available
+Vikram Hospital Mysuru,,,12.303755,76.691372,,"Siddhartha Layout, Mysuru, Karnataka",existing_invalid_new_available
+Columbia Asia Hospital Mysuru,,,12.350047,76.660655,,"Columbia Asia Hospital Mysuru, Mysuru, Karnataka",existing_invalid_new_available
+KMC Hospital Attavar Mangaluru,,,12.858859,74.848002,,"KMC Hospital Attavar Mangaluru, Attavar, Mangaluru, Karnataka",existing_invalid_new_available
+KMC Hospital Ambedkar Circle Mangaluru,,,12.858859,74.848002,,"Ambedkar Circle, Mangaluru, Karnataka",existing_invalid_new_available
+AJ Hospital and Research Centre Mangaluru,,,,,,,geocode_failed
+Father Muller Medical College Hospital Mangaluru,,,12.864648,74.860003,,"Kankanady, Mangaluru, Karnataka",existing_invalid_new_available
+Unity Hospital Mangaluru,,,12.87114,74.849112,,"Falnir, Mangaluru, Karnataka",existing_invalid_new_available
+Kasturba Hospital Manipal,,,13.35381,74.790093,,"Kasturba Hospital Manipal, Manipal, Udupi, Karnataka",existing_invalid_new_available
+Suyog Hospital Hubli,,,15.351838,75.137985,,"Hubli, Karnataka",existing_invalid_new_available
+Vinayaka Hospital Hubli,,,15.351838,75.137985,,"Hubli, Karnataka",existing_invalid_new_available
+KLES Dr Prabhakar Kore Hospital Belagavi,,,15.885726,74.51844,,"Nehru Nagar, Belagavi, Karnataka",existing_invalid_new_available
+Manipal Hospital Malleshwaram,,,13.001128,77.563929,,"Manipal Hospital Malleshwaram, Malleshwaram, Bengaluru, Karnataka",existing_invalid_new_available
+Manipal Hospital HAL Airport Road,,,12.959846,77.649214,,"Manipal Hospital HAL Airport Road, HAL Airport Road, Bengaluru, Karnataka",existing_invalid_new_available
+Kauvery Hospital Electronic City,,,12.855088,77.66316,,"Kauvery Hospital Electronic City, Electronic City, Bengaluru, Karnataka",existing_invalid_new_available
+Aster Whitefield Hospital,,,12.995743,77.757949,,"Whitefield, Bengaluru, Karnataka",existing_invalid_new_available
+Narayana Multispeciality Hospital HSR Layout,,,12.908209,77.643513,,"Narayana Multispeciality Hospital HSR Layout, HSR Layout, Bengaluru, Karnataka",existing_invalid_new_available
+Cytecare Cancer Hospital,,,12.923994,77.65303,,"Sarjapur Road, Bengaluru, Karnataka",existing_invalid_new_available
+Shanti Hospital and Research Centre,,,12.995743,77.757949,,"Kadugodi, Bengaluru, Karnataka",existing_invalid_new_available
+Chinmaya Mission Hospital,,,12.978483,77.646222,,"Chinmaya Mission Hospital, Indiranagar, Bengaluru, Karnataka",existing_invalid_new_available
+Sri Shankara Cancer Hospital,,,12.954262,77.570947,,"Sri Shankara Cancer Hospital, Basavanagudi, Bengaluru, Karnataka",existing_invalid_new_available
+Trustwell Hospital Rajajinagar,,,13.000523,77.549617,,"Rajajinagar, Bengaluru, Karnataka",existing_invalid_new_available
+HOSMAT Hospital,,,12.969112,77.613307,,"HOSMAT Hospital, Magrath Road, Bengaluru, Karnataka",existing_invalid_new_available
+Trinity Hospital and Heart Foundation,,,12.962467,77.638196,,"Domlur, Bengaluru, Karnataka",existing_invalid_new_available
+People Tree Hospitals Tumkur Road,,,13.028727,77.539383,,"People Tree Hospitals Tumkur Road, Tumkur Road, Bengaluru, Karnataka",existing_invalid_new_available
+Narayana Institute of Cardiac Sciences Hubli,,,15.351838,75.137985,,"Hubli, Karnataka",existing_invalid_new_available
+KIMS Hospital Hubli,,,15.361448,75.132633,,"KIMS Hospital Hubli, Vidyanagar, Hubli, Karnataka",existing_invalid_new_available
+Bapuji Hospital Davanagere,,,14.455262,75.917375,,"Bapuji Hospital Davanagere, Davanagere, Karnataka",existing_invalid_new_available
+Suyog Hospital Belagavi,,,16.158785,74.888862,,"Belagavi, Karnataka",existing_invalid_new_available
+Siddaganga Hospital Tumakuru,,,13.339784,77.11319,,"Siddaganga Hospital Tumakuru, Tumakuru, Karnataka",existing_invalid_new_available
+Basappa Memorial Hospital Mysuru,,,12.320693,76.620407,,"Basappa Memorial Hospital Mysuru, Mysuru, Karnataka",existing_invalid_new_available
+Victoria Hospital,12.953935,77.585143,12.953935,77.585143,0.0,"Fort, Bengaluru, Karnataka",matches_closely
+Bowring and Lady Curzon Hospital,12.985529,77.60545,12.985529,77.60545,0.0,"Shivajinagar, Bengaluru, Karnataka",matches_closely
+Vani Vilas Hospital,12.953935,77.585143,12.953935,77.585143,0.0,"Fort, Bengaluru, Karnataka",matches_closely
+KC General Hospital,13.002735,77.570325,13.002735,77.570325,0.0,"Malleshwaram, Bengaluru, Karnataka",matches_closely
+Bangalore Medical College and Research Institute,12.953935,77.585143,12.953935,77.585143,0.0,"Fort, Bengaluru, Karnataka",matches_closely
+Jayadeva Institute of Cardiovascular Sciences,12.929273,77.582423,12.929273,77.582423,0.0,"Jayanagar, Bengaluru, Karnataka",matches_closely
+Kidwai Memorial Institute of Oncology,12.93752,77.598541,12.93752,77.598541,0.0,"Kidwai Memorial Institute of Oncology, Hosur Road, Bengaluru, Karnataka",matches_closely
+NIMHANS,12.943168,77.596475,12.943168,77.596475,0.0,"NIMHANS, Hosur Road, Bengaluru, Karnataka",matches_closely
+Indira Gandhi Institute of Child Health,12.985529,77.60545,12.985529,77.60545,0.0,"Shivajinagar, Bengaluru, Karnataka",matches_closely
+Institute of Nephro Urology Bengaluru,12.985529,77.60545,12.985529,77.60545,0.0,"Shivajinagar, Bengaluru, Karnataka",matches_closely
+St Marthas Hospital Bengaluru,12.973008,77.585602,12.973008,77.585602,0.0,"Nrupathunga Road, Bengaluru, Karnataka",matches_closely
+ESI Hospital Rajajinagar,12.990498,77.553092,12.990498,77.553092,0.0,"ESI Hospital Rajajinagar, Rajajinagar, Bengaluru, Karnataka",matches_closely
+ESI Hospital Indiranagar,12.971302,77.636702,12.971302,77.636702,0.0,"ESI Hospital Indiranagar, Indiranagar, Bengaluru, Karnataka",matches_closely
+ESIC Medical College Bengaluru,13.000536,77.5497,13.000536,77.5497,0.0,"Rajajinagar, Bengaluru, Karnataka",matches_closely
+Jayanagar General Hospital,12.926103,77.592544,12.926103,77.592544,0.0,"Jayanagar General Hospital, Jayanagar, Bengaluru, Bangalore Urban District, Karnataka, India",matches_closely
+Leprosy Hospital Bengaluru,12.975653,77.555355,12.975653,77.555355,0.0,"Magadi Road, Bengaluru, Karnataka",matches_closely
+District Hospital Bengaluru North,13.022142,77.640337,13.022142,77.640337,0.0,"Kalyan Nagar, Bengaluru, Karnataka",matches_closely
+District Hospital Bengaluru South,12.909694,77.586607,12.909694,77.586607,0.0,"JP Nagar, Bengaluru, Karnataka",matches_closely
+District Hospital Bengaluru East,12.978618,77.64187,12.978618,77.64187,0.0,"District Hospital Bengaluru East, Indiranagar, Bengaluru, Karnataka",matches_closely
+CHC Yelahanka,13.100698,77.596345,13.100698,77.596345,0.0,"Yelahanka, Bengaluru, Karnataka",matches_closely
+CHC Krishnarajapuram,13.007516,77.695935,13.007516,77.695935,0.0,"KR Puram, Bengaluru, Karnataka",matches_closely
+CHC Attibele,12.775125,77.770922,12.775125,77.770922,0.0,"Attibele, Bengaluru, Karnataka",matches_closely
+District Hospital Devanahalli,13.24835,77.713438,13.24835,77.713438,0.0,"Devanahalli, Karnataka",matches_closely
+District Hospital Doddaballapura,13.292958,77.543146,13.292958,77.543146,0.0,"Doddaballapura, Karnataka",matches_closely
+District Hospital Hosakote,13.459941,77.214878,13.459941,77.214878,0.0,"Hosakote, Karnataka",matches_closely
+District Hospital Nelamangala,13.097967,77.394559,13.097967,77.394559,0.0,"Nelamangala, Karnataka",matches_closely
+CHC Anekal,12.710315,77.688619,12.710315,77.688619,0.0,"Anekal, Karnataka",matches_closely
+CHC Hoskote,13.073014,77.792138,13.073014,77.792138,0.0,"Hoskote, Karnataka",matches_closely
+CHC Kanakapura,12.554856,77.419882,12.554856,77.419882,0.0,"CHC Kanakapura, Kanakapura, Karnataka",matches_closely
+CHC Magadi,12.956735,77.224228,12.956735,77.224228,0.0,"Magadi, Karnataka",matches_closely
+K R Hospital Mysuru,12.313393,76.649727,12.313393,76.649727,0.0,"K R Hospital Mysuru, Irwin Road, Mysuru, Karnataka",matches_closely
+Cheluvamba Hospital Mysuru,12.313893,76.649012,12.313893,76.649012,0.0,"Cheluvamba Hospital Mysuru, Irwin Road, Mysuru, Karnataka",matches_closely
+Mysore Medical College and Research Institute,12.314673,76.649496,12.314673,76.649496,0.0,"Irwin Road, Mysuru, Karnataka",matches_closely
+District Hospital Mysuru,12.349918,76.628059,12.349918,76.628059,0.0,"District Hospital Mysuru, Mysuru, Karnataka",matches_closely
+ESI Hospital Mysuru,12.357989,76.610508,12.357989,76.610508,0.0,"Hebbal, Mysuru, Karnataka",matches_closely
+Taluk General Hospital Hunsur,12.303509,76.29281,12.303509,76.29281,0.0,"Hunsur, Mysuru, Karnataka",matches_closely
+Taluk General Hospital Nanjangud,12.122068,76.684341,12.122068,76.684341,0.0,"Nanjangud, Mysuru, Karnataka",matches_closely
+Taluk General Hospital T Narsipur,12.211977,76.898135,12.211977,76.898135,0.0,"T Narsipur, Mysuru, Karnataka",matches_closely
+Taluk General Hospital Periyapatna,12.337249,76.098801,12.337249,76.098801,0.0,"Periyapatna, Mysuru, Karnataka",matches_closely
+Taluk General Hospital H D Kote,12.087726,76.331058,12.087726,76.331058,0.0,"H D Kote, Mysuru, Karnataka",matches_closely
+Taluk General Hospital K R Nagar,12.440022,76.381061,12.440022,76.381061,0.0,"K R Nagar, Mysuru, Karnataka",matches_closely
+CHC Heggadadevankote,12.000321,76.396815,12.000321,76.396815,0.0,"CHC Heggadadevankote, Heggadadevankote, Mysuru, Karnataka",matches_closely
+Mandya Institute of Medical Sciences,12.527142,76.901084,12.527142,76.901084,0.0,"Mandya Institute of Medical Sciences, Mandya, Karnataka",matches_closely
+District Hospital Mandya,12.516658,76.89398,12.516658,76.89398,0.0,"District Hospital Mandya, Mandya, Karnataka",matches_closely
+Taluk General Hospital Maddur,12.584898,77.044868,12.584898,77.044868,0.0,"Maddur, Mandya, Karnataka",matches_closely
+Taluk General Hospital Malavalli,12.386407,77.058946,12.386407,77.058946,0.0,"Malavalli, Mandya, Karnataka",matches_closely
+Taluk General Hospital Nagamangala,12.819608,76.754219,12.819608,76.754219,0.0,"Nagamangala, Mandya, Karnataka",matches_closely
+Taluk General Hospital Pandavapura,12.501141,76.67315,12.501141,76.67315,0.0,"Pandavapura, Mandya, Karnataka",matches_closely
+Taluk General Hospital Srirangapatna,12.422644,76.684931,12.422644,76.684931,0.0,"Srirangapatna, Mandya, Karnataka",matches_closely
+Taluk General Hospital Krishnarajapet,,,,,,,geocode_failed
+Hassan Institute of Medical Sciences,13.004741,76.102372,13.004741,76.102372,0.0,"Hassan Institute of Medical Sciences, Hassan, Karnataka",matches_closely
+District Hospital Hassan,13.005176,76.103972,13.005176,76.103972,0.0,"District Hospital Hassan, Hassan, Karnataka",matches_closely
+Taluk General Hospital Arsikere,13.313782,76.253199,13.313782,76.253199,0.0,"Arsikere, Hassan, Karnataka",matches_closely
+Taluk General Hospital Belur,13.164567,75.863485,13.164567,75.863485,0.0,"Belur, Hassan, Karnataka",matches_closely
+Taluk General Hospital Sakleshpur,12.943435,75.786232,12.943435,75.786232,0.0,"Sakleshpur, Hassan, Karnataka",matches_closely
+Taluk General Hospital Holenarasipur,,,,,,,geocode_failed
+Taluk General Hospital Channarayapatna,12.892458,76.393886,12.892458,76.393886,0.0,"Channarayapatna, Hassan, Karnataka",matches_closely
+Taluk General Hospital Alur,12.978832,75.993578,12.978832,75.993578,0.0,"Alur, Hassan, Karnataka",matches_closely
+Kodagu Institute of Medical Sciences,12.441902,75.740369,12.441902,75.740369,0.0,"Kodagu Institute of Medical Sciences, Madikeri, Kodagu, Karnataka",matches_closely
+District Hospital Madikeri,12.418767,75.742245,12.418767,75.742245,0.0,"District Hospital Madikeri, Madikeri, Kodagu, Karnataka",matches_closely
+Taluk General Hospital Virajpet,12.197271,75.803342,12.197271,75.803342,0.0,"Virajpet, Kodagu, Karnataka",matches_closely
+Taluk General Hospital Somwarpet,12.597188,75.846687,12.597188,75.846687,0.0,"Somwarpet, Kodagu, Karnataka",matches_closely
+Chikkamagaluru Institute of Medical Sciences,13.40587,75.638758,13.40587,75.638758,0.0,"Chikkamagaluru, Karnataka",matches_closely
+District Hospital Chikkamagaluru,13.315619,75.775661,13.315619,75.775661,0.0,"District Hospital Chikkamagaluru, Chikkamagaluru, Karnataka",matches_closely
+Taluk General Hospital Kadur,13.550251,76.008702,13.550251,76.008702,0.0,"Kadur, Chikkamagaluru, Karnataka",matches_closely
+Taluk General Hospital Tarikere,13.706231,75.818356,13.706231,75.818356,0.0,"Tarikere, Chikkamagaluru, Karnataka",matches_closely
+Taluk General Hospital Mudigere,13.133334,75.641918,13.133334,75.641918,0.0,"Mudigere, Chikkamagaluru, Karnataka",matches_closely
+Taluk General Hospital Koppa,13.533207,75.363399,13.533207,75.363399,0.0,"Koppa, Chikkamagaluru, Karnataka",matches_closely
+Taluk General Hospital Sringeri,13.426172,75.255369,13.426172,75.255369,0.0,"Sringeri, Chikkamagaluru, Karnataka",matches_closely
+Taluk General Hospital Narasimharajapura,13.610796,75.51173,13.610796,75.51173,0.0,"Narasimharajapura, Chikkamagaluru, Karnataka",matches_closely
+Shivamogga Institute of Medical Sciences,13.932609,75.574978,13.932609,75.574978,0.0,"Shivamogga, Karnataka",matches_closely
+McGann District Hospital Shivamogga,13.932609,75.574978,13.932609,75.574978,0.0,"Shivamogga, Karnataka",matches_closely
+Taluk General Hospital Bhadravathi,13.850207,75.703786,13.850207,75.703786,0.0,"Bhadravathi, Shivamogga, Karnataka",matches_closely
+Taluk General Hospital Thirthahalli,13.690314,75.240754,13.690314,75.240754,0.0,"Thirthahalli, Shivamogga, Karnataka",matches_closely
+Taluk General Hospital Hosanagara,13.916789,75.065795,13.916789,75.065795,0.0,"Hosanagara, Shivamogga, Karnataka",matches_closely
+Taluk General Hospital Sagar,13.93732,75.557018,13.93732,75.557018,0.0,"Sagar, Shivamogga, Karnataka",matches_closely
+Taluk General Hospital Shikaripura,14.263966,75.35878,14.263966,75.35878,0.0,"Shikaripura, Shivamogga, Karnataka",matches_closely
+Taluk General Hospital Sorab,14.174819,75.029293,14.174819,75.029293,0.0,"Sorab, Shivamogga, Karnataka",matches_closely
+JJM Medical College Hospital Davanagere,14.255883,75.830342,14.255883,75.830342,0.0,"Davanagere, Karnataka",matches_closely
+Chigateri District Hospital Davanagere,14.456983,75.915621,14.456983,75.915621,0.0,"Chigateri District Hospital Davanagere, Davanagere, Karnataka",matches_closely
+SS Institute of Medical Sciences Davanagere,14.255883,75.830342,14.255883,75.830342,0.0,"Davanagere, Karnataka",matches_closely
+Taluk General Hospital Channagiri,14.0252,75.925,14.0252,75.925,0.0,"Channagiri, Davanagere, Karnataka",matches_closely
+Taluk General Hospital Honnali,14.238978,75.645743,14.238978,75.645743,0.0,"Honnali, Davanagere, Karnataka",matches_closely
+Taluk General Hospital Jagalur,14.469637,76.353824,14.469637,76.353824,0.0,"Jagalur, Davanagere, Karnataka",matches_closely
+Taluk General Hospital Harapanahalli,14.78192,75.99012,14.78192,75.99012,0.0,"Harapanahalli, Davanagere, Karnataka",matches_closely
+Basaveshwara Medical College Chitradurga,14.304917,76.529667,14.304917,76.529667,0.0,"Chitradurga, Karnataka",matches_closely
+District Hospital Chitradurga,14.220476,76.405533,14.220476,76.405533,0.0,"District Hospital Chitradurga, Chitradurga, Karnataka",matches_closely
+Taluk General Hospital Challakere,14.316406,76.650414,14.316406,76.650414,0.0,"Taluk General Hospital Challakere, Challakere, Chitradurga, Karnataka",matches_closely
+Taluk General Hospital Holalkere,14.042833,76.184488,14.042833,76.184488,0.0,"Holalkere, Chitradurga, Karnataka",matches_closely
+Taluk General Hospital Hiriyur,13.944324,76.616741,13.944324,76.616741,0.0,"Hiriyur, Chitradurga, Karnataka",matches_closely
+Taluk General Hospital Molakalmuru,14.717316,76.745457,14.717316,76.745457,0.0,"Molakalmuru, Chitradurga, Karnataka",matches_closely
+Taluk General Hospital Hosadurga,13.798776,76.283103,13.798776,76.283103,0.0,"Hosadurga, Chitradurga, Karnataka",matches_closely
+Sri Siddhartha Medical College Tumakuru,13.348566,77.057591,13.348566,77.057591,0.0,"Sri Siddhartha Medical College Tumakuru, Tumakuru, Karnataka",matches_closely
+District Hospital Tumakuru,13.340344,77.099369,13.340344,77.099369,0.0,"District Hospital Tumakuru, Tumakuru, Karnataka",matches_closely
+Taluk General Hospital Tiptur,13.258575,76.473767,13.258575,76.473767,0.0,"Tiptur, Tumakuru, Karnataka",matches_closely
+Taluk General Hospital Gubbi,13.309574,76.94007,13.309574,76.94007,0.0,"Gubbi, Tumakuru, Karnataka",matches_closely
+Taluk General Hospital Koratagere,13.521542,77.235891,13.521542,77.235891,0.0,"Koratagere, Tumakuru, Karnataka",matches_closely
+Taluk General Hospital Madhugiri,13.660179,77.214088,13.660179,77.214088,0.0,"Madhugiri, Tumakuru, Karnataka",matches_closely
+Taluk General Hospital Chikkanayakanahalli,13.419077,76.620278,13.419077,76.620278,0.0,"Chikkanayakanahalli, Tumakuru, Karnataka",matches_closely
+Taluk General Hospital Pavagada,14.105449,77.275047,14.105449,77.275047,0.0,"Pavagada, Tumakuru, Karnataka",matches_closely
+Taluk General Hospital Sira,13.740947,76.905738,13.740947,76.905738,0.0,"Sira, Tumakuru, Karnataka",matches_closely
+Taluk General Hospital Turuvekere,13.16272,76.668068,13.16272,76.668068,0.0,"Turuvekere, Tumakuru, Karnataka",matches_closely
+District Hospital Ramanagara,12.730123,77.287374,12.730123,77.287374,0.0,"District Hospital Ramanagara, Ramanagara, Karnataka",matches_closely
+Taluk General Hospital Channapatna,12.659373,77.203893,12.659373,77.203893,0.0,"Channapatna, Ramanagara, Karnataka",matches_closely
+Taluk General Hospital Magadi,12.956735,77.224228,12.956735,77.224228,0.0,"Magadi, Ramanagara, Karnataka",matches_closely
+Taluk General Hospital Kanakapura,12.545027,77.41991,12.545027,77.41991,0.0,"Kanakapura, Ramanagara, Karnataka",matches_closely
+District Hospital Kolar,13.129124,78.134261,13.129124,78.134261,0.0,"District Hospital Kolar, Kolar, Karnataka",matches_closely
+Taluk General Hospital Bangarpet,12.98822,78.181256,12.98822,78.181256,0.0,"Bangarpet, Kolar, Karnataka",matches_closely
+Taluk General Hospital Malur,13.00587,77.939365,13.00587,77.939365,0.0,"Malur, Kolar, Karnataka",matches_closely
+Taluk General Hospital Mulbagal,13.166048,78.392724,13.166048,78.392724,0.0,"Mulbagal, Kolar, Karnataka",matches_closely
+Taluk General Hospital Srinivasapur,,,,,,,geocode_failed
+Taluk General Hospital Robertsonpet,12.95813,78.274367,12.95813,78.274367,0.0,"Robertsonpet, Kolar, Karnataka",matches_closely
+District Hospital Chikkaballapur,13.099376,77.388729,13.099376,77.388729,0.0,"Chikkaballapur, Karnataka",matches_closely
+Taluk General Hospital Gauribidanur,,,,,,,geocode_failed
+Taluk General Hospital Chintamani,13.397926,78.053317,13.397926,78.053317,0.0,"Chintamani, Chikkaballapur, Karnataka",matches_closely
+Taluk General Hospital Gudibanda,,,,,,,geocode_failed
+Taluk General Hospital Bagepalli,,,,,,,geocode_failed
+Taluk General Hospital Sidlaghatta,,,,,,,geocode_failed
+SDM Medical College Hospital Dharwad,15.37073,75.133287,15.37073,75.133287,0.0,"Dharwad, Karnataka",matches_closely
+District Hospital Dharwad,15.443657,75.008016,15.443657,75.008016,0.0,"District Hospital Dharwad, Dharwad, Karnataka",matches_closely
+Karnataka Institute of Medical Sciences Hubli,15.361498,75.130941,15.361498,75.130941,0.0,"Karnataka Institute of Medical Sciences Hubli, Hubli, Dharwad, Karnataka",matches_closely
+ESI Hospital Hubli,15.340232,75.126967,15.340232,75.126967,0.0,"ESI Hospital Hubli, Hubli, Dharwad, Karnataka",matches_closely
+Taluk General Hospital Navalgund,15.558221,75.353848,15.558221,75.353848,0.0,"Navalgund, Dharwad, Karnataka",matches_closely
+Taluk General Hospital Kalghatgi,15.18312,74.994564,15.18312,74.994564,0.0,"Kalghatgi, Dharwad, Karnataka",matches_closely
+Taluk General Hospital Kundgol,15.258883,75.250045,15.258883,75.250045,0.0,"Kundgol, Dharwad, Karnataka",matches_closely
+Taluk General Hospital Kalaghatagi,15.181892,74.971846,15.181892,74.971846,0.0,"Kalaghatagi, Dharwad, Karnataka",matches_closely
+S Nijalingappa Medical College Gadag,15.416692,75.68158,15.416692,75.68158,0.0,"Gadag, Karnataka",matches_closely
+District Hospital Gadag,15.378703,75.601934,15.378703,75.601934,0.0,"District Hospital Gadag, Gadag, Karnataka",matches_closely
+Taluk General Hospital Ron,15.699694,75.734991,15.699694,75.734991,0.0,"Ron, Gadag, Karnataka",matches_closely
+Taluk General Hospital Nargund,15.722038,75.384625,15.722038,75.384625,0.0,"Nargund, Gadag, Karnataka",matches_closely
+Taluk General Hospital Mundargi,15.201367,75.884182,15.201367,75.884182,0.0,"Mundargi, Gadag, Karnataka",matches_closely
+Taluk General Hospital Shirahatti,15.234576,75.5792,15.234576,75.5792,0.0,"Shirahatti, Gadag, Karnataka",matches_closely
+Taluk General Hospital Lakshmeshwar,15.12373,75.474117,15.12373,75.474117,0.0,"Lakshmeshwar, Gadag, Karnataka",matches_closely
+District Hospital Haveri,14.785355,75.403168,14.785355,75.403168,0.0,"District Hospital Haveri, Haveri, Karnataka",matches_closely
+Taluk General Hospital Ranebennur,14.61658,75.634153,14.61658,75.634153,0.0,"Ranebennur, Haveri, Karnataka",matches_closely
+Taluk General Hospital Hangal,14.782177,75.135686,14.782177,75.135686,0.0,"Hangal, Haveri, Karnataka",matches_closely
+Taluk General Hospital Savanur,14.975024,75.339706,14.975024,75.339706,0.0,"Savanur, Haveri, Karnataka",matches_closely
+Taluk General Hospital Shiggaon,14.989901,75.223482,14.989901,75.223482,0.0,"Shiggaon, Haveri, Karnataka",matches_closely
+Taluk General Hospital Byadgi,14.699155,75.489622,14.699155,75.489622,0.0,"Byadgi, Haveri, Karnataka",matches_closely
+Taluk General Hospital Hirekerur,14.45624,75.39522,14.45624,75.39522,0.0,"Hirekerur, Haveri, Karnataka",matches_closely
+District Hospital Karwar,14.817509,74.129496,14.817509,74.129496,0.0,"District Hospital Karwar, Karwar, Uttara Kannada, Karnataka",matches_closely
+District Hospital Sirsi,14.619236,74.838861,14.619236,74.838861,0.0,"Sirsi, Uttara Kannada, Karnataka",matches_closely
+Taluk General Hospital Kumta,14.43724,74.421244,14.43724,74.421244,0.0,"Kumta, Uttara Kannada, Karnataka",matches_closely
+Taluk General Hospital Ankola,14.645359,74.331925,14.645359,74.331925,0.0,"Ankola, Uttara Kannada, Karnataka",matches_closely
+Taluk General Hospital Honavar,,,,,,,geocode_failed
+Taluk General Hospital Bhatkal,13.989357,74.56563,13.989357,74.56563,0.0,"Bhatkal, Uttara Kannada, Karnataka",matches_closely
+Taluk General Hospital Yellapur,14.963444,74.712079,14.963444,74.712079,0.0,"Yellapur, Uttara Kannada, Karnataka",matches_closely
+Taluk General Hospital Siddapur,14.563702,74.804616,14.563702,74.804616,0.0,"Siddapur, Uttara Kannada, Karnataka",matches_closely
+Taluk General Hospital Haliyal,15.329973,74.764667,15.329973,74.764667,0.0,"Haliyal, Uttara Kannada, Karnataka",matches_closely
+Taluk General Hospital Dandeli,15.249028,74.623604,15.249028,74.623604,0.0,"Dandeli, Uttara Kannada, Karnataka",matches_closely
+Taluk General Hospital Joida,15.164551,74.485067,15.164551,74.485067,0.0,"Joida, Uttara Kannada, Karnataka",matches_closely
+Taluk General Hospital Mundgod,14.971526,75.041308,14.971526,75.041308,0.0,"Mundgod, Uttara Kannada, Karnataka",matches_closely
+Wenlock District Hospital Mangaluru,12.86981,74.843008,12.86981,74.843008,0.0,"Mangaluru, Karnataka",matches_closely
+District Hospital Puttur,12.758473,75.200597,12.758473,75.200597,0.0,"District Hospital Puttur, Puttur, Dakshina Kannada, Karnataka",matches_closely
+Taluk General Hospital Sullia,12.557664,75.390758,12.557664,75.390758,0.0,"Sullia, Dakshina Kannada, Karnataka",matches_closely
+Taluk General Hospital Bantwal,12.894021,75.041558,12.894021,75.041558,0.0,"Taluk General Hospital Bantwal, Bantwal, Dakshina Kannada, Karnataka",matches_closely
+Taluk General Hospital Belthangady,12.985127,75.272695,12.985127,75.272695,0.0,"Belthangady, Dakshina Kannada, Karnataka",matches_closely
+Taluk General Hospital Moodabidri,13.069922,74.997747,13.069922,74.997747,0.0,"Moodabidri, Dakshina Kannada, Karnataka",matches_closely
+District Hospital Udupi,13.334017,74.742304,13.334017,74.742304,0.0,"District Hospital Udupi, Udupi, Karnataka",matches_closely
+Taluk General Hospital Kundapura,13.613374,74.728686,13.613374,74.728686,0.0,"Kundapura, Udupi, Karnataka",matches_closely
+Taluk General Hospital Karkala,13.214541,74.995186,13.214541,74.995186,0.0,"Karkala, Udupi, Karnataka",matches_closely
+Taluk General Hospital Brahmavar,13.437535,74.745397,13.437535,74.745397,0.0,"Brahmavar, Udupi, Karnataka",matches_closely
+Taluk General Hospital Hebri,13.459429,74.991552,13.459429,74.991552,0.0,"Hebri, Udupi, Karnataka",matches_closely
+Taluk General Hospital Byndoor,13.8718,74.632716,13.8718,74.632716,0.0,"Byndoor, Udupi, Karnataka",matches_closely
+Belagavi Institute of Medical Sciences,16.158785,74.888862,16.158785,74.888862,0.0,"Belagavi, Karnataka",matches_closely
+District Hospital Belagavi,15.868517,74.510307,15.868517,74.510307,0.0,"District Hospital Belagavi, Belagavi, Karnataka",matches_closely
+ESI Hospital Belagavi,15.872107,74.526872,15.872107,74.526872,0.0,"ESI Hospital Belagavi, Belagavi, Karnataka",matches_closely
+Taluk General Hospital Gokak,16.169303,74.822434,16.169303,74.822434,0.0,"Gokak, Belagavi, Karnataka",matches_closely
+Taluk General Hospital Chikkodi,16.426528,74.586132,16.426528,74.586132,0.0,"Chikkodi, Belagavi, Karnataka",matches_closely
+Taluk General Hospital Athani,16.727002,75.063143,16.727002,75.063143,0.0,"Athani, Belagavi, Karnataka",matches_closely
+Taluk General Hospital Raibag,16.491617,74.774134,16.491617,74.774134,0.0,"Raibag, Belagavi, Karnataka",matches_closely
+Taluk General Hospital Bailhongal,15.816422,74.856869,15.816422,74.856869,0.0,"Bailhongal, Belagavi, Karnataka",matches_closely
+Taluk General Hospital Ramdurg,15.944955,75.29678,15.944955,75.29678,0.0,"Ramdurg, Belagavi, Karnataka",matches_closely
+Taluk General Hospital Khanapur,15.638784,74.506102,15.638784,74.506102,0.0,"Khanapur, Belagavi, Karnataka",matches_closely
+Taluk General Hospital Hukkeri,16.230857,74.602977,16.230857,74.602977,0.0,"Hukkeri, Belagavi, Karnataka",matches_closely
+Taluk General Hospital Savadatti,15.767182,75.117483,15.767182,75.117483,0.0,"Savadatti, Belagavi, Karnataka",matches_closely
+Taluk General Hospital Ramdurga,,,,,,,geocode_failed
+S Nijalingappa Medical College Bagalkot,16.166062,75.672718,16.166062,75.672718,0.0,"S Nijalingappa Medical College Bagalkot, Bagalkot, Karnataka",matches_closely
+District Hospital Bagalkot,16.165376,75.660918,16.165376,75.660918,0.0,"District Hospital Bagalkot, Bagalkot, Karnataka",matches_closely
+Taluk General Hospital Mudhol,16.334021,75.286508,16.334021,75.286508,0.0,"Mudhol, Bagalkot, Karnataka",matches_closely
+Taluk General Hospital Jamkhandi,16.506464,75.293218,16.506464,75.293218,0.0,"Jamkhandi, Bagalkot, Karnataka",matches_closely
+Taluk General Hospital Bilgi,,,,,,,geocode_failed
+Taluk General Hospital Badami,15.921668,75.677894,15.921668,75.677894,0.0,"Badami, Bagalkot, Karnataka",matches_closely
+Taluk General Hospital Hungund,16.06689,76.059741,16.06689,76.059741,0.0,"Hungund, Bagalkot, Karnataka",matches_closely
+Taluk General Hospital Ilkal,15.950577,76.109555,15.950577,76.109555,0.0,"Ilkal, Bagalkot, Karnataka",matches_closely
+Taluk General Hospital Rabkavi Banhatti,,,,,,,geocode_failed
+BLDEU Shri BM Patil Medical College Vijayapura,16.814415,75.893386,16.814415,75.893386,0.0,"Vijayapura, Karnataka",matches_closely
+District Hospital Vijayapura,16.825402,75.69243,16.825402,75.69243,0.0,"District Hospital Vijayapura, Vijayapura, Karnataka",matches_closely
+Taluk General Hospital Sindgi,,,,,,,geocode_failed
+Taluk General Hospital Indi,17.17446,75.955376,17.17446,75.955376,0.0,"Indi, Vijayapura, Karnataka",matches_closely
+Taluk General Hospital Muddebihal,16.25538,76.162412,16.25538,76.162412,0.0,"Muddebihal, Vijayapura, Karnataka",matches_closely
+Taluk General Hospital Basavana Bagewadi,16.480299,75.828287,16.480299,75.828287,0.0,"Basavana Bagewadi, Vijayapura, Karnataka",matches_closely
+Taluk General Hospital Chadchan,,,,,,,geocode_failed
+Bidar Institute of Medical Sciences,17.919135,77.515793,17.919135,77.515793,0.0,"Bidar Institute of Medical Sciences, Bidar, Karnataka",matches_closely
+District Hospital Bidar,17.917788,77.514672,17.917788,77.514672,0.0,"District Hospital Bidar, Bidar, Karnataka",matches_closely
+Taluk General Hospital Aurad,18.250166,77.406739,18.250166,77.406739,0.0,"Aurad, Bidar, Karnataka",matches_closely
+Taluk General Hospital Bhalki,18.000067,77.202733,18.000067,77.202733,0.0,"Bhalki, Bidar, Karnataka",matches_closely
+Taluk General Hospital Humnabad,17.733241,77.217889,17.733241,77.217889,0.0,"Humnabad, Bidar, Karnataka",matches_closely
+Taluk General Hospital Basavakalyan,17.869767,76.950953,17.869767,76.950953,0.0,"Basavakalyan, Bidar, Karnataka",matches_closely
+Taluk General Hospital Kamalapur,17.583692,76.98185,17.583692,76.98185,0.0,"Kamalapur, Bidar, Karnataka",matches_closely
+Gulbarga Institute of Medical Sciences,17.240896,76.769744,17.240896,76.769744,0.0,"Kalaburagi, Karnataka",matches_closely
+ESIC Hospital Kalaburagi,17.321263,76.871739,17.321263,76.871739,0.0,"ESIC Hospital Kalaburagi, Kalaburagi, Karnataka",matches_closely
+District Hospital Kalaburagi,17.328193,76.842996,17.328193,76.842996,0.0,"District Hospital Kalaburagi, Kalaburagi, Karnataka",matches_closely
+Basaveshwar Teaching Hospital Kalaburagi,17.240896,76.769744,17.240896,76.769744,0.0,"Kalaburagi, Karnataka",matches_closely
+Taluk General Hospital Shahapur,,,,,,,geocode_failed
+Taluk General Hospital Shorapur,,,,,,,geocode_failed
+Taluk General Hospital Gurmatkal,,,,,,,geocode_failed
+Taluk General Hospital Chincholi,17.465199,77.418967,17.465199,77.418967,0.0,"Chincholi, Kalaburagi, Karnataka",matches_closely
+Taluk General Hospital Jewargi,17.012195,76.775235,17.012195,76.775235,0.0,"Jewargi, Kalaburagi, Karnataka",matches_closely
+Taluk General Hospital Afzalpur,17.200576,76.360578,17.200576,76.360578,0.0,"Afzalpur, Kalaburagi, Karnataka",matches_closely
+District Hospital Yadgir,16.780902,77.102826,16.780902,77.102826,0.0,"District Hospital Yadgir, Yadgir, Karnataka",matches_closely
+Taluk General Hospital Shorapur Yadgir,16.547695,76.737958,16.547695,76.737958,0.0,"Shorapur, Yadgir, Karnataka",matches_closely
+Taluk General Hospital Wadagera,16.585157,77.037325,16.585157,77.037325,0.0,"Wadagera, Yadgir, Karnataka",matches_closely
+Taluk General Hospital Gurmatkal Yadgir,16.867969,77.392933,16.867969,77.392933,0.0,"Gurmatkal, Yadgir, Karnataka",matches_closely
+Raichur Institute of Medical Sciences,16.232867,77.362382,16.232867,77.362382,0.0,"Raichur Institute of Medical Sciences, Raichur, Karnataka",matches_closely
+District Hospital Raichur,16.780902,77.102826,16.780902,77.102826,0.0,"District Hospital Raichur, Raichur, Karnataka",matches_closely
+Taluk General Hospital Manvi,15.996748,77.048118,15.996748,77.048118,0.0,"Manvi, Raichur, Karnataka",matches_closely
+Taluk General Hospital Sindhanur,15.768558,76.754993,15.768558,76.754993,0.0,"Sindhanur, Raichur, Karnataka",matches_closely
+Taluk General Hospital Devadurga,16.417574,76.932022,16.417574,76.932022,0.0,"Devadurga, Raichur, Karnataka",matches_closely
+Taluk General Hospital Lingasugur,16.1563,76.5242,16.1563,76.5242,0.0,"Lingasugur, Raichur, Karnataka",matches_closely
+Taluk General Hospital Mudgal,16.01439,76.446449,16.01439,76.446449,0.0,"Mudgal, Raichur, Karnataka",matches_closely
+District Hospital Koppal,15.574824,76.311849,15.574824,76.311849,0.0,"Koppal, Karnataka",matches_closely
+Taluk General Hospital Gangavathi,15.430887,76.531972,15.430887,76.531972,0.0,"Gangavathi, Koppal, Karnataka",matches_closely
+Taluk General Hospital Yelburga,15.615251,76.012779,15.615251,76.012779,0.0,"Yelburga, Koppal, Karnataka",matches_closely
+Taluk General Hospital Kustagi,15.757158,76.190682,15.757158,76.190682,0.0,"Kustagi, Koppal, Karnataka",matches_closely
+Taluk General Hospital Kuknoor,15.490275,75.993493,15.490275,75.993493,0.0,"Kuknoor, Koppal, Karnataka",matches_closely
+Vijayanagara Institute of Medical Sciences Ballari,15.154925,76.895544,15.154925,76.895544,0.0,"Vijayanagara Institute of Medical Sciences Ballari, Ballari, Karnataka",matches_closely
+District Hospital Ballari,15.145024,76.934674,15.145024,76.934674,0.0,"District Hospital Ballari, Ballari, Karnataka",matches_closely
+Taluk General Hospital Sandur,15.083275,76.543411,15.083275,76.543411,0.0,"Sandur, Ballari, Karnataka",matches_closely
+Taluk General Hospital Hadagali,,,,,,,geocode_failed
+Taluk General Hospital Siruguppa,15.634557,76.893741,15.634557,76.893741,0.0,"Siruguppa, Ballari, Karnataka",matches_closely
+Taluk General Hospital Hosapete,15.14179,76.91921,15.14179,76.91921,0.0,"Hosapete, Ballari, Karnataka",matches_closely
+Taluk General Hospital Kudligi,14.933353,76.410162,14.933353,76.410162,0.0,"Kudligi, Ballari, Karnataka",matches_closely
+Taluk General Hospital Hagaribommanahalli,,,,,,,geocode_failed
+Minto Ophthalmic Hospital,,,12.957758,77.566534,,"Chamarajpet, Bengaluru, Karnataka",existing_invalid_new_available
+Rajiv Gandhi Institute of Chest Diseases,,,12.894381,77.636524,,"Hosur Road, Bengaluru, Karnataka",existing_invalid_new_available
+Trauma Care Centre Victoria Hospital,,,12.953935,77.585143,,"Fort, Bengaluru, Karnataka",existing_invalid_new_available
+Sanjay Gandhi Accident Hospital Bengaluru,,,12.929593,77.581181,,"Byrasandra, Bengaluru, Karnataka",existing_invalid_new_available
+Taluk General Hospital Mysuru Rural,,,12.315862,76.624098,,"Mysuru Taluk, Mysuru, Karnataka",existing_invalid_new_available
+Taluk General Hospital Hassan Rural,,,12.984806,76.106707,,"Hassan Taluk, Hassan, Karnataka",existing_invalid_new_available
+Taluk General Hospital Tumakuru Rural,,,13.462221,77.050243,,"Tumakuru Taluk, Tumakuru, Karnataka",existing_invalid_new_available
+CHC Bommanahalli,,,12.903458,77.623003,,"Bommanahalli, Bengaluru, Karnataka",existing_invalid_new_available
+CHC Byatarayanapura,,,13.068322,77.591006,,"Byatarayanapura, Bengaluru, Karnataka",existing_invalid_new_available
+District Hospital Vijayanagara,,,15.266493,76.38723,,"Hosapete, Vijayanagara, Karnataka",existing_invalid_new_available
+District Hospital Chamarajanagar,,,11.926564,76.941437,,"District Hospital Chamarajanagar, Chamarajanagar, Karnataka",existing_invalid_new_available
+Taluk General Hospital Gundlupet,,,11.808496,76.691614,,"Gundlupet, Chamarajanagar, Karnataka",existing_invalid_new_available
+Taluk General Hospital Kollegal,,,12.156097,77.107173,,"Kollegal, Chamarajanagar, Karnataka",existing_invalid_new_available
+Taluk General Hospital Hanur,,,12.087032,77.301797,,"Hanur, Chamarajanagar, Karnataka",existing_invalid_new_available
+Taluk General Hospital Nippani,,,16.40204,74.384237,,"Nippani, Belagavi, Karnataka",existing_invalid_new_available
+Taluk General Hospital Kagwad,,,16.696079,74.718722,,"Kagwad, Belagavi, Karnataka",existing_invalid_new_available
+Taluk General Hospital Mangaluru Rural,,,12.938237,74.877365,,"Mangaluru Taluk, Dakshina Kannada, Karnataka",existing_invalid_new_available

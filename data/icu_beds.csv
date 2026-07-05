@@ -1,0 +1,300 @@
+hospital,contact_number,latitude,longitude,total_beds,available_beds,avg_daily_patients,critical_patients,ventilators,waiting_queue,icu_specialist_count,oxygen_supply_pct,last_updated,district,address,hospital_type
+Manipal Hospital Whitefield,+91-080-25023456,12.958259,77.745391,215,11,121,22,8,2,6,80.0,2026-07-05 22:12,Bangalore Urban,"Whitefield, Bengaluru, Karnataka",Private
+Manipal Hospital Old Airport Road,N/A,12.959678,77.649238,79,10,33,3,10,13,16,72.0,2026-07-05 14:29,Bangalore Urban,"Old Airport Road, Bengaluru, Karnataka",Private
+Manipal Hospital Yeshwanthpur,N/A,13.017694,77.555501,96,10,74,3,41,3,10,88.3,2026-07-05 14:29,Bangalore Urban,"Yeshwanthpur, Bengaluru, Karnataka",Private
+Manipal Hospital Sarjapur Road,N/A,12.923994,77.65303,348,5,315,20,30,1,10,71.4,2026-07-05 14:29,Bangalore Urban,"Sarjapur Road, Bengaluru, Karnataka",Private
+Fortis Hospital Bannerghatta,+91-080-66214444,12.894751,77.598676,118,11,73,6,39,3,12,86.2,2026-07-05 14:29,Bangalore Urban,"Bannerghatta Road, Bengaluru, Karnataka",Private
+Fortis Hospital Cunningham Road,N/A,12.988549,77.594574,142,5,94,20,45,6,14,72.8,2026-07-05 14:29,Bangalore Urban,"Cunningham Road, Bengaluru, Karnataka",Private
+Apollo Hospital Bannerghatta Road,N/A,12.896298,77.598285,82,11,23,21,18,15,16,92.5,2026-07-05 14:29,Bangalore Urban,"Bannerghatta Road, Bengaluru, Karnataka",Private
+Apollo Hospital Jayanagar,+91-080-26304050,12.929273,77.582423,288,39,252,13,24,7,8,90.3,2026-07-05 14:29,Bangalore Urban,"Jayanagar, Bengaluru, Karnataka",Private
+Apollo Hospital Sheshadripuram,N/A,12.997121,77.580675,174,4,167,11,38,15,13,91.2,2026-07-05 14:29,Bangalore Urban,"Sheshadripuram, Bengaluru, Karnataka",Private
+Narayana Health City,+91-080-71222222,12.816016,77.689222,197,21,38,5,37,13,8,92.0,2026-07-05 14:29,Bangalore Urban,"Bommasandra, Bengaluru, Karnataka",Private
+Narayana Institute of Cardiac Sciences,N/A,12.816016,77.689222,127,17,73,3,47,2,13,79.9,2026-07-05 14:29,Bangalore Urban,"Bommasandra, Bengaluru, Karnataka",Private
+Columbia Asia Hospital Hebbal,+91-080-61888888,13.038218,77.5919,229,33,168,16,9,2,11,83.7,2026-07-05 14:29,Bangalore Urban,"Hebbal, Bengaluru, Karnataka",Private
+Columbia Asia Hospital Yeshwanthpur,N/A,13.017694,77.555501,83,2,66,24,24,20,17,78.3,2026-07-05 14:29,Bangalore Urban,"Yeshwanthpur, Bengaluru, Karnataka",Private
+Columbia Asia Hospital Whitefield,N/A,12.958259,77.745391,247,24,25,16,27,5,6,84.3,2026-07-05 14:29,Bangalore Urban,"Whitefield, Bengaluru, Karnataka",Private
+Aster CMI Hospital,N/A,13.038218,77.5919,161,26,93,6,20,12,15,96.6,2026-07-05 14:29,Bangalore Urban,"Hebbal, Bengaluru, Karnataka",Private
+Aster RV Hospital,N/A,12.911417,77.585027,304,7,105,16,30,17,11,95.6,2026-07-05 14:29,Bangalore Urban,"JP Nagar, Bengaluru, Karnataka",Private
+Sakra World Hospital,N/A,12.955257,77.698416,270,37,91,24,31,11,15,97.8,2026-07-05 14:29,Bangalore Urban,"Marathahalli, Bengaluru, Karnataka",Private
+BGS Gleneagles Global Hospital,+91-080-26751000,12.917657,77.483757,127,4,42,6,19,7,3,84.1,2026-07-05 14:29,Bangalore Urban,"Kengeri, Bengaluru, Karnataka",Private
+Vikram Hospital Millers Road,+91-080-22262626,12.988213,77.592159,143,10,56,2,14,13,14,87.7,2026-07-05 14:29,Bangalore Urban,"Millers Road, Bengaluru, Karnataka",Private
+Vikram Hospital Bellandur,N/A,12.932049,77.684292,213,10,196,18,44,20,4,83.2,2026-07-05 14:29,Bangalore Urban,"Bellandur, Bengaluru, Karnataka",Private
+St. John's Medical College Hospital,+91-080-22065000,12.929678,77.618358,336,27,223,14,30,3,18,88.4,2026-07-05 14:29,Bangalore Urban,"Koramangala, Bengaluru, Karnataka",Private
+MS Ramaiah Memorial Hospital,+91-080-23606789,13.03331,77.56682,81,5,24,8,33,5,6,79.9,2026-07-05 14:29,Bangalore Urban,"MSR Nagar, Bengaluru, Karnataka",Private
+Sparsh Hospital Infantry Road,N/A,12.98333,77.594536,76,3,20,20,14,17,6,97.5,2026-07-05 14:29,Bangalore Urban,"Infantry Road, Bengaluru, Karnataka",Private
+Sparsh Hospital Yeshwanthpur,N/A,13.017694,77.555501,63,3,33,21,29,4,11,97.7,2026-07-05 14:29,Bangalore Urban,"Yeshwanthpur, Bengaluru, Karnataka",Private
+HCG Cancer Centre Bengaluru,N/A,12.966608,77.592509,236,32,51,5,36,14,18,84.0,2026-07-05 14:29,Bangalore Urban,"Sampangi Rama Nagar, Bengaluru, Karnataka",Private
+Sagar Hospitals Jayanagar,N/A,12.927891,77.599838,93,4,33,25,26,8,18,94.0,2026-07-05 14:29,Bangalore Urban,"Jayanagar, Bengaluru, Karnataka",Private
+Sagar Hospitals Banashankari,N/A,12.92782,77.556621,132,18,22,8,38,11,7,90.0,2026-07-05 14:29,Bangalore Urban,"Banashankari, Bengaluru, Karnataka",Private
+Rainbow Children's Hospital Bengaluru,N/A,12.955257,77.698416,63,10,39,22,10,8,14,96.3,2026-07-05 14:29,Bangalore Urban,"Marathahalli, Bengaluru, Karnataka",Private
+Motherhood Hospital Indiranagar,N/A,12.978441,77.637585,232,16,156,19,37,10,10,87.8,2026-07-05 14:29,Bangalore Urban,"Indiranagar, Bengaluru, Karnataka",Private
+Cloudnine Hospital Old Airport Road,N/A,12.959775,77.656913,149,9,124,14,19,6,18,80.3,2026-07-05 14:29,Bangalore Urban,"Old Airport Road, Bengaluru, Karnataka",Private
+Bangalore Baptist Hospital,N/A,13.035789,77.589498,64,2,37,17,21,6,14,83.0,2026-07-05 14:29,Bangalore Urban,"Bellary Road, Bengaluru, Karnataka",Private
+Mallya Hospital,N/A,12.96798,77.595074,228,25,40,9,11,7,18,75.7,2026-07-05 14:29,Bangalore Urban,"Vittal Mallya Road, Bengaluru, Karnataka",Private
+Vydehi Institute of Medical Sciences,N/A,12.995743,77.757949,154,17,20,17,46,11,5,94.2,2026-07-05 14:29,Bangalore Urban,"Whitefield, Bengaluru, Karnataka",Private
+East Point Hospital,N/A,13.052684,77.716977,111,14,45,17,16,13,13,72.5,2026-07-05 14:29,Bangalore Urban,"Virgo Nagar, Bengaluru, Karnataka",Private
+Apollo BGS Hospital Mysuru,N/A,12.27664,76.62911,252,31,122,25,10,5,8,98.8,2026-07-05 14:29,Mysuru,"Adichunchanagiri Road, Mysuru, Karnataka",Private
+JSS Hospital Mysuru,N/A,12.297588,76.654858,64,4,57,16,46,4,18,89.1,2026-07-05 14:29,Mysuru,"MG Road, Mysuru, Karnataka",Private
+Vikram Hospital Mysuru,N/A,12.303755,76.691372,229,11,160,19,13,0,3,93.2,2026-07-05 14:29,Mysuru,"Siddhartha Layout, Mysuru, Karnataka",Private
+Columbia Asia Hospital Mysuru,N/A,12.350047,76.660655,102,6,75,8,18,0,11,76.2,2026-07-05 14:29,Mysuru,"Mysuru, Karnataka",Private
+KMC Hospital Attavar Mangaluru,N/A,12.858859,74.848002,306,17,186,10,39,13,7,71.8,2026-07-05 14:29,Dakshina Kannada,"Attavar, Mangaluru, Karnataka",Private
+KMC Hospital Ambedkar Circle Mangaluru,N/A,12.858859,74.848002,231,31,189,20,38,13,7,85.4,2026-07-05 14:29,Dakshina Kannada,"Ambedkar Circle, Mangaluru, Karnataka",Private
+Father Muller Medical College Hospital Mangaluru,N/A,12.864648,74.860003,126,7,38,17,44,3,4,79.5,2026-07-05 14:29,Dakshina Kannada,"Kankanady, Mangaluru, Karnataka",Private
+Unity Hospital Mangaluru,N/A,12.87114,74.849112,315,35,304,17,11,17,4,77.2,2026-07-05 14:29,Dakshina Kannada,"Falnir, Mangaluru, Karnataka",Private
+Kasturba Hospital Manipal,N/A,13.35381,74.790093,191,3,45,18,33,17,3,92.0,2026-07-05 14:29,Udupi,"Manipal, Udupi, Karnataka",Private
+Suyog Hospital Hubli,N/A,15.351838,75.137985,82,9,40,21,37,19,9,90.1,2026-07-05 14:29,Dharwad,"Hubli, Karnataka",Private
+Vinayaka Hospital Hubli,N/A,15.351838,75.137985,281,34,264,18,20,16,11,96.8,2026-07-05 14:29,Dharwad,"Hubli, Karnataka",Private
+KLES Dr Prabhakar Kore Hospital Belagavi,N/A,15.885726,74.51844,153,16,55,15,12,12,17,79.2,2026-07-05 14:29,Belagavi,"Nehru Nagar, Belagavi, Karnataka",Private
+Manipal Hospital Malleshwaram,N/A,13.001128,77.563929,182,11,67,22,19,4,10,88.6,2026-07-05 14:31,Bangalore Urban,"Malleshwaram, Bengaluru, Karnataka",Private
+Manipal Hospital HAL Airport Road,N/A,12.959846,77.649214,145,6,29,19,18,9,3,82.5,2026-07-05 14:31,Bangalore Urban,"HAL Airport Road, Bengaluru, Karnataka",Private
+Kauvery Hospital Electronic City,N/A,12.855088,77.66316,57,6,29,4,21,14,16,97.5,2026-07-05 14:31,Bangalore Urban,"Electronic City, Bengaluru, Karnataka",Private
+Aster Whitefield Hospital,N/A,12.995743,77.757949,181,13,79,17,40,18,16,89.5,2026-07-05 14:31,Bangalore Urban,"Whitefield, Bengaluru, Karnataka",Private
+Narayana Multispeciality Hospital HSR Layout,N/A,12.908209,77.643513,270,42,100,22,12,11,11,90.0,2026-07-05 14:31,Bangalore Urban,"HSR Layout, Bengaluru, Karnataka",Private
+Cytecare Cancer Hospital,N/A,12.923994,77.65303,333,41,89,16,48,14,8,78.5,2026-07-05 14:31,Bangalore Urban,"Sarjapur Road, Bengaluru, Karnataka",Private
+Shanti Hospital and Research Centre,N/A,12.995743,77.757949,141,18,65,10,28,14,11,87.6,2026-07-05 14:31,Bangalore Urban,"Kadugodi, Bengaluru, Karnataka",Private
+Chinmaya Mission Hospital,N/A,12.978483,77.646222,252,10,167,17,40,7,10,95.7,2026-07-05 14:31,Bangalore Urban,"Indiranagar, Bengaluru, Karnataka",Private
+Sri Shankara Cancer Hospital,N/A,12.954262,77.570947,237,10,38,15,46,20,17,81.3,2026-07-05 14:31,Bangalore Urban,"Basavanagudi, Bengaluru, Karnataka",Private
+Trustwell Hospital Rajajinagar,N/A,13.000523,77.549617,267,4,77,6,36,14,11,74.6,2026-07-05 14:31,Bangalore Urban,"Rajajinagar, Bengaluru, Karnataka",Private
+HOSMAT Hospital,N/A,12.969112,77.613307,261,18,246,13,17,20,14,85.1,2026-07-05 14:31,Bangalore Urban,"Magrath Road, Bengaluru, Karnataka",Private
+Trinity Hospital and Heart Foundation,N/A,12.962467,77.638196,120,9,112,17,18,19,4,86.8,2026-07-05 14:31,Bangalore Urban,"Domlur, Bengaluru, Karnataka",Private
+People Tree Hospitals Tumkur Road,N/A,13.028727,77.539383,69,7,57,25,41,10,8,78.6,2026-07-05 14:31,Bangalore Urban,"Tumkur Road, Bengaluru, Karnataka",Private
+Narayana Institute of Cardiac Sciences Hubli,N/A,15.351838,75.137985,134,19,34,9,15,2,16,88.7,2026-07-05 14:31,Dharwad,"Hubli, Karnataka",Private
+KIMS Hospital Hubli,N/A,15.361448,75.132633,334,53,298,24,7,14,13,88.7,2026-07-05 14:31,Dharwad,"Vidyanagar, Hubli, Karnataka",Private
+Bapuji Hospital Davanagere,N/A,14.455262,75.917375,319,2,84,11,12,13,12,96.3,2026-07-05 14:31,Davanagere,"Davanagere, Karnataka",Private
+Suyog Hospital Belagavi,N/A,16.158785,74.888862,339,40,59,17,38,11,4,70.2,2026-07-05 14:31,Belagavi,"Belagavi, Karnataka",Private
+Siddaganga Hospital Tumakuru,N/A,13.339784,77.11319,221,11,147,19,39,16,18,76.5,2026-07-05 14:31,Tumakuru,"Tumakuru, Karnataka",Private
+Basappa Memorial Hospital Mysuru,N/A,12.320693,76.620407,156,11,28,14,37,5,7,77.5,2026-07-05 14:31,Mysuru,"Mysuru, Karnataka",Private
+Victoria Hospital,+91-080-26700435,12.953935,77.585143,107,5,65,9,19,4,6,89.6,2026-07-04 13:45,Bangalore Urban,"Fort, Bengaluru, Karnataka",Government
+Bowring and Lady Curzon Hospital,+91-080-25544444,12.985529,77.60545,329,16,246,3,6,2,9,76.7,2026-07-04 13:45,Bangalore Urban,"Shivajinagar, Bengaluru, Karnataka",Government
+Vani Vilas Hospital,+91-080-26704213,12.953935,77.585143,63,13,36,24,46,17,16,76.4,2026-07-04 13:45,Bangalore Urban,"Fort, Bengaluru, Karnataka",Government
+KC General Hospital,+91-080-23491753,13.002735,77.570325,192,5,70,24,32,10,11,74.5,2026-07-04 13:45,Bangalore Urban,"Malleshwaram, Bengaluru, Karnataka",Government
+Bangalore Medical College and Research Institute,+91-080-26701070,12.953935,77.585143,222,11,53,14,11,11,14,87.5,2026-07-04 13:45,Bangalore Urban,"Fort, Bengaluru, Karnataka",Government
+Jayadeva Institute of Cardiovascular Sciences,+91-080-22977777,12.929273,77.582423,72,16,59,19,12,12,5,86.0,2026-07-04 13:45,Bangalore Urban,"Jayanagar, Bengaluru, Karnataka",Government
+Kidwai Memorial Institute of Oncology,+91-080-26094000,12.93752,77.598541,235,41,79,24,9,1,10,92.4,2026-07-04 13:45,Bangalore Urban,"Hosur Road, Bengaluru, Karnataka",Government
+NIMHANS,+91-080-46110007,12.943168,77.596475,90,12,85,5,29,8,17,88.4,2026-07-04 13:45,Bangalore Urban,"Hosur Road, Bengaluru, Karnataka",Government
+Indira Gandhi Institute of Child Health,+91-080-22867744,12.985529,77.60545,236,15,124,13,18,8,5,87.7,2026-07-04 13:45,Bangalore Urban,"Shivajinagar, Bengaluru, Karnataka",Government
+Institute of Nephro Urology Bengaluru,+91-080-22868002,12.985529,77.60545,137,22,123,9,15,14,15,77.8,2026-07-04 13:45,Bangalore Urban,"Shivajinagar, Bengaluru, Karnataka",Government
+St Marthas Hospital Bengaluru,+91-080-22861803,12.973008,77.585602,335,33,196,3,19,1,13,81.6,2026-07-04 13:45,Bangalore Urban,"Nrupathunga Road, Bengaluru, Karnataka",Government
+ESI Hospital Rajajinagar,+91-080-23393102,12.990498,77.553092,83,11,66,24,25,6,18,81.5,2026-07-04 13:45,Bangalore Urban,"Rajajinagar, Bengaluru, Karnataka",Government
+ESI Hospital Indiranagar,+91-080-25278252,12.971302,77.636702,284,23,97,6,20,17,11,91.7,2026-07-04 13:45,Bangalore Urban,"Indiranagar, Bengaluru, Karnataka",Government
+ESIC Medical College Bengaluru,+91-080-28523000,13.000536,77.5497,269,62,179,14,28,7,7,84.8,2026-07-04 13:45,Bangalore Urban,"Rajajinagar, Bengaluru, Karnataka",Government
+Jayanagar General Hospital,+91-080-26561234,12.926103,77.592544,96,6,85,5,14,20,8,93.0,2026-07-04 13:45,Bangalore Urban,"Jayanagar, Bengaluru, Karnataka",Government
+Leprosy Hospital Bengaluru,+91-080-22201862,12.975653,77.555355,266,43,46,14,29,19,17,85.3,2026-07-04 13:45,Bangalore Urban,"Magadi Road, Bengaluru, Karnataka",Government
+District Hospital Bengaluru North,+91-080-28465001,13.022142,77.640337,333,6,88,23,39,8,13,73.2,2026-07-04 13:45,Bangalore Urban,"Kalyan Nagar, Bengaluru, Karnataka",Government
+District Hospital Bengaluru South,+91-080-26342001,12.909694,77.586607,272,25,146,2,21,16,8,84.7,2026-07-04 13:45,Bangalore Urban,"JP Nagar, Bengaluru, Karnataka",Government
+District Hospital Bengaluru East,+91-080-25368001,12.978618,77.64187,104,25,68,22,37,19,9,74.4,2026-07-04 13:45,Bangalore Urban,"Indiranagar, Bengaluru, Karnataka",Government
+CHC Yelahanka,+91-080-28561001,13.100698,77.596345,132,22,97,2,43,10,18,70.6,2026-07-04 13:45,Bangalore Urban,"Yelahanka, Bengaluru, Karnataka",Government
+CHC Krishnarajapuram,+91-080-25611001,13.007516,77.695935,235,58,108,9,8,7,5,72.5,2026-07-04 13:45,Bangalore Urban,"KR Puram, Bengaluru, Karnataka",Government
+CHC Attibele,+91-080-27841002,12.775125,77.770922,298,13,94,6,47,15,8,77.7,2026-07-04 13:45,Bangalore Urban,"Attibele, Bengaluru, Karnataka",Government
+District Hospital Devanahalli,+91-080-27681001,13.24835,77.713438,266,66,84,19,49,6,12,81.6,2026-07-04 13:45,Bangalore Rural,"Devanahalli, Karnataka",Government
+District Hospital Doddaballapura,+91-080-27671001,13.292958,77.543146,241,33,162,16,12,7,10,71.9,2026-07-04 13:45,Bangalore Rural,"Doddaballapura, Karnataka",Government
+District Hospital Hosakote,+91-080-27971001,13.459941,77.214878,60,14,47,9,42,7,3,72.1,2026-07-04 13:45,Bangalore Rural,"Hosakote, Karnataka",Government
+District Hospital Nelamangala,+91-080-27732001,13.097967,77.394559,80,12,34,3,26,2,10,78.1,2026-07-04 13:45,Bangalore Rural,"Nelamangala, Karnataka",Government
+CHC Anekal,+91-080-27841001,12.710315,77.688619,298,32,97,25,41,18,18,77.0,2026-07-04 13:45,Bangalore Rural,"Anekal, Karnataka",Government
+CHC Hoskote,+91-080-27971002,13.073014,77.792138,292,57,127,5,11,13,14,82.3,2026-07-04 13:45,Bangalore Rural,"Hoskote, Karnataka",Government
+CHC Kanakapura,+91-080-27532001,12.554856,77.419882,289,11,202,22,46,3,4,81.7,2026-07-04 13:45,Bangalore Rural,"Kanakapura, Karnataka",Government
+CHC Magadi,+91-080-27657001,12.956735,77.224228,223,11,93,8,17,17,17,74.1,2026-07-04 13:45,Bangalore Rural,"Magadi, Karnataka",Government
+K R Hospital Mysuru,+91-0821-2423001,12.313393,76.649727,143,13,89,9,9,14,6,71.5,2026-07-04 13:45,Mysuru,"Irwin Road, Mysuru, Karnataka",Government
+Cheluvamba Hospital Mysuru,+91-0821-2422890,12.313893,76.649012,326,6,77,9,15,13,18,84.0,2026-07-04 13:45,Mysuru,"Irwin Road, Mysuru, Karnataka",Government
+Mysore Medical College and Research Institute,+91-0821-2423001,12.314673,76.649496,255,62,45,7,29,0,15,77.7,2026-07-04 13:45,Mysuru,"Irwin Road, Mysuru, Karnataka",Government
+District Hospital Mysuru,+91-0821-2420001,12.349918,76.628059,282,41,138,24,40,15,7,75.5,2026-07-04 13:45,Mysuru,"Mysuru, Karnataka",Government
+ESI Hospital Mysuru,+91-0821-2412001,12.357989,76.610508,161,8,104,25,39,1,13,71.7,2026-07-04 13:45,Mysuru,"Hebbal, Mysuru, Karnataka",Government
+Taluk General Hospital Hunsur,+91-08222-252001,12.303509,76.29281,349,66,287,18,15,1,5,94.7,2026-07-04 13:45,Mysuru,"Hunsur, Mysuru, Karnataka",Government
+Taluk General Hospital Nanjangud,+91-08221-222001,12.122068,76.684341,85,7,73,9,30,3,10,86.8,2026-07-04 13:45,Mysuru,"Nanjangud, Mysuru, Karnataka",Government
+Taluk General Hospital T Narsipur,+91-08227-262001,12.211977,76.898135,70,14,35,15,47,18,13,97.1,2026-07-04 13:45,Mysuru,"T Narsipur, Mysuru, Karnataka",Government
+Taluk General Hospital Periyapatna,+91-08225-252001,12.337249,76.098801,154,25,60,10,30,4,12,83.3,2026-07-04 13:45,Mysuru,"Periyapatna, Mysuru, Karnataka",Government
+Taluk General Hospital H D Kote,+91-08228-232001,12.087726,76.331058,87,5,59,21,41,3,5,85.6,2026-07-04 13:45,Mysuru,"H D Kote, Mysuru, Karnataka",Government
+Taluk General Hospital K R Nagar,+91-08223-232001,12.440022,76.381061,309,38,97,13,9,7,14,78.3,2026-07-04 13:45,Mysuru,"K R Nagar, Mysuru, Karnataka",Government
+CHC Heggadadevankote,+91-08228-232002,12.000321,76.396815,274,43,186,22,38,0,12,97.0,2026-07-04 13:45,Mysuru,"Heggadadevankote, Mysuru, Karnataka",Government
+Mandya Institute of Medical Sciences,+91-08232-222001,12.527142,76.901084,103,9,63,5,11,17,7,77.9,2026-07-04 13:45,Mandya,"Mandya, Karnataka",Government
+District Hospital Mandya,+91-08232-222002,12.516658,76.89398,157,26,56,23,45,8,18,77.3,2026-07-04 13:45,Mandya,"Mandya, Karnataka",Government
+Taluk General Hospital Maddur,+91-08234-252001,12.584898,77.044868,76,6,70,15,22,1,3,79.7,2026-07-04 13:45,Mandya,"Maddur, Mandya, Karnataka",Government
+Taluk General Hospital Malavalli,+91-08233-272001,12.386407,77.058946,116,25,63,7,33,17,16,86.3,2026-07-04 13:45,Mandya,"Malavalli, Mandya, Karnataka",Government
+Taluk General Hospital Nagamangala,+91-08236-272001,12.819608,76.754219,107,7,49,19,7,11,7,82.5,2026-07-04 13:45,Mandya,"Nagamangala, Mandya, Karnataka",Government
+Taluk General Hospital Pandavapura,+91-08236-252001,12.501141,76.67315,71,9,53,3,27,6,10,89.3,2026-07-04 13:45,Mandya,"Pandavapura, Mandya, Karnataka",Government
+Taluk General Hospital Srirangapatna,+91-08236-252002,12.422644,76.684931,231,54,173,15,44,4,10,95.1,2026-07-04 13:45,Mandya,"Srirangapatna, Mandya, Karnataka",Government
+Hassan Institute of Medical Sciences,+91-08172-268011,13.004741,76.102372,177,22,70,24,11,12,4,94.9,2026-07-04 13:45,Hassan,"Hassan, Karnataka",Government
+District Hospital Hassan,+91-08172-262001,13.005176,76.103972,163,17,147,13,24,7,10,70.7,2026-07-04 13:45,Hassan,"Hassan, Karnataka",Government
+Taluk General Hospital Arsikere,+91-08174-252001,13.313782,76.253199,148,30,72,10,9,8,14,88.6,2026-07-04 13:45,Hassan,"Arsikere, Hassan, Karnataka",Government
+Taluk General Hospital Belur,+91-08177-252001,13.164567,75.863485,254,48,245,19,26,0,6,95.4,2026-07-04 13:45,Hassan,"Belur, Hassan, Karnataka",Government
+Taluk General Hospital Sakleshpur,+91-08173-252001,12.943435,75.786232,183,16,178,10,7,3,16,80.0,2026-07-04 13:45,Hassan,"Sakleshpur, Hassan, Karnataka",Government
+Taluk General Hospital Channarayapatna,+91-08176-252001,12.892458,76.393886,273,5,163,19,48,6,14,82.5,2026-07-04 13:45,Hassan,"Channarayapatna, Hassan, Karnataka",Government
+Taluk General Hospital Alur,+91-08172-262002,12.978832,75.993578,219,44,110,23,12,9,12,89.3,2026-07-04 13:45,Hassan,"Alur, Hassan, Karnataka",Government
+Kodagu Institute of Medical Sciences,+91-08272-225001,12.441902,75.740369,217,30,208,11,40,4,9,82.2,2026-07-04 13:45,Kodagu,"Madikeri, Kodagu, Karnataka",Government
+District Hospital Madikeri,+91-08272-225002,12.418767,75.742245,244,48,221,7,44,18,12,81.8,2026-07-04 13:45,Kodagu,"Madikeri, Kodagu, Karnataka",Government
+Taluk General Hospital Virajpet,+91-08274-252001,12.197271,75.803342,50,9,39,8,32,18,13,83.5,2026-07-04 13:45,Kodagu,"Virajpet, Kodagu, Karnataka",Government
+Taluk General Hospital Somwarpet,+91-08276-252001,12.597188,75.846687,276,32,160,17,15,2,12,84.9,2026-07-04 13:45,Kodagu,"Somwarpet, Kodagu, Karnataka",Government
+Chikkamagaluru Institute of Medical Sciences,+91-08262-222001,13.40587,75.638758,221,10,90,23,24,7,9,74.3,2026-07-04 13:45,Chikkamagaluru,"Chikkamagaluru, Karnataka",Government
+District Hospital Chikkamagaluru,+91-08262-220001,13.315619,75.775661,73,8,60,21,9,14,16,95.7,2026-07-04 13:45,Chikkamagaluru,"Chikkamagaluru, Karnataka",Government
+Taluk General Hospital Kadur,+91-08267-252001,13.550251,76.008702,344,29,226,17,30,7,7,89.0,2026-07-04 13:45,Chikkamagaluru,"Kadur, Chikkamagaluru, Karnataka",Government
+Taluk General Hospital Tarikere,+91-08261-252001,13.706231,75.818356,52,6,43,9,16,16,17,71.5,2026-07-04 13:45,Chikkamagaluru,"Tarikere, Chikkamagaluru, Karnataka",Government
+Taluk General Hospital Mudigere,+91-08263-252001,13.133334,75.641918,177,12,146,6,34,16,13,97.6,2026-07-04 13:45,Chikkamagaluru,"Mudigere, Chikkamagaluru, Karnataka",Government
+Taluk General Hospital Koppa,+91-08265-252001,13.533207,75.363399,276,69,139,19,33,5,18,83.1,2026-07-04 13:45,Chikkamagaluru,"Koppa, Chikkamagaluru, Karnataka",Government
+Taluk General Hospital Sringeri,+91-08265-262001,13.426172,75.255369,176,22,163,17,45,7,11,82.8,2026-07-04 13:45,Chikkamagaluru,"Sringeri, Chikkamagaluru, Karnataka",Government
+Taluk General Hospital Narasimharajapura,+91-08262-242001,13.610796,75.51173,196,20,99,12,25,17,5,74.0,2026-07-04 13:45,Chikkamagaluru,"Narasimharajapura, Chikkamagaluru, Karnataka",Government
+Shivamogga Institute of Medical Sciences,+91-08182-227777,13.932609,75.574978,168,29,69,24,18,2,16,81.8,2026-07-04 13:45,Shivamogga,"Shivamogga, Karnataka",Government
+McGann District Hospital Shivamogga,+91-08182-222001,13.932609,75.574978,327,64,242,3,18,13,15,96.2,2026-07-04 13:45,Shivamogga,"Shivamogga, Karnataka",Government
+Taluk General Hospital Bhadravathi,+91-08181-222001,13.850207,75.703786,349,7,324,14,35,0,14,78.7,2026-07-04 13:45,Shivamogga,"Bhadravathi, Shivamogga, Karnataka",Government
+Taluk General Hospital Thirthahalli,+91-08185-222001,13.690314,75.240754,249,59,243,15,39,17,10,84.2,2026-07-04 13:45,Shivamogga,"Thirthahalli, Shivamogga, Karnataka",Government
+Taluk General Hospital Hosanagara,+91-08183-256001,13.916789,75.065795,189,32,154,2,29,10,15,91.0,2026-07-04 13:45,Shivamogga,"Hosanagara, Shivamogga, Karnataka",Government
+Taluk General Hospital Sagar,+91-08183-222001,13.93732,75.557018,289,21,281,21,39,0,15,87.2,2026-07-04 13:45,Shivamogga,"Sagar, Shivamogga, Karnataka",Government
+Taluk General Hospital Shikaripura,+91-08187-222001,14.263966,75.35878,63,6,50,15,13,14,8,71.5,2026-07-04 13:45,Shivamogga,"Shikaripura, Shivamogga, Karnataka",Government
+Taluk General Hospital Sorab,+91-08184-252001,14.174819,75.029293,244,25,84,16,25,10,15,78.1,2026-07-04 13:45,Shivamogga,"Sorab, Shivamogga, Karnataka",Government
+JJM Medical College Hospital Davanagere,+91-08192-231001,14.255883,75.830342,265,21,243,4,35,0,4,99.0,2026-07-04 13:45,Davanagere,"Davanagere, Karnataka",Government
+Chigateri District Hospital Davanagere,+91-08192-231002,14.456983,75.915621,229,19,196,4,46,1,3,97.5,2026-07-04 13:45,Davanagere,"Davanagere, Karnataka",Government
+SS Institute of Medical Sciences Davanagere,+91-08192-208888,14.255883,75.830342,152,6,109,6,20,4,18,89.4,2026-07-04 13:45,Davanagere,"Davanagere, Karnataka",Government
+Taluk General Hospital Channagiri,+91-08195-222001,14.0252,75.925,338,32,268,24,21,11,8,87.6,2026-07-04 13:45,Davanagere,"Channagiri, Davanagere, Karnataka",Government
+Taluk General Hospital Honnali,+91-08193-222001,14.238978,75.645743,108,10,69,5,42,0,12,86.7,2026-07-04 13:45,Davanagere,"Honnali, Davanagere, Karnataka",Government
+Taluk General Hospital Jagalur,+91-08196-222001,14.469637,76.353824,242,30,213,8,9,18,10,73.0,2026-07-04 13:45,Davanagere,"Jagalur, Davanagere, Karnataka",Government
+Taluk General Hospital Harapanahalli,+91-08197-222001,14.78192,75.99012,204,48,183,5,41,1,14,85.4,2026-07-04 13:45,Davanagere,"Harapanahalli, Davanagere, Karnataka",Government
+Basaveshwara Medical College Chitradurga,+91-08194-235001,14.304917,76.529667,239,9,159,22,26,0,16,93.8,2026-07-04 13:45,Chitradurga,"Chitradurga, Karnataka",Government
+District Hospital Chitradurga,+91-08194-222001,14.220476,76.405533,104,18,76,22,34,4,16,75.1,2026-07-04 13:45,Chitradurga,"Chitradurga, Karnataka",Government
+Taluk General Hospital Challakere,+91-08195-252001,14.316406,76.650414,317,39,305,17,34,13,11,79.3,2026-07-04 13:45,Chitradurga,"Challakere, Chitradurga, Karnataka",Government
+Taluk General Hospital Holalkere,+91-08193-262001,14.042833,76.184488,175,10,101,16,20,14,15,79.8,2026-07-04 13:45,Chitradurga,"Holalkere, Chitradurga, Karnataka",Government
+Taluk General Hospital Hiriyur,+91-08193-252001,13.944324,76.616741,303,46,123,17,18,11,11,79.9,2026-07-04 13:45,Chitradurga,"Hiriyur, Chitradurga, Karnataka",Government
+Taluk General Hospital Molakalmuru,+91-08196-252001,14.717316,76.745457,191,40,32,18,17,2,10,90.9,2026-07-04 13:45,Chitradurga,"Molakalmuru, Chitradurga, Karnataka",Government
+Taluk General Hospital Hosadurga,+91-08194-252001,13.798776,76.283103,300,35,273,22,50,15,17,93.0,2026-07-04 13:45,Chitradurga,"Hosadurga, Chitradurga, Karnataka",Government
+Sri Siddhartha Medical College Tumakuru,+91-0816-2271999,13.348566,77.057591,97,14,44,14,49,7,12,89.3,2026-07-04 13:45,Tumakuru,"Tumakuru, Karnataka",Government
+District Hospital Tumakuru,+91-0816-2270601,13.340344,77.099369,238,35,171,18,27,13,13,80.2,2026-07-04 13:45,Tumakuru,"Tumakuru, Karnataka",Government
+Taluk General Hospital Tiptur,+91-08134-252001,13.258575,76.473767,282,39,108,10,19,3,9,79.2,2026-07-04 13:45,Tumakuru,"Tiptur, Tumakuru, Karnataka",Government
+Taluk General Hospital Gubbi,+91-0816-2570001,13.309574,76.94007,324,28,128,8,35,8,12,98.4,2026-07-04 13:45,Tumakuru,"Gubbi, Tumakuru, Karnataka",Government
+Taluk General Hospital Koratagere,+91-08136-252001,13.521542,77.235891,149,23,59,13,16,9,3,90.5,2026-07-04 13:45,Tumakuru,"Koratagere, Tumakuru, Karnataka",Government
+Taluk General Hospital Madhugiri,+91-08137-252001,13.660179,77.214088,114,13,35,3,40,9,7,88.5,2026-07-04 13:45,Tumakuru,"Madhugiri, Tumakuru, Karnataka",Government
+Taluk General Hospital Chikkanayakanahalli,+91-08138-252001,13.419077,76.620278,301,18,36,20,23,15,18,82.8,2026-07-04 13:45,Tumakuru,"Chikkanayakanahalli, Tumakuru, Karnataka",Government
+Taluk General Hospital Pavagada,+91-08139-252001,14.105449,77.275047,144,8,62,17,12,2,15,84.3,2026-07-04 13:45,Tumakuru,"Pavagada, Tumakuru, Karnataka",Government
+Taluk General Hospital Sira,+91-08138-262001,13.740947,76.905738,345,85,57,6,14,18,12,72.5,2026-07-04 13:45,Tumakuru,"Sira, Tumakuru, Karnataka",Government
+Taluk General Hospital Turuvekere,+91-0816-2270602,13.16272,76.668068,177,12,172,15,43,19,10,92.5,2026-07-04 13:45,Tumakuru,"Turuvekere, Tumakuru, Karnataka",Government
+District Hospital Ramanagara,+91-08027-270001,12.730123,77.287374,244,33,143,11,42,13,12,86.5,2026-07-04 13:45,Ramanagara,"Ramanagara, Karnataka",Government
+Taluk General Hospital Channapatna,+91-08027-252001,12.659373,77.203893,80,8,43,22,18,8,5,74.6,2026-07-04 13:45,Ramanagara,"Channapatna, Ramanagara, Karnataka",Government
+Taluk General Hospital Magadi,+91-08027-262001,12.956735,77.224228,138,22,39,7,5,13,17,90.0,2026-07-04 13:45,Ramanagara,"Magadi, Ramanagara, Karnataka",Government
+Taluk General Hospital Kanakapura,+91-08027-272001,12.545027,77.41991,290,42,46,9,23,9,17,72.1,2026-07-04 13:45,Ramanagara,"Kanakapura, Ramanagara, Karnataka",Government
+District Hospital Kolar,+91-08152-222001,13.129124,78.134261,169,21,80,15,12,17,10,88.8,2026-07-04 13:45,Kolar,"Kolar, Karnataka",Government
+Taluk General Hospital Bangarpet,+91-08153-222001,12.98822,78.181256,186,14,48,3,15,9,12,82.7,2026-07-04 13:45,Kolar,"Bangarpet, Kolar, Karnataka",Government
+Taluk General Hospital Malur,+91-08151-222001,13.00587,77.939365,289,43,209,14,22,16,18,82.7,2026-07-04 13:45,Kolar,"Malur, Kolar, Karnataka",Government
+Taluk General Hospital Mulbagal,+91-08154-222001,13.166048,78.392724,70,11,50,21,21,0,5,76.6,2026-07-04 13:45,Kolar,"Mulbagal, Kolar, Karnataka",Government
+Taluk General Hospital Robertsonpet,+91-08153-272001,12.95813,78.274367,139,20,96,22,33,8,8,98.9,2026-07-04 13:45,Kolar,"Robertsonpet, Kolar, Karnataka",Government
+District Hospital Chikkaballapur,+91-08156-222001,13.099376,77.388729,273,67,53,17,27,13,13,79.3,2026-07-04 13:45,Chikkaballapur,"Chikkaballapur, Karnataka",Government
+Taluk General Hospital Chintamani,+91-08158-222001,13.397926,78.053317,255,57,224,19,7,14,5,79.1,2026-07-04 13:45,Chikkaballapur,"Chintamani, Chikkaballapur, Karnataka",Government
+SDM Medical College Hospital Dharwad,+91-0836-2447382,15.37073,75.133287,172,15,109,19,5,17,16,72.7,2026-07-04 13:45,Dharwad,"Dharwad, Karnataka",Government
+District Hospital Dharwad,+91-0836-2440228,15.443657,75.008016,108,19,45,22,14,15,12,84.8,2026-07-04 13:45,Dharwad,"Dharwad, Karnataka",Government
+Karnataka Institute of Medical Sciences Hubli,+91-0836-2376001,15.361498,75.130941,189,31,153,17,20,14,7,81.1,2026-07-04 13:45,Dharwad,"Hubli, Dharwad, Karnataka",Government
+ESI Hospital Hubli,+91-0836-2272001,15.340232,75.126967,310,22,65,10,31,10,11,93.8,2026-07-04 13:45,Dharwad,"Hubli, Dharwad, Karnataka",Government
+Taluk General Hospital Navalgund,+91-0836-2252001,15.558221,75.353848,194,24,180,20,47,15,7,82.9,2026-07-04 13:45,Dharwad,"Navalgund, Dharwad, Karnataka",Government
+Taluk General Hospital Kalghatgi,+91-0836-2262001,15.18312,74.994564,297,49,200,19,39,12,17,97.1,2026-07-04 13:45,Dharwad,"Kalghatgi, Dharwad, Karnataka",Government
+Taluk General Hospital Kundgol,+91-0836-2242001,15.258883,75.250045,146,20,103,14,19,13,4,79.2,2026-07-04 13:45,Dharwad,"Kundgol, Dharwad, Karnataka",Government
+Taluk General Hospital Kalaghatagi,+91-0836-2262002,15.181892,74.971846,292,53,227,23,46,4,18,98.0,2026-07-04 13:45,Dharwad,"Kalaghatagi, Dharwad, Karnataka",Government
+S Nijalingappa Medical College Gadag,+91-08372-230001,15.416692,75.68158,114,21,105,12,11,14,6,85.3,2026-07-04 13:45,Gadag,"Gadag, Karnataka",Government
+District Hospital Gadag,+91-08372-230002,15.378703,75.601934,283,6,214,6,31,20,7,72.2,2026-07-04 13:45,Gadag,"Gadag, Karnataka",Government
+Taluk General Hospital Ron,+91-08373-252001,15.699694,75.734991,185,26,131,22,10,10,15,97.7,2026-07-04 13:45,Gadag,"Ron, Gadag, Karnataka",Government
+Taluk General Hospital Nargund,+91-08374-252001,15.722038,75.384625,299,74,48,21,9,7,12,98.9,2026-07-04 13:45,Gadag,"Nargund, Gadag, Karnataka",Government
+Taluk General Hospital Mundargi,+91-08375-252001,15.201367,75.884182,96,18,36,22,50,3,17,74.8,2026-07-04 13:45,Gadag,"Mundargi, Gadag, Karnataka",Government
+Taluk General Hospital Shirahatti,+91-08372-252001,15.234576,75.5792,203,6,41,12,8,9,14,80.9,2026-07-04 13:45,Gadag,"Shirahatti, Gadag, Karnataka",Government
+Taluk General Hospital Lakshmeshwar,+91-08373-262001,15.12373,75.474117,124,12,97,15,41,5,8,75.1,2026-07-04 13:45,Gadag,"Lakshmeshwar, Gadag, Karnataka",Government
+District Hospital Haveri,+91-08375-220001,14.785355,75.403168,245,44,204,9,36,18,7,76.7,2026-07-04 13:45,Haveri,"Haveri, Karnataka",Government
+Taluk General Hospital Ranebennur,+91-08373-222001,14.61658,75.634153,180,34,95,23,5,14,12,89.7,2026-07-04 13:45,Haveri,"Ranebennur, Haveri, Karnataka",Government
+Taluk General Hospital Hangal,+91-08374-222001,14.782177,75.135686,130,7,86,13,42,9,16,90.0,2026-07-04 13:45,Haveri,"Hangal, Haveri, Karnataka",Government
+Taluk General Hospital Savanur,+91-08375-222001,14.975024,75.339706,283,43,80,14,35,3,10,81.1,2026-07-04 13:45,Haveri,"Savanur, Haveri, Karnataka",Government
+Taluk General Hospital Shiggaon,+91-08374-232001,14.989901,75.223482,233,41,105,24,23,0,15,78.0,2026-07-04 13:45,Haveri,"Shiggaon, Haveri, Karnataka",Government
+Taluk General Hospital Byadgi,+91-08375-232001,14.699155,75.489622,339,11,284,11,19,19,14,76.4,2026-07-04 13:45,Haveri,"Byadgi, Haveri, Karnataka",Government
+Taluk General Hospital Hirekerur,+91-08376-222001,14.45624,75.39522,147,21,116,25,47,4,6,96.2,2026-07-04 13:45,Haveri,"Hirekerur, Haveri, Karnataka",Government
+District Hospital Karwar,+91-08382-222001,14.817509,74.129496,70,9,58,3,42,11,7,72.6,2026-07-04 13:45,Uttara Kannada,"Karwar, Uttara Kannada, Karnataka",Government
+District Hospital Sirsi,+91-08384-220001,14.619236,74.838861,201,25,136,7,17,4,14,85.4,2026-07-04 13:45,Uttara Kannada,"Sirsi, Uttara Kannada, Karnataka",Government
+Taluk General Hospital Kumta,+91-08386-222001,14.43724,74.421244,189,15,95,17,23,10,6,83.6,2026-07-04 13:45,Uttara Kannada,"Kumta, Uttara Kannada, Karnataka",Government
+Taluk General Hospital Ankola,+91-08388-222001,14.645359,74.331925,88,9,78,9,48,12,14,72.6,2026-07-04 13:45,Uttara Kannada,"Ankola, Uttara Kannada, Karnataka",Government
+Taluk General Hospital Bhatkal,+91-08385-222001,13.989357,74.56563,184,42,127,22,28,3,10,83.7,2026-07-04 13:45,Uttara Kannada,"Bhatkal, Uttara Kannada, Karnataka",Government
+Taluk General Hospital Yellapur,+91-08383-222001,14.963444,74.712079,337,46,143,22,9,20,17,96.4,2026-07-04 13:45,Uttara Kannada,"Yellapur, Uttara Kannada, Karnataka",Government
+Taluk General Hospital Siddapur,+91-08384-232001,14.563702,74.804616,204,46,134,5,13,1,4,78.8,2026-07-04 13:45,Uttara Kannada,"Siddapur, Uttara Kannada, Karnataka",Government
+Taluk General Hospital Haliyal,+91-08389-222001,15.329973,74.764667,302,19,79,9,39,4,15,83.2,2026-07-04 13:45,Uttara Kannada,"Haliyal, Uttara Kannada, Karnataka",Government
+Taluk General Hospital Dandeli,+91-08284-232001,15.249028,74.623604,326,58,109,15,46,3,18,87.9,2026-07-04 13:45,Uttara Kannada,"Dandeli, Uttara Kannada, Karnataka",Government
+Taluk General Hospital Joida,+91-08382-282001,15.164551,74.485067,193,7,124,8,33,14,10,94.8,2026-07-04 13:45,Uttara Kannada,"Joida, Uttara Kannada, Karnataka",Government
+Taluk General Hospital Mundgod,+91-08283-262001,14.971526,75.041308,100,16,75,3,30,8,9,98.1,2026-07-04 13:45,Uttara Kannada,"Mundgod, Uttara Kannada, Karnataka",Government
+Wenlock District Hospital Mangaluru,+91-0824-2444255,12.86981,74.843008,282,16,199,8,46,20,3,71.5,2026-07-04 13:45,Dakshina Kannada,"Mangaluru, Karnataka",Government
+District Hospital Puttur,+91-08251-232001,12.758473,75.200597,220,20,62,20,18,2,9,87.0,2026-07-04 13:45,Dakshina Kannada,"Puttur, Dakshina Kannada, Karnataka",Government
+Taluk General Hospital Sullia,+91-08257-232001,12.557664,75.390758,169,26,67,21,5,8,7,98.6,2026-07-04 13:45,Dakshina Kannada,"Sullia, Dakshina Kannada, Karnataka",Government
+Taluk General Hospital Bantwal,+91-08255-232001,12.894021,75.041558,326,37,119,5,47,0,7,70.4,2026-07-04 13:45,Dakshina Kannada,"Bantwal, Dakshina Kannada, Karnataka",Government
+Taluk General Hospital Belthangady,+91-08256-232001,12.985127,75.272695,171,42,112,2,16,8,4,73.7,2026-07-04 13:45,Dakshina Kannada,"Belthangady, Dakshina Kannada, Karnataka",Government
+Taluk General Hospital Moodabidri,+91-0824-2472001,13.069922,74.997747,265,38,59,25,9,15,17,92.6,2026-07-04 13:45,Dakshina Kannada,"Moodabidri, Dakshina Kannada, Karnataka",Government
+District Hospital Udupi,+91-0820-2520001,13.334017,74.742304,312,18,261,18,19,19,4,91.1,2026-07-04 13:45,Udupi,"Udupi, Karnataka",Government
+Taluk General Hospital Kundapura,+91-08254-232001,13.613374,74.728686,316,43,264,22,6,1,18,94.6,2026-07-04 13:45,Udupi,"Kundapura, Udupi, Karnataka",Government
+Taluk General Hospital Karkala,+91-08258-232001,13.214541,74.995186,268,48,57,17,50,14,5,96.1,2026-07-04 13:45,Udupi,"Karkala, Udupi, Karnataka",Government
+Taluk General Hospital Brahmavar,+91-0820-2572001,13.437535,74.745397,214,43,67,4,13,8,13,81.0,2026-07-04 13:45,Udupi,"Brahmavar, Udupi, Karnataka",Government
+Taluk General Hospital Hebri,+91-0820-2562001,13.459429,74.991552,321,42,262,18,43,13,6,93.0,2026-07-04 13:45,Udupi,"Hebri, Udupi, Karnataka",Government
+Taluk General Hospital Byndoor,+91-08254-262001,13.8718,74.632716,108,25,100,25,18,13,17,95.8,2026-07-04 13:45,Udupi,"Byndoor, Udupi, Karnataka",Government
+Belagavi Institute of Medical Sciences,+91-0831-2456001,16.158785,74.888862,261,26,241,16,30,13,6,79.1,2026-07-04 13:45,Belagavi,"Belagavi, Karnataka",Government
+District Hospital Belagavi,+91-0831-2407777,15.868517,74.510307,210,47,95,13,14,15,5,72.6,2026-07-04 13:45,Belagavi,"Belagavi, Karnataka",Government
+ESI Hospital Belagavi,+91-0831-2421001,15.872107,74.526872,93,7,57,5,28,4,4,87.0,2026-07-04 13:45,Belagavi,"Belagavi, Karnataka",Government
+Taluk General Hospital Gokak,+91-08332-222001,16.169303,74.822434,337,76,198,23,12,13,14,95.3,2026-07-04 13:45,Belagavi,"Gokak, Belagavi, Karnataka",Government
+Taluk General Hospital Chikkodi,+91-08338-222001,16.426528,74.586132,266,60,214,3,23,19,12,80.2,2026-07-04 13:45,Belagavi,"Chikkodi, Belagavi, Karnataka",Government
+Taluk General Hospital Athani,+91-08339-222001,16.727002,75.063143,345,69,138,6,47,15,10,94.6,2026-07-04 13:45,Belagavi,"Athani, Belagavi, Karnataka",Government
+Taluk General Hospital Raibag,+91-08336-222001,16.491617,74.774134,229,40,124,5,22,18,10,93.4,2026-07-04 13:45,Belagavi,"Raibag, Belagavi, Karnataka",Government
+Taluk General Hospital Bailhongal,+91-0831-2482001,15.816422,74.856869,337,84,315,2,43,8,3,75.2,2026-07-04 13:45,Belagavi,"Bailhongal, Belagavi, Karnataka",Government
+Taluk General Hospital Ramdurg,+91-08331-222001,15.944955,75.29678,208,26,119,2,16,4,15,72.0,2026-07-04 13:45,Belagavi,"Ramdurg, Belagavi, Karnataka",Government
+Taluk General Hospital Khanapur,+91-08333-222001,15.638784,74.506102,65,6,53,18,18,12,16,83.2,2026-07-04 13:45,Belagavi,"Khanapur, Belagavi, Karnataka",Government
+Taluk General Hospital Hukkeri,+91-08337-222001,16.230857,74.602977,130,16,69,25,25,18,5,95.6,2026-07-04 13:45,Belagavi,"Hukkeri, Belagavi, Karnataka",Government
+Taluk General Hospital Savadatti,+91-08333-232001,15.767182,75.117483,129,10,109,3,48,2,11,82.9,2026-07-04 13:45,Belagavi,"Savadatti, Belagavi, Karnataka",Government
+S Nijalingappa Medical College Bagalkot,+91-08354-235001,16.166062,75.672718,108,16,85,5,23,18,18,85.3,2026-07-04 13:45,Bagalkot,"Bagalkot, Karnataka",Government
+District Hospital Bagalkot,+91-08354-220001,16.165376,75.660918,207,7,86,14,43,1,3,75.9,2026-07-04 13:45,Bagalkot,"Bagalkot, Karnataka",Government
+Taluk General Hospital Mudhol,+91-08351-222001,16.334021,75.286508,158,13,127,10,23,10,6,70.2,2026-07-04 13:45,Bagalkot,"Mudhol, Bagalkot, Karnataka",Government
+Taluk General Hospital Jamkhandi,+91-08352-222001,16.506464,75.293218,270,16,63,14,39,7,14,72.1,2026-07-04 13:45,Bagalkot,"Jamkhandi, Bagalkot, Karnataka",Government
+Taluk General Hospital Badami,+91-08357-222001,15.921668,75.677894,263,23,59,14,6,10,8,93.2,2026-07-04 13:45,Bagalkot,"Badami, Bagalkot, Karnataka",Government
+Taluk General Hospital Hungund,+91-08353-222001,16.06689,76.059741,285,51,52,15,11,7,16,87.1,2026-07-04 13:45,Bagalkot,"Hungund, Bagalkot, Karnataka",Government
+Taluk General Hospital Ilkal,+91-08351-272001,15.950577,76.109555,318,15,232,11,26,7,13,92.6,2026-07-04 13:45,Bagalkot,"Ilkal, Bagalkot, Karnataka",Government
+BLDEU Shri BM Patil Medical College Vijayapura,+91-08352-260010,16.814415,75.893386,228,27,216,22,14,7,6,74.2,2026-07-04 13:45,Vijayapura,"Vijayapura, Karnataka",Government
+District Hospital Vijayapura,+91-08352-250001,16.825402,75.69243,151,16,107,6,46,2,8,97.6,2026-07-04 13:45,Vijayapura,"Vijayapura, Karnataka",Government
+Taluk General Hospital Indi,+91-08358-222001,17.17446,75.955376,211,14,142,4,35,14,12,93.1,2026-07-04 13:45,Vijayapura,"Indi, Vijayapura, Karnataka",Government
+Taluk General Hospital Muddebihal,+91-08353-262001,16.25538,76.162412,78,10,62,4,24,14,17,71.1,2026-07-04 13:45,Vijayapura,"Muddebihal, Vijayapura, Karnataka",Government
+Taluk General Hospital Basavana Bagewadi,+91-08359-232001,16.480299,75.828287,238,58,103,4,46,2,15,83.4,2026-07-04 13:45,Vijayapura,"Basavana Bagewadi, Vijayapura, Karnataka",Government
+Bidar Institute of Medical Sciences,+91-08482-226001,17.919135,77.515793,306,24,61,16,11,10,5,84.6,2026-07-04 13:45,Bidar,"Bidar, Karnataka",Government
+District Hospital Bidar,+91-08482-225001,17.917788,77.514672,138,6,61,24,33,14,8,80.6,2026-07-04 13:45,Bidar,"Bidar, Karnataka",Government
+Taluk General Hospital Aurad,+91-08481-222001,18.250166,77.406739,194,29,134,12,48,19,4,92.9,2026-07-04 13:45,Bidar,"Aurad, Bidar, Karnataka",Government
+Taluk General Hospital Bhalki,+91-08484-222001,18.000067,77.202733,221,9,114,5,40,12,12,77.3,2026-07-04 13:45,Bidar,"Bhalki, Bidar, Karnataka",Government
+Taluk General Hospital Humnabad,+91-08483-222001,17.733241,77.217889,126,15,40,20,47,4,14,79.0,2026-07-04 13:45,Bidar,"Humnabad, Bidar, Karnataka",Government
+Taluk General Hospital Basavakalyan,+91-08481-232001,17.869767,76.950953,250,13,182,24,10,9,15,88.7,2026-07-04 13:45,Bidar,"Basavakalyan, Bidar, Karnataka",Government
+Taluk General Hospital Kamalapur,+91-08482-262001,17.583692,76.98185,218,13,201,24,48,16,5,88.7,2026-07-04 13:45,Bidar,"Kamalapur, Bidar, Karnataka",Government
+Gulbarga Institute of Medical Sciences,+91-08472-278001,17.240896,76.769744,266,37,122,2,28,9,8,97.6,2026-07-04 13:45,Kalaburagi,"Kalaburagi, Karnataka",Government
+ESIC Hospital Kalaburagi,+91-08472-263144,17.321263,76.871739,224,54,154,8,19,4,7,72.2,2026-07-04 13:45,Kalaburagi,"Kalaburagi, Karnataka",Government
+District Hospital Kalaburagi,+91-08472-261001,17.328193,76.842996,101,21,34,23,26,19,7,87.3,2026-07-04 13:45,Kalaburagi,"Kalaburagi, Karnataka",Government
+Basaveshwar Teaching Hospital Kalaburagi,+91-08472-265200,17.240896,76.769744,128,10,53,24,44,5,17,71.3,2026-07-04 13:45,Kalaburagi,"Kalaburagi, Karnataka",Government
+Taluk General Hospital Chincholi,+91-08474-222001,17.465199,77.418967,152,13,141,10,8,20,18,95.3,2026-07-04 13:45,Kalaburagi,"Chincholi, Kalaburagi, Karnataka",Government
+Taluk General Hospital Jewargi,+91-08473-232001,17.012195,76.775235,333,18,294,5,23,2,8,77.9,2026-07-04 13:45,Kalaburagi,"Jewargi, Kalaburagi, Karnataka",Government
+Taluk General Hospital Afzalpur,+91-08472-292001,17.200576,76.360578,312,23,253,4,19,14,14,97.0,2026-07-04 13:45,Kalaburagi,"Afzalpur, Kalaburagi, Karnataka",Government
+District Hospital Yadgir,+91-08473-252001,16.780902,77.102826,262,8,131,18,28,7,15,98.8,2026-07-04 13:45,Yadgir,"Yadgir, Karnataka",Government
+Taluk General Hospital Shorapur Yadgir,+91-08441-242001,16.547695,76.737958,241,19,37,12,11,20,13,93.0,2026-07-04 13:45,Yadgir,"Shorapur, Yadgir, Karnataka",Government
+Taluk General Hospital Wadagera,+91-08473-262001,16.585157,77.037325,120,6,66,17,49,4,18,83.0,2026-07-04 13:45,Yadgir,"Wadagera, Yadgir, Karnataka",Government
+Taluk General Hospital Gurmatkal Yadgir,+91-08473-272001,16.867969,77.392933,52,6,30,10,18,4,16,73.2,2026-07-04 13:45,Yadgir,"Gurmatkal, Yadgir, Karnataka",Government
+Raichur Institute of Medical Sciences,+91-08532-236001,16.232867,77.362382,197,20,107,5,8,7,16,88.5,2026-07-04 13:45,Raichur,"Raichur, Karnataka",Government
+District Hospital Raichur,+91-08532-220001,16.780902,77.102826,284,13,58,17,43,17,3,88.3,2026-07-04 13:45,Raichur,"Raichur, Karnataka",Government
+Taluk General Hospital Manvi,+91-08534-222001,15.996748,77.048118,344,35,103,11,32,0,14,77.0,2026-07-04 13:45,Raichur,"Manvi, Raichur, Karnataka",Government
+Taluk General Hospital Sindhanur,+91-08537-222001,15.768558,76.754993,263,16,200,23,10,16,14,72.0,2026-07-04 13:45,Raichur,"Sindhanur, Raichur, Karnataka",Government
+Taluk General Hospital Devadurga,+91-08535-222001,16.417574,76.932022,319,74,289,18,40,0,15,95.3,2026-07-04 13:45,Raichur,"Devadurga, Raichur, Karnataka",Government
+Taluk General Hospital Lingasugur,+91-08533-222001,16.1563,76.5242,72,15,54,13,21,0,14,92.9,2026-07-04 13:45,Raichur,"Lingasugur, Raichur, Karnataka",Government
+Taluk General Hospital Mudgal,+91-08532-282001,16.01439,76.446449,226,20,217,23,45,3,13,73.9,2026-07-04 13:45,Raichur,"Mudgal, Raichur, Karnataka",Government
+District Hospital Koppal,+91-08539-220001,15.574824,76.311849,230,39,116,22,16,14,18,88.3,2026-07-04 13:45,Koppal,"Koppal, Karnataka",Government
+Taluk General Hospital Gangavathi,+91-08533-232001,15.430887,76.531972,119,7,88,3,23,6,4,92.9,2026-07-04 13:45,Koppal,"Gangavathi, Koppal, Karnataka",Government
+Taluk General Hospital Yelburga,+91-08539-232001,15.615251,76.012779,71,10,49,18,30,17,18,77.3,2026-07-04 13:45,Koppal,"Yelburga, Koppal, Karnataka",Government
+Taluk General Hospital Kustagi,+91-08539-242001,15.757158,76.190682,147,23,75,3,46,10,11,73.6,2026-07-04 13:45,Koppal,"Kustagi, Koppal, Karnataka",Government
+Taluk General Hospital Kuknoor,+91-08539-252001,15.490275,75.993493,238,32,132,25,33,12,13,98.2,2026-07-04 13:45,Koppal,"Kuknoor, Koppal, Karnataka",Government
+Vijayanagara Institute of Medical Sciences Ballari,+91-08392-275101,15.154925,76.895544,304,68,218,18,22,2,16,72.3,2026-07-04 13:45,Ballari,"Ballari, Karnataka",Government
+District Hospital Ballari,+91-08392-271001,15.145024,76.934674,142,22,67,12,11,2,13,89.2,2026-07-04 13:45,Ballari,"Ballari, Karnataka",Government
+Taluk General Hospital Sandur,+91-08395-222001,15.083275,76.543411,206,33,184,24,32,5,17,80.2,2026-07-04 13:45,Ballari,"Sandur, Ballari, Karnataka",Government
+Taluk General Hospital Siruguppa,+91-08396-222001,15.634557,76.893741,257,28,161,25,48,5,3,74.1,2026-07-04 13:45,Ballari,"Siruguppa, Ballari, Karnataka",Government
+Taluk General Hospital Hosapete,+91-08394-222001,15.14179,76.91921,274,9,62,4,20,20,14,80.5,2026-07-04 13:45,Ballari,"Hosapete, Ballari, Karnataka",Government
+Taluk General Hospital Kudligi,+91-08398-222001,14.933353,76.410162,340,9,108,23,33,11,14,82.9,2026-07-04 13:45,Ballari,"Kudligi, Ballari, Karnataka",Government
+Minto Ophthalmic Hospital,N/A,12.957758,77.566534,281,64,145,18,42,6,8,93.3,2026-07-05 14:31,Bangalore Urban,"Chamarajpet, Bengaluru, Karnataka",Government
+Rajiv Gandhi Institute of Chest Diseases,N/A,12.894381,77.636524,293,28,78,16,24,4,5,85.6,2026-07-05 14:31,Bangalore Urban,"Hosur Road, Bengaluru, Karnataka",Government
+Trauma Care Centre Victoria Hospital,N/A,12.953935,77.585143,71,14,55,16,46,19,8,88.1,2026-07-05 14:31,Bangalore Urban,"Fort, Bengaluru, Karnataka",Government
+Sanjay Gandhi Accident Hospital Bengaluru,N/A,12.929593,77.581181,320,13,60,3,17,7,3,92.6,2026-07-05 14:31,Bangalore Urban,"Byrasandra, Bengaluru, Karnataka",Government
+Taluk General Hospital Mysuru Rural,N/A,12.315862,76.624098,217,33,181,8,38,7,12,84.5,2026-07-05 14:31,Mysuru,"Mysuru Taluk, Mysuru, Karnataka",Government
+Taluk General Hospital Hassan Rural,N/A,12.984806,76.106707,93,19,71,10,31,17,5,90.5,2026-07-05 14:31,Hassan,"Hassan Taluk, Hassan, Karnataka",Government
+Taluk General Hospital Tumakuru Rural,N/A,13.462221,77.050243,211,19,161,11,6,2,6,81.6,2026-07-05 14:31,Tumakuru,"Tumakuru Taluk, Tumakuru, Karnataka",Government
+CHC Bommanahalli,N/A,12.903458,77.623003,198,29,47,2,48,0,9,76.1,2026-07-05 14:31,Bangalore Urban,"Bommanahalli, Bengaluru, Karnataka",Government
+CHC Byatarayanapura,N/A,13.068322,77.591006,76,12,54,24,30,13,5,86.4,2026-07-05 14:31,Bangalore Urban,"Byatarayanapura, Bengaluru, Karnataka",Government
+District Hospital Vijayanagara,N/A,15.266493,76.38723,151,22,73,4,24,10,3,98.0,2026-07-05 14:31,Vijayanagara,"Hosapete, Vijayanagara, Karnataka",Government
+District Hospital Chamarajanagar,N/A,11.926564,76.941437,110,9,61,24,11,0,4,83.5,2026-07-05 14:31,Chamarajanagar,"Chamarajanagar, Karnataka",Government
+Taluk General Hospital Gundlupet,N/A,11.808496,76.691614,299,27,126,16,37,6,7,82.2,2026-07-05 14:31,Chamarajanagar,"Gundlupet, Chamarajanagar, Karnataka",Government
+Taluk General Hospital Kollegal,N/A,12.156097,77.107173,246,12,131,15,18,0,11,95.1,2026-07-05 14:31,Chamarajanagar,"Kollegal, Chamarajanagar, Karnataka",Government
+Taluk General Hospital Hanur,N/A,12.087032,77.301797,205,6,83,7,30,19,6,71.2,2026-07-05 14:31,Chamarajanagar,"Hanur, Chamarajanagar, Karnataka",Government
+Taluk General Hospital Nippani,N/A,16.40204,74.384237,124,11,86,10,5,19,13,94.1,2026-07-05 14:31,Belagavi,"Nippani, Belagavi, Karnataka",Government
+Taluk General Hospital Kagwad,N/A,16.696079,74.718722,247,9,49,4,18,18,10,70.4,2026-07-05 14:31,Belagavi,"Kagwad, Belagavi, Karnataka",Government
+Taluk General Hospital Mangaluru Rural,N/A,12.938237,74.877365,238,28,189,16,13,18,18,94.1,2026-07-05 14:31,Dakshina Kannada,"Mangaluru Taluk, Dakshina Kannada, Karnataka",Government
+Raksha Hospital,N/A,0.0,0.0,12,5,3,3,4,2,5,80.0,2026-07-05 22:11,,,

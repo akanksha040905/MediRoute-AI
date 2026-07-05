@@ -1,0 +1,3271 @@
+{
+  "jayanagar general hospital": {
+    "status": "geocoded",
+    "latitude": 12.926103,
+    "longitude": 77.592544,
+    "matched_query": "Jayanagar General Hospital, Jayanagar, Bengaluru, Bangalore Urban District, Karnataka, India",
+    "display_name": "Jayanagar General Hospital, 26th Main Road, Jayanagar 4T Block, Tilak Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 570014, India"
+  },
+  "k.c. general hospital": {
+    "status": "geocoded",
+    "latitude": 12.994579,
+    "longitude": 77.570056,
+    "matched_query": "K.C. General Hospital, Malleshwaram, Bengaluru, Bangalore Urban District, Karnataka, India",
+    "display_name": "K C General Hospital, 4th Main Road, Valluvarpuram, Dattatreya Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India"
+  },
+  "district hospital, chitradurga": {
+    "status": "geocoded",
+    "latitude": 14.220476,
+    "longitude": 76.405533,
+    "matched_query": "District Hospital, Chitradurga, Chitradurga, Chitradurga District, Karnataka, India",
+    "display_name": "District Hospital, Chitradurga, SH48, Chitradurga, Chitradurga taluku, Chitradurga, Karnataka, 577436, India"
+  },
+  "district hospital, davanagere": {
+    "status": "geocoded",
+    "latitude": 14.456983,
+    "longitude": 75.915621,
+    "matched_query": "District Hospital, Davanagere, Davanagere, Davanagere District, Karnataka, India",
+    "display_name": "Chigateri Government District Hospital, Dental College Road, K.T. Jambanna Nagara, Davanagere, Davanagere Taluku, Davanagere, Karnataka, 577004, India"
+  },
+  "district hospital, shimoga": {
+    "status": "geocoded",
+    "latitude": 13.932453,
+    "longitude": 75.567589,
+    "matched_query": "District Hospital, Shimoga, Shivamogga, Shimoga District, Karnataka, India",
+    "display_name": "Shimoga Institute Of Medical Sciences District hospital, Savarline Road, Durgigudi, Shivamogga, Shivamogga taluk, Shimoga, Karnataka, 577201, India"
+  },
+  "district hospital, tumkur": {
+    "status": "geocoded",
+    "latitude": 13.340344,
+    "longitude": 77.099369,
+    "matched_query": "District Hospital, Tumkur, Tumakuru, Tumkur District, Karnataka, India",
+    "display_name": "District Hospital Tumakuru, Bangalore Honnavar Road, Tumakuru, Tumkur taluk, Tumakuru, Karnataka, 572101, India"
+  },
+  "district hospital, bagalkote": {
+    "status": "geocoded",
+    "latitude": 16.165376,
+    "longitude": 75.660918,
+    "matched_query": "District Hospital, Bagalkote, Bagalkote, Bagalkote District, Karnataka, India",
+    "display_name": "District Hospital, Bahanpur - Gadankeri Highway, Vidyagiri, Bagalkote, Bagalakote taluk, Bagalkote, Karnataka, 587301, India"
+  },
+  "district hospital, belgaum": {
+    "status": "geocoded",
+    "latitude": 15.868517,
+    "longitude": 74.510307,
+    "matched_query": "District Hospital, Belgaum, Belagavi, Belgaum District, Karnataka, India",
+    "display_name": "Civil District Hospiltal, SH20, Khade Bazar, Belagavi, Belagavi taluku, Belagavi, Karnataka, 590001, India"
+  },
+  "district hospital, bijapur": {
+    "status": "geocoded",
+    "latitude": 16.825402,
+    "longitude": 75.69243,
+    "matched_query": "District Hospital, Bijapur, Vijayapura, Bijapur District, Karnataka, India",
+    "display_name": "District Hospital, Ring Road, Ibrahimpura, Vijayapura, Bijapur Taluk, Vijayapura, Karnataka, 586101, India"
+  },
+  "district hospital, dharwad": {
+    "status": "geocoded",
+    "latitude": 15.464534,
+    "longitude": 75.010629,
+    "matched_query": "District Hospital, Dharwad, Dharwad, Dharwad District, Karnataka, India",
+    "display_name": "District Government Hospital Dharwad, SH1, Kamalapura, Dharwad, Dharawada taluku, Dharwad, Karnataka, 580008, India"
+  },
+  "district hospital, gadag": {
+    "status": "geocoded",
+    "latitude": 15.378703,
+    "longitude": 75.601934,
+    "matched_query": "District Hospital, Gadag, Gadag, Gadag District, Karnataka, India",
+    "display_name": "Gadag Institute of Medical Sciences & District Hospital Blood Bank, SH6, Malasamudra, Gadag taluk, Gadag, Karnataka, 582103, India"
+  },
+  "district hospital, haveri": {
+    "status": "geocoded",
+    "latitude": 14.785355,
+    "longitude": 75.403168,
+    "matched_query": "District Hospital, Haveri, Haveri, Haveri District, Karnataka, India",
+    "display_name": "Haveri District Hospital, SH62, Haveri, Haveri taluku, Haveri, Karnataka, 581110, India"
+  },
+  "district hospital, karwar": {
+    "status": "geocoded",
+    "latitude": 14.817509,
+    "longitude": 74.129496,
+    "matched_query": "District Hospital, Karwar, Karwar, Uttara Kannada District, Karnataka, India",
+    "display_name": "Karwar District Hospital, Civil Hospital Road, Karnataka Housing Board Colony, Karwar, Karwar taluk, Uttara Kannada, Karnataka, 581301, India"
+  },
+  "district hospital, bidar": {
+    "status": "geocoded",
+    "latitude": 17.917788,
+    "longitude": 77.514672,
+    "matched_query": "District Hospital, Bidar, Bidar, Bidar District, Karnataka, India",
+    "display_name": "The District Surgeon District Hospital Blood Bank, Madival Circle road, Mamanakeri, Bidar, Bidar taluku, Bidar, Karnataka, 585401, India"
+  },
+  "district hospital, gulbarga": {
+    "status": "geocoded",
+    "latitude": 17.328193,
+    "longitude": 76.842996,
+    "matched_query": "District Hospital, Gulbarga, Kalaburagi, Gulbarga District, Karnataka, India",
+    "display_name": "Gulbarga District Hospital, Sedam Road, Rajapura, Kalaburagi, Kalaburagi taluku, Kalaburagi, Karnataka, 585102, India"
+  },
+  "district hospital, koppal": {
+    "status": "geocoded",
+    "latitude": 15.348414,
+    "longitude": 76.154742,
+    "matched_query": "Koppal, Koppal District, Karnataka, India",
+    "display_name": "Koppala, Koppala taluku, Koppal, Karnataka, 583231, India"
+  },
+  "district hospital, chamarajanagar": {
+    "status": "geocoded",
+    "latitude": 11.926564,
+    "longitude": 76.941437,
+    "matched_query": "District Hospital, Chamarajanagar, Chamarajanagar, Chamarajanagar District, Karnataka, India",
+    "display_name": "District Hospital Blood Bank Chamarajanagar, BR Hills Road, Chamarajanagara, Chamarajanagara taluk, Chamarajanagar, Karnataka, 571313, India"
+  },
+  "district hospital, chikmagalur": {
+    "status": "geocoded",
+    "latitude": 13.315619,
+    "longitude": 75.775661,
+    "matched_query": "District Hospital, Chikmagalur, Chikmagalur, Chikmagalur District, Karnataka, India",
+    "display_name": "District Hospital, Chikmagalur, Beluru Road, Hosamane Badavane, Chikkamagaluru, Chikkamagaluru taluku, Chikkamagaluru, Karnataka, 577142, India"
+  },
+  "district hospital, hassan": {
+    "status": "geocoded",
+    "latitude": 13.005176,
+    "longitude": 76.103972,
+    "matched_query": "District Hospital, Hassan, Hassan, Hassan District, Karnataka, India",
+    "display_name": "District Hospital, Racecourse Road, Shareef Colony, Ameer Mohalla, Hassan, Hasana taluk, Hassan, Karnataka, 573201, India"
+  },
+  "district hospital, madikeri": {
+    "status": "geocoded",
+    "latitude": 12.418767,
+    "longitude": 75.742245,
+    "matched_query": "District Hospital, Madikeri, Madikeri, Kodagu District, Karnataka, India",
+    "display_name": "Madikeri District Hospital, Mani - Mysore Road, Madikeri, Madikeri taluku, Kodagu, Karnataka, 571201, India"
+  },
+  "district hospital, mandya": {
+    "status": "geocoded",
+    "latitude": 12.516658,
+    "longitude": 76.89398,
+    "matched_query": "District Hospital, Mandya, Mandya, Mandya District, Karnataka, India",
+    "display_name": "Government District Ayurveda Hospital, ಹೊಸಹಳ್ಳಿ ರಸ್ತೆ, MIMS doctors quarters, Mandya, Mandya taluk, Mandya, Karnataka, 571401, India"
+  },
+  "district hospital, udupi": {
+    "status": "geocoded",
+    "latitude": 13.334017,
+    "longitude": 74.742304,
+    "matched_query": "District Hospital, Udupi, Udupi, Udupi District, Karnataka, India",
+    "display_name": "District Hospital, Nairkere Road, Brahmagiri, Kinnimulki, Udupi taluku, Udupi, Karnataka, 576101, India"
+  },
+  "wenlock hospital, mangalore": {
+    "status": "geocoded",
+    "latitude": 12.867142,
+    "longitude": 74.84277,
+    "matched_query": "Wenlock Hospital, Mangalore, Mangalore, Dakshina Kannada District, Karnataka, India",
+    "display_name": "Government Wenlock Hospital , Mangalore, Old Kent Road, Attavar, Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India"
+  },
+  "anekal government hospital": {
+    "status": "geocoded",
+    "latitude": 12.709051,
+    "longitude": 77.695644,
+    "matched_query": "Anekal Government Hospital, Anekal, Bangalore Urban District, Karnataka, India",
+    "display_name": "Anekal Government Hospital, SH35, Anekal, Bengaluru Urban, Karnataka, 562106, India"
+  },
+  "k.r.puram government hospital": {
+    "status": "geocoded",
+    "latitude": 13.000546,
+    "longitude": 77.675456,
+    "matched_query": "K.R.Puram, Bangalore Urban District, Karnataka, India",
+    "display_name": "Krishnarajapuram, Platform Road, Darga Mohalla, K.S. Nissar Ahmed Ward, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560016, India"
+  },
+  "channapatna government hospital": {
+    "status": "geocoded",
+    "latitude": 12.657144,
+    "longitude": 77.203956,
+    "matched_query": "Channapatna Government Hospital, Karnataka, India",
+    "display_name": "Government Hospital, Channapatna TH, Railway Station Road, Channapattana, Channapattana taluk, Bengaluru South, Karnataka, 562160, India"
+  },
+  "devanahalli government hospital": {
+    "status": "geocoded",
+    "latitude": 13.256913,
+    "longitude": 77.727292,
+    "matched_query": "Devanahalli Government Hospital, Devanahalli, Bangalore Rural District, Karnataka, India",
+    "display_name": "Government Hospital, Devanahalli, SH96, Devanahalli, Bangalore Rural, Bengaluru North, Karnataka, 562110, India"
+  },
+  "ramanagara government hospital": {
+    "status": "geocoded",
+    "latitude": 12.722744,
+    "longitude": 77.284055,
+    "matched_query": "Ramanagara Government Hospital, Karnataka, India",
+    "display_name": "Ramanagara Government Hospital, Adi Chunchanagiri Hostel Road, Ramanagara, Ramanagara taluk, Bengaluru South, Karnataka, 571511, India"
+  },
+  "doddaballapur government hospital": {
+    "status": "geocoded",
+    "latitude": 13.236299,
+    "longitude": 77.550871,
+    "matched_query": "Doddaballapur, Bangalore Rural District, Karnataka, India",
+    "display_name": "Doddaballapur Road, Masandra Amanikere, Hosahudya, Doddaballapura taluk, Bengaluru North, Karnataka, 562163, India"
+  },
+  "kanakapura government hospital": {
+    "status": "failed"
+  },
+  "magadi government hospital": {
+    "status": "geocoded",
+    "latitude": 13.070806,
+    "longitude": 77.401746,
+    "matched_query": "Magadi, Bangalore Rural District, Karnataka, India",
+    "display_name": "Magadi Road, Hullegaudanahalli, Mallapura, Bangalore North, Bengaluru Urban, Karnataka, 562123, India"
+  },
+  "nelamangala government hospital": {
+    "status": "geocoded",
+    "latitude": 13.097967,
+    "longitude": 77.394559,
+    "matched_query": "Nelamangala, Bangalore Rural District, Karnataka, India",
+    "display_name": "Nelamangala, Nelamangala taluk, Bengaluru North, Karnataka, India"
+  },
+  "challakere government hospital": {
+    "status": "geocoded",
+    "latitude": 14.316406,
+    "longitude": 76.650414,
+    "matched_query": "Challakere Government Hospital, Challakere, Chitradurga District, Karnataka, India",
+    "display_name": "Government Taluk General Hospital, Challakere, Chitradurga Road, Kattappanahatti, Challakere, Challakere taluku, Chitradurga, Karnataka, 577522, India"
+  },
+  "nayakanahatti government hospital": {
+    "status": "geocoded",
+    "latitude": 14.468788,
+    "longitude": 76.544193,
+    "matched_query": "Nayakanahatti, Chitradurga District, Karnataka, India",
+    "display_name": "Nayakanahatti, Challakere taluku, Chitradurga, Karnataka, 577536, India"
+  },
+  "parashurampura government hospital": {
+    "status": "geocoded",
+    "latitude": 14.254155,
+    "longitude": 76.883801,
+    "matched_query": "Parashurampura, Chitradurga District, Karnataka, India",
+    "display_name": "Parashurampura CHC, SH48, Parasurampura, Challakere taluku, Chitradurga, Karnataka, 577538, India"
+  },
+  "hiriyur government hospital": {
+    "status": "geocoded",
+    "latitude": 13.943181,
+    "longitude": 76.617831,
+    "matched_query": "Hiriyur Government Hospital, Hiriyur, Chitradurga District, Karnataka, India",
+    "display_name": "Government Hospital, Hiriyur, NH48, Hiriyur, Hiriyuru taluk, Chitradurga, Karnataka, 577598, India"
+  },
+  "hosadurga government hospital": {
+    "status": "geocoded",
+    "latitude": 13.796827,
+    "longitude": 76.273295,
+    "matched_query": "Hosadurga Government Hospital, Hosadurga, Chitradurga District, Karnataka, India",
+    "display_name": "Government Hospital, Hosadurga, NH173, Hosadurga, Hosadurga taluku, Chitradurga, Karnataka, 577527, India"
+  },
+  "holalkere government hospital": {
+    "status": "geocoded",
+    "latitude": 14.042553,
+    "longitude": 76.182054,
+    "matched_query": "Holalkere Government Hospital, Holalkere, Chitradurga District, Karnataka, India",
+    "display_name": "Government Hospital, Holalkere, Shimoga - Chitradurga Highway, Holalkere, Holalkere taluk, Chitradurga, Karnataka, 577526, India"
+  },
+  "molakalmuru government hospital": {
+    "status": "geocoded",
+    "latitude": 14.718273,
+    "longitude": 76.748308,
+    "matched_query": "Molakalmuru Government Hospital, Molakalmuru, Chitradurga District, Karnataka, India",
+    "display_name": "Molakalmuru Taluk Government Hospital, NH544DD, Devareddihalli, Molakalmuru, Molakalmuru taluku, Chitradurga, Karnataka, 577535, India"
+  },
+  "bharamasagara government hospital": {
+    "status": "geocoded",
+    "latitude": 14.331047,
+    "longitude": 76.708649,
+    "matched_query": "Bharamasagara, Chitradurga District, Karnataka, India",
+    "display_name": "Bharamasagara, Challakere taluku, Chitradurga, Karnataka, 577522, India"
+  },
+  "sirigere government hospital": {
+    "status": "geocoded",
+    "latitude": 14.284074,
+    "longitude": 76.205191,
+    "matched_query": "Sirigere, Chitradurga District, Karnataka, India",
+    "display_name": "Sirigere, Chitradurga taluku, Chitradurga, Karnataka, 577541, India"
+  },
+  "bhadravati government hospital": {
+    "status": "geocoded",
+    "latitude": 13.850207,
+    "longitude": 75.703786,
+    "matched_query": "Bhadravati, Shimoga District, Karnataka, India",
+    "display_name": "Bhadravathi, Bhadravati taluk, Shimoga, Karnataka, 577300, India"
+  },
+  "holehonnur government hospital": {
+    "status": "failed"
+  },
+  "sagara government hospital": {
+    "status": "geocoded",
+    "latitude": 14.166502,
+    "longitude": 75.026385,
+    "matched_query": "Sagara, Shimoga District, Karnataka, India",
+    "display_name": "Sagara, Sagara taluk, Shimoga, Karnataka, 577400, India"
+  },
+  "shikaripura government hospital": {
+    "status": "geocoded",
+    "latitude": 14.263966,
+    "longitude": 75.35878,
+    "matched_query": "Shikaripura, Shimoga District, Karnataka, India",
+    "display_name": "Shikaripura, Shikaripura taluk, Shimoga, Karnataka, 577427, India"
+  },
+  "shiralakoppa government hospital": {
+    "status": "geocoded",
+    "latitude": 14.379888,
+    "longitude": 75.260538,
+    "matched_query": "Shiralakoppa, Shimoga District, Karnataka, India",
+    "display_name": "CHC Shiralakoppa, SH62, Siralkoppa, Shikaripura taluk, Shimoga, Karnataka, 577428, India"
+  },
+  "thirthahalli government hospital": {
+    "status": "geocoded",
+    "latitude": 13.691519,
+    "longitude": 75.242248,
+    "matched_query": "Thirthahalli, Shimoga District, Karnataka, India",
+    "display_name": "Agumbe Road, Soppugudde, Tirthahalli, Tirthahalli taluk, Shimoga, Karnataka, 577432, India"
+  },
+  "kannangi government hospital": {
+    "status": "geocoded",
+    "latitude": 13.793209,
+    "longitude": 75.364917,
+    "matched_query": "Kannangi Government Hospital, Kannangi, Shimoga District, Karnataka, India",
+    "display_name": "Government Hospital, Kannangi, SH148, Kannangi, Tirthahalli taluk, Shimoga, Karnataka, 577226, India"
+  },
+  "soraba government hospital": {
+    "status": "geocoded",
+    "latitude": 14.369939,
+    "longitude": 75.09712,
+    "matched_query": "Soraba Government Hospital, Soraba, Shimoga District, Karnataka, India",
+    "display_name": "Soraba Government Hospital, SH48, Soraba, Soraba taluk, Shimoga, Karnataka, 761108, India"
+  },
+  "hosanagara government hospital": {
+    "status": "geocoded",
+    "latitude": 13.916789,
+    "longitude": 75.065795,
+    "matched_query": "Hosanagara, Shimoga District, Karnataka, India",
+    "display_name": "Hosanagara, Hosanagara taluk, Shimoga, Karnataka, 577418, India"
+  },
+  "tiptur government hospital": {
+    "status": "failed"
+  },
+  "gubbi government hospital": {
+    "status": "failed"
+  },
+  "kunigal government hospital": {
+    "status": "geocoded",
+    "latitude": 13.025971,
+    "longitude": 77.031462,
+    "matched_query": "Kunigal, Tumkur District, Karnataka, India",
+    "display_name": "Sri Saptagiri Hospital, Kunigal, SH33, Halgonahalli, Chikkamalalavadi, Kunigal taluk, Tumakuru, Karnataka, 572130, India"
+  },
+  "sira government hospital": {
+    "status": "geocoded",
+    "latitude": 13.362515,
+    "longitude": 77.103309,
+    "matched_query": "Sira, Tumkur District, Karnataka, India",
+    "display_name": "Sira Gate, SH33, Satyamangala, Tumkur taluk, Tumakuru, Karnataka, 572106, India"
+  },
+  "chikballapur government hospital": {
+    "status": "failed"
+  },
+  "chintamani government hospital": {
+    "status": "failed"
+  },
+  "batlapalli government hospital": {
+    "status": "failed"
+  },
+  "gowribidanur government hospital": {
+    "status": "failed"
+  },
+  "srinivasapura government hospital": {
+    "status": "geocoded",
+    "latitude": 13.340085,
+    "longitude": 78.211749,
+    "matched_query": "Srinivasapura, Kolar District, Karnataka, India",
+    "display_name": "Srinivaspur, Srinivasapura taluku, Kolar, Karnataka, 563135, India"
+  },
+  "siddlagatta government hospital": {
+    "status": "failed"
+  },
+  "gudibande government hospital": {
+    "status": "failed"
+  },
+  "k.r.nagara government hospital": {
+    "status": "geocoded",
+    "latitude": 12.295053,
+    "longitude": 76.619371,
+    "matched_query": "K.R.Nagara, Mysore District, Karnataka, India",
+    "display_name": "Paduvana Road 1st Cross, 4th Stage, T.K.Layout, Ramakrishna Nagara, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  },
+  "nanjangud government hospital": {
+    "status": "geocoded",
+    "latitude": 12.127679,
+    "longitude": 76.681115,
+    "matched_query": "Nanjangud Government Hospital, Nanjangud, Mysore District, Karnataka, India",
+    "display_name": "Government Hospital, Nanjangud, NH150A, Nanjanagudu, Nanjanagudu taluk, Mysuru District, Karnataka, 571301, India"
+  },
+  "piriyapatna government hospital": {
+    "status": "failed"
+  },
+  "t.narasipura government hospital": {
+    "status": "geocoded",
+    "latitude": 12.304581,
+    "longitude": 76.692894,
+    "matched_query": "T.Narasipura, Mysore District, Karnataka, India",
+    "display_name": "T. Narasipura Road, Alanahalli, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  },
+  "h.d.kote government hospital": {
+    "status": "failed"
+  },
+  "hunsur government hospital": {
+    "status": "geocoded",
+    "latitude": 12.312291,
+    "longitude": 76.63869,
+    "matched_query": "Hunsur, Mysore District, Karnataka, India",
+    "display_name": "Hunsur Road, Chamarajapuram, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  },
+  "kollegal government hospital": {
+    "status": "geocoded",
+    "latitude": 12.298671,
+    "longitude": 76.675653,
+    "matched_query": "Kollegal, Mysore District, Karnataka, India",
+    "display_name": "Kozhikode - Kollegal Highway, Race Course, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  },
+  "gundlupet government hospital": {
+    "status": "failed"
+  },
+  "yelandur government hospital": {
+    "status": "geocoded",
+    "latitude": 12.05871,
+    "longitude": 77.032778,
+    "matched_query": "Yelandur Government Hospital, Yelandur, Chamarajanagar District, Karnataka, India",
+    "display_name": "Government Hospital Yelandur, Old NH948, Yelanduru, Yalanduru taluk, Chamarajanagar, Karnataka, 571441, India"
+  },
+  "bantwal government hospital": {
+    "status": "geocoded",
+    "latitude": 12.895379,
+    "longitude": 75.040862,
+    "matched_query": "Bantwal, Dakshina Kannada District, Karnataka, India",
+    "display_name": "Bantwal, Bantwal taluk, Dakshina Kannada, Karnataka, 574211, India"
+  },
+  "puttur government hospital": {
+    "status": "geocoded",
+    "latitude": 12.763286,
+    "longitude": 75.201842,
+    "matched_query": "Puttur, Dakshina Kannada District, Karnataka, India",
+    "display_name": "Puttur, Putturu taluk, Dakshina Kannada, Karnataka, 574200, India"
+  },
+  "belthangadi government hospital": {
+    "status": "geocoded",
+    "latitude": 12.990352,
+    "longitude": 75.282505,
+    "matched_query": "Belthangadi, Dakshina Kannada District, Karnataka, India",
+    "display_name": "Belthangadi, Beltangadi taluk, Dakshina Kannada, Karnataka, 574214, India"
+  },
+  "sulya government hospital": {
+    "status": "geocoded",
+    "latitude": 12.557664,
+    "longitude": 75.390758,
+    "matched_query": "Sulya, Dakshina Kannada District, Karnataka, India",
+    "display_name": "Sulya, Sulya taluk, Dakshina Kannada, Karnataka, 574239, India"
+  },
+  "vamanapadavu government hospital": {
+    "status": "geocoded",
+    "latitude": 12.961934,
+    "longitude": 75.096241,
+    "matched_query": "Vamanapadavu, Dakshina Kannada District, Karnataka, India",
+    "display_name": "Vamanapadavu, Bantwal taluk, Dakshina Kannada, Karnataka, 574324, India"
+  },
+  "vittal government hospital": {
+    "status": "geocoded",
+    "latitude": 12.763604,
+    "longitude": 75.101354,
+    "matched_query": "Vittal, Dakshina Kannada District, Karnataka, India",
+    "display_name": "Vitla, Bantwal taluk, Dakshina Kannada, Karnataka, 574243, India"
+  },
+  "mulki government hospital": {
+    "status": "geocoded",
+    "latitude": 13.087491,
+    "longitude": 74.792202,
+    "matched_query": "Mulki Government Hospital, Mulki, Dakshina Kannada District, Karnataka, India",
+    "display_name": "Mulki Government Hospital, Mulky Sunder Ram Shetty Road, Charanthipete, Karnad, Mulki, Mulki taluk, Dakshina Kannada, Karnataka, 574154, India"
+  },
+  "mudabidre government hospital": {
+    "status": "failed"
+  },
+  "maddur government hospital": {
+    "status": "geocoded",
+    "latitude": 12.585591,
+    "longitude": 77.043262,
+    "matched_query": "Maddur Government Hospital, Maddur, Mandya District, Karnataka, India",
+    "display_name": "Gurushanthappa Government Hospital, Maddur, Bangalore-Mysore Road, Maddur, Madduru taluk, Mandya, Karnataka, 571428, India"
+  },
+  "malavalli government hospital": {
+    "status": "geocoded",
+    "latitude": 12.386407,
+    "longitude": 77.058946,
+    "matched_query": "Malavalli, Mandya District, Karnataka, India",
+    "display_name": "Malavalli, Malavalli taluk, Mandya, Karnataka, 571430, India"
+  },
+  "nagamangala government hospital": {
+    "status": "geocoded",
+    "latitude": 12.819608,
+    "longitude": 76.754219,
+    "matched_query": "Nagamangala, Mandya District, Karnataka, India",
+    "display_name": "Nagamangala, Nagamangala taluk, Mandya, Karnataka, 571432, India"
+  },
+  "srirangapatna government hospital": {
+    "status": "geocoded",
+    "latitude": 12.418397,
+    "longitude": 76.693202,
+    "matched_query": "Srirangapatna Government Hospital, Srirangapatna, Mandya District, Karnataka, India",
+    "display_name": "Government Hospital Srirangapatna, Bangalore-Mysore Road, ಬೊಮ್ಮೂರು ಅಗ್ರಹಾರ, Srirangapatna, Srirangapattana taluk, Mandya, Karnataka, 571438, India"
+  },
+  "k.r.pete government hospital": {
+    "status": "failed"
+  },
+  "pandavapura government hospital": {
+    "status": "geocoded",
+    "latitude": 12.498917,
+    "longitude": 76.674528,
+    "matched_query": "Pandavapura Government Hospital, Pandavapura, Mandya District, Karnataka, India",
+    "display_name": "Pandavapura Government Hospital, NH150A, Pandavapura, Pandavapura taluk, Mandya, Karnataka, 571434, India"
+  },
+  "karkala government hospital": {
+    "status": "geocoded",
+    "latitude": 13.211109,
+    "longitude": 75.000859,
+    "matched_query": "Karkala Government Hospital, Karkala, Udupi District, Karnataka, India",
+    "display_name": "Karkala Government Hospital, ಮಾರ್ಕೆಟ್ ರಸ್ತೆ, Parpale, Karkala, Karkala taluk, Udupi, Karnataka, 574104, India"
+  },
+  "coondapur government hospital": {
+    "status": "failed"
+  },
+  "brahmavara government hospital": {
+    "status": "geocoded",
+    "latitude": 13.433692,
+    "longitude": 74.743638,
+    "matched_query": "Brahmavara, Udupi District, Karnataka, India",
+    "display_name": "Brahmavara, Brahmavara taluku, Udupi, Karnataka, 576213, India"
+  },
+  "hebri government hospital": {
+    "status": "geocoded",
+    "latitude": 13.459429,
+    "longitude": 74.991552,
+    "matched_query": "Hebri, Udupi District, Karnataka, India",
+    "display_name": "Hebri, Hebri taluku, Udupi, Karnataka, 576112, India"
+  },
+  "nitte government hospital": {
+    "status": "geocoded",
+    "latitude": 13.184044,
+    "longitude": 74.933764,
+    "matched_query": "Nitte, Udupi District, Karnataka, India",
+    "display_name": "Nitte, SH1, Doopadakatte, Karkala taluk, Udupi, Karnataka, 574110, India"
+  },
+  "shirva government hospital": {
+    "status": "geocoded",
+    "latitude": 13.218835,
+    "longitude": 74.82233,
+    "matched_query": "Shirva, Udupi District, Karnataka, India",
+    "display_name": "Shirva, Kapu taluku, Udupi, Karnataka, 574116, India"
+  },
+  "virajpet government hospital": {
+    "status": "geocoded",
+    "latitude": 12.19604,
+    "longitude": 75.800778,
+    "matched_query": "Virajpet Government Hospital, Virajpet, Kodagu District, Karnataka, India",
+    "display_name": "Virajpet Government Hospital, SH91, Virajpet, Kodagu, Karnataka, 571218, India"
+  },
+  "gonikoppal government hospital": {
+    "status": "geocoded",
+    "latitude": 12.184423,
+    "longitude": 75.925313,
+    "matched_query": "Gonikoppal, Kodagu District, Karnataka, India",
+    "display_name": "Main Road, Gonikoppal, Gonikoppalu, Ponnampete taluk, Kodagu, Karnataka, 571218, India"
+  },
+  "somavarapet government hospital": {
+    "status": "failed"
+  },
+  "kushalanagara government hospital": {
+    "status": "geocoded",
+    "latitude": 12.458552,
+    "longitude": 75.961437,
+    "matched_query": "Kushalanagara, Kodagu District, Karnataka, India",
+    "display_name": "Kushalanagar, Kushalanagar taluku, Kodagu, Karnataka, 571234, India"
+  },
+  "kadur government hospital": {
+    "status": "geocoded",
+    "latitude": 13.553639,
+    "longitude": 76.01416,
+    "matched_query": "Kadur Government Hospital, Kadur, Chikmagalur District, Karnataka, India",
+    "display_name": "Kadur Taluka Government Hospital, NH173, Kaduru, Kaduru taluk, Chikkamagaluru, Karnataka, 577548, India"
+  },
+  "birur government hospital": {
+    "status": "geocoded",
+    "latitude": 13.598404,
+    "longitude": 75.97264,
+    "matched_query": "Birur, Chikmagalur District, Karnataka, India",
+    "display_name": "PHC, Birur, NH69, Biruru, Kaduru taluk, Chikkamagaluru, Karnataka, 577116, India"
+  },
+  "panchanahalli government hospital": {
+    "status": "geocoded",
+    "latitude": 13.550647,
+    "longitude": 76.328507,
+    "matched_query": "Panchanahalli, Chikmagalur District, Karnataka, India",
+    "display_name": "Panchanahalli Community Health Centre, Tersapura Main Road, Panchanahalli, Kaduru taluk, Chikkamagaluru, Karnataka, 577182, India"
+  },
+  "yagati government hospital": {
+    "status": "geocoded",
+    "latitude": 13.609683,
+    "longitude": 76.145848,
+    "matched_query": "Yagati, Chikmagalur District, Karnataka, India",
+    "display_name": "Yagati Community Health Centre, Yagati, Kaduru taluk, Chikkamagaluru, Karnataka, 577140, India"
+  },
+  "narasimharajapura government hospital": {
+    "status": "geocoded",
+    "latitude": 13.609628,
+    "longitude": 75.510548,
+    "matched_query": "Narasimharajapura Government Hospital, Narasimharajapura, Chikmagalur District, Karnataka, India",
+    "display_name": "(Fru) Narasimharajapura Taluka Government Hospital, SH65, ಬಸ್ತಿಮಠ, Menasuru, Narasimharajapura taluk, Chikkamagaluru, Karnataka, 577134, India"
+  },
+  "koppa government hospital": {
+    "status": "geocoded",
+    "latitude": 13.533484,
+    "longitude": 75.367006,
+    "matched_query": "Koppa Government Hospital, Koppa, Chikmagalur District, Karnataka, India",
+    "display_name": "Koppa Government Hospital, SH65, Kelagere, Koppa, Koppa taluk, Chikkamagaluru, Karnataka, 577126, India"
+  },
+  "tarikere government hospital": {
+    "status": "geocoded",
+    "latitude": 13.708349,
+    "longitude": 75.812342,
+    "matched_query": "Tarikere Government Hospital, Tarikere, Chikmagalur District, Karnataka, India",
+    "display_name": "Government Hospital, Tarikere, NH69, Shivagange, Tarikere, Tarikere taluku, Chikkamagaluru, Karnataka, 577228, India"
+  },
+  "sringeri government hospital": {
+    "status": "geocoded",
+    "latitude": 13.427908,
+    "longitude": 75.254119,
+    "matched_query": "Sringeri Government Hospital, Sringeri, Chikmagalur District, Karnataka, India",
+    "display_name": "Government Hospital, Sringeri, NH169, Rajanagara, Sringeri, Sringeri taluku, Chikkamagaluru, Karnataka, 577139, India"
+  },
+  "hassan government hospital": {
+    "status": "geocoded",
+    "latitude": 13.007082,
+    "longitude": 76.09927,
+    "matched_query": "Hassan, Hassan District, Karnataka, India",
+    "display_name": "Hassan, Hasana taluk, Hassan, Karnataka, 573201, India"
+  },
+  "arasikere government hospital": {
+    "status": "geocoded",
+    "latitude": 13.315981,
+    "longitude": 76.256849,
+    "matched_query": "Arasikere, Hassan District, Karnataka, India",
+    "display_name": "Arasikere, Arasikere taluku, Hassan, Karnataka, 573103, India"
+  },
+  "chennarayapatna government hospital": {
+    "status": "failed"
+  },
+  "holenarasipura government hospital": {
+    "status": "geocoded",
+    "latitude": 12.786087,
+    "longitude": 76.244037,
+    "matched_query": "Holenarasipura Government Hospital, Holenarasipura, Hassan District, Karnataka, India",
+    "display_name": "Holenarasipura Government Hospital, SH8, Holenarasipura, Hole Narasipura taluk, Hassan, Karnataka, 573211, India"
+  },
+  "sakleshapura government hospital": {
+    "status": "failed"
+  },
+  "alur government hospital": {
+    "status": "geocoded",
+    "latitude": 12.977882,
+    "longitude": 75.989566,
+    "matched_query": "Alur Government Hospital, Alur, Hassan District, Karnataka, India",
+    "display_name": "Alur Government Hospital, SH110, Byrapura, Aluru taluk, Hassan, Karnataka, 573213, India"
+  },
+  "halli mysore government hospital": {
+    "status": "failed"
+  },
+  "bailahongal government hospital": {
+    "status": "failed"
+  },
+  "kittur government hospital": {
+    "status": "geocoded",
+    "latitude": 15.873843,
+    "longitude": 74.531094,
+    "matched_query": "Kittur, Belgaum District, Karnataka, India",
+    "display_name": "Rani Kittur Chanamma Garden, Mahantesh Nagar, Belagavi, Belagavi taluku, Belagavi, Karnataka, 590001, India"
+  },
+  "chikkodi government hospital": {
+    "status": "geocoded",
+    "latitude": 16.423852,
+    "longitude": 74.590443,
+    "matched_query": "Chikkodi, Belgaum District, Karnataka, India",
+    "display_name": "Kendriya Vidyalaya Chikkodi, SH18, Chikkodi, Chikodi taluk, Belagavi, Karnataka, 591201, India"
+  },
+  "nippani government hospital": {
+    "status": "failed"
+  },
+  "gokak government hospital": {
+    "status": "geocoded",
+    "latitude": 16.162645,
+    "longitude": 74.814992,
+    "matched_query": "Gokak Government Hospital, Gokak, Belgaum District, Karnataka, India",
+    "display_name": "Government Hospital, Gokak, SH134, Gokak, Gokak taluku, Belagavi, Karnataka, 591307, India"
+  },
+  "khanapura government hospital": {
+    "status": "geocoded",
+    "latitude": 15.835249,
+    "longitude": 74.505432,
+    "matched_query": "Khanapura, Belgaum District, Karnataka, India",
+    "display_name": "Atal Bihari Vajpayee Marg, Tilakwadi, Belagavi, Belagavi taluku, Belagavi, Karnataka, 590001, India"
+  },
+  "soundatti government hospital": {
+    "status": "failed"
+  },
+  "athani government hospital": {
+    "status": "geocoded",
+    "latitude": 16.727825,
+    "longitude": 75.060074,
+    "matched_query": "Athani, Belgaum District, Karnataka, India",
+    "display_name": "Taluka Public Hospital, Athani, NH548B, Athani, Athani taluku, Belagavi, Karnataka, 591304, India"
+  },
+  "hukkeri government hospital": {
+    "status": "failed"
+  },
+  "sankeshwara government hospital": {
+    "status": "geocoded",
+    "latitude": 16.261091,
+    "longitude": 74.484058,
+    "matched_query": "Sankeshwara, Belgaum District, Karnataka, India",
+    "display_name": "Sankeshwara Government Hospital, SH97, Manganura, Hukkeri taluk, Belagavi, Karnataka, 591313, India"
+  },
+  "ramadurga government hospital": {
+    "status": "failed"
+  },
+  "raibag government hospital": {
+    "status": "geocoded",
+    "latitude": 16.490843,
+    "longitude": 74.779047,
+    "matched_query": "Raibag Government Hospital, Raibag, Belgaum District, Karnataka, India",
+    "display_name": "Government Civil Hospital, Raibag, SH73, Rayabag, Raybag taluk, Belagavi, Karnataka, 591317, India"
+  },
+  "navalgund government hospital": {
+    "status": "geocoded",
+    "latitude": 15.558221,
+    "longitude": 75.353848,
+    "matched_query": "Navalgund, Dharwad District, Karnataka, India",
+    "display_name": "Navalgund, Navalagunda taluku, Dharwad, Karnataka, 582208, India"
+  },
+  "kundagol government hospital": {
+    "status": "geocoded",
+    "latitude": 15.258965,
+    "longitude": 75.241971,
+    "matched_query": "Kundagol, Dharwad District, Karnataka, India",
+    "display_name": "Community Health Center Kundagol, SH73, Kundagola, Kundagola taluku, Dharwad, Karnataka, India"
+  },
+  "kalaghatagi government hospital": {
+    "status": "geocoded",
+    "latitude": 15.181892,
+    "longitude": 74.971846,
+    "matched_query": "Kalaghatagi, Dharwad District, Karnataka, India",
+    "display_name": "Kalaghatagi, Kalaghatagi taluku, Dharwad, Karnataka, 581204, India"
+  },
+  "naragund government hospital": {
+    "status": "failed"
+  },
+  "ron government hospital": {
+    "status": "geocoded",
+    "latitude": 15.699694,
+    "longitude": 75.734991,
+    "matched_query": "Ron, Gadag District, Karnataka, India",
+    "display_name": "Ron, Rona taluku, Gadag, Karnataka, 582209, India"
+  },
+  "gajendragad government hospital": {
+    "status": "geocoded",
+    "latitude": 15.732203,
+    "longitude": 75.964462,
+    "matched_query": "Gajendragad, Gadag District, Karnataka, India",
+    "display_name": "Gajendragad, Gajendragad taluku, Gadag, Karnataka, 582114, India"
+  },
+  "lakshmeshwar government hospital": {
+    "status": "geocoded",
+    "latitude": 15.12373,
+    "longitude": 75.474117,
+    "matched_query": "Lakshmeshwar, Gadag District, Karnataka, India",
+    "display_name": "Lakshmeshwar KSRTC Bus stand, SH6, Bastibana, Lakshmeshvara, Lakshmeshvara taluku, Gadag, Karnataka, 582116, India"
+  },
+  "shirahatti government hospital": {
+    "status": "geocoded",
+    "latitude": 15.234576,
+    "longitude": 75.5792,
+    "matched_query": "Shirahatti, Gadag District, Karnataka, India",
+    "display_name": "Shirahatti, Shirahatti taluku, Gadag, Karnataka, 582120, India"
+  },
+  "mundargi government hospital": {
+    "status": "geocoded",
+    "latitude": 15.201367,
+    "longitude": 75.884182,
+    "matched_query": "Mundargi, Gadag District, Karnataka, India",
+    "display_name": "Mundargi Hospital, SH45, Ashraya Badavane, Mundaragi, Mundargi taluku, Gadag, Karnataka, 582118, India"
+  },
+  "ranibennur government hospital": {
+    "status": "geocoded",
+    "latitude": 14.625888,
+    "longitude": 75.635724,
+    "matched_query": "Ranibennur, Haveri District, Karnataka, India",
+    "display_name": "Ranebennuru, Station Road, Ranebennur, Ranebennuru taluk, Haveri, Karnataka, 581115, India"
+  },
+  "hirekerur government hospital": {
+    "status": "geocoded",
+    "latitude": 14.45624,
+    "longitude": 75.39522,
+    "matched_query": "Hirekerur Government Hospital, Hirekerur, Haveri District, Karnataka, India",
+    "display_name": "Hirekerur Government Hospital, SH62, Chikkeruru, Hirekeruru taluk, Haveri, Karnataka, 581111, India"
+  },
+  "savanur government hospital": {
+    "status": "geocoded",
+    "latitude": 14.975024,
+    "longitude": 75.339706,
+    "matched_query": "Savanur, Haveri District, Karnataka, India",
+    "display_name": "Savanuru, Savanura taluk, Haveri, Karnataka, 581118, India"
+  },
+  "byadagi government hospital": {
+    "status": "geocoded",
+    "latitude": 14.671984,
+    "longitude": 75.485822,
+    "matched_query": "Byadagi, Haveri District, Karnataka, India",
+    "display_name": "Byadagi, Byadagi taluk, Haveri, Karnataka, 581106, India"
+  },
+  "hanagal government hospital": {
+    "status": "geocoded",
+    "latitude": 14.765351,
+    "longitude": 75.124434,
+    "matched_query": "Hanagal, Haveri District, Karnataka, India",
+    "display_name": "Hanagalla, Hanagal taluk, Haveri, Karnataka, 581104, India"
+  },
+  "akkialur government hospital": {
+    "status": "failed"
+  },
+  "shiggaon government hospital": {
+    "status": "geocoded",
+    "latitude": 14.988715,
+    "longitude": 75.226239,
+    "matched_query": "Shiggaon Government Hospital, Shiggaon, Haveri District, Karnataka, India",
+    "display_name": "Shiggaon Government Hospital, SH6, Gundura, Shiggaon taluk, Haveri, Karnataka, 581205, India"
+  },
+  "ankola government hospital": {
+    "status": "geocoded",
+    "latitude": 14.645359,
+    "longitude": 74.331925,
+    "matched_query": "Ankola, Uttara Kannada District, Karnataka, India",
+    "display_name": "Ankola, NH66, Bole, Ankola taluk, Uttara Kannada, Karnataka, 581353, India"
+  },
+  "bhatkal government hospital": {
+    "status": "geocoded",
+    "latitude": 13.989357,
+    "longitude": 74.56563,
+    "matched_query": "Bhatkal, Uttara Kannada District, Karnataka, India",
+    "display_name": "Bhatkal, NH66, Kokti, Bhatkal, Bhatkal taluk, Uttara Kannada, Karnataka, 581320, India"
+  },
+  "haliyal government hospital": {
+    "status": "geocoded",
+    "latitude": 15.332294,
+    "longitude": 74.769913,
+    "matched_query": "Haliyal Government Hospital, Haliyal, Uttara Kannada District, Karnataka, India",
+    "display_name": "Government Taluka Hospital, Haliyal, SH28, Haliyal, Haliyala taluku, Uttara Kannada, Karnataka, 581329, India"
+  },
+  "kumta government hospital": {
+    "status": "geocoded",
+    "latitude": 14.418982,
+    "longitude": 74.415554,
+    "matched_query": "Kumta Government Hospital, Kumta, Uttara Kannada District, Karnataka, India",
+    "display_name": "Kumta Government Hospital, Sirsi - Kumta Highway   ಸಿರ್ಸಿ - ಕುಮಟಾ ಹೆದ್ದಾರಿ, Manaki, Kumata taluk, Uttara Kannada, Karnataka, 581343, India"
+  },
+  "siddapura government hospital": {
+    "status": "geocoded",
+    "latitude": 14.340956,
+    "longitude": 74.892425,
+    "matched_query": "Siddapura, Uttara Kannada District, Karnataka, India",
+    "display_name": "Siddapura, Siddapura taluk, Uttara Kannada, Karnataka, India"
+  },
+  "sirsi government hospital": {
+    "status": "geocoded",
+    "latitude": 14.61532,
+    "longitude": 74.829886,
+    "matched_query": "Sirsi Government Hospital, Sirsi, Uttara Kannada District, Karnataka, India",
+    "display_name": "Sirsi Government Hospital, Poornachandra Tejaswi road, Ambedkar circle, Sirsi, Shirasi Taluk, Uttara Kannada, Karnataka, 581401, India"
+  },
+  "yellapura government hospital": {
+    "status": "geocoded",
+    "latitude": 14.963444,
+    "longitude": 74.712079,
+    "matched_query": "Yellapura, Uttara Kannada District, Karnataka, India",
+    "display_name": "Yellapura, Yallapura taluk, Uttara Kannada, Karnataka, 581359, India"
+  },
+  "honnavara government hospital": {
+    "status": "geocoded",
+    "latitude": 14.281083,
+    "longitude": 74.444672,
+    "matched_query": "Honnavara, Uttara Kannada District, Karnataka, India",
+    "display_name": "Honnavar, Honnavar taluku, Uttara Kannada, Karnataka, 581334, India"
+  },
+  "joida government hospital": {
+    "status": "geocoded",
+    "latitude": 15.164551,
+    "longitude": 74.485067,
+    "matched_query": "Joida, Uttara Kannada District, Karnataka, India",
+    "display_name": "Joida, Supa taluk, Uttara Kannada, Karnataka, India"
+  },
+  "mundagod government hospital": {
+    "status": "failed"
+  },
+  "sedam government hospital": {
+    "status": "geocoded",
+    "latitude": 17.323352,
+    "longitude": 76.868577,
+    "matched_query": "Sedam, Gulbarga District, Karnataka, India",
+    "display_name": "Sedam Road, Rajapura, Kalaburagi, Kalaburagi taluku, Kalaburagi, Karnataka, 585101, India"
+  },
+  "yadgir government hospital": {
+    "status": "geocoded",
+    "latitude": 16.77482,
+    "longitude": 77.167296,
+    "matched_query": "Yadgir, Gulbarga District, Karnataka, India",
+    "display_name": "Sharada Ayurvedic Medical College And Hospital Mundarga Yadgir, Kalaburagi - Gooty Highway, Mundaragi, Yadagiri taluku, Yadgir, Karnataka, 585200, India"
+  },
+  "surapura government hospital": {
+    "status": "failed"
+  },
+  "afzalpur government hospital": {
+    "status": "geocoded",
+    "latitude": 17.202593,
+    "longitude": 76.359682,
+    "matched_query": "Afzalpur Government Hospital, Afzalpur, Gulbarga District, Karnataka, India",
+    "display_name": "Government Hospital, Afzalpur, SH22, Afzalpur, Kalaburagi, Karnataka, 585301, India"
+  },
+  "aland government hospital": {
+    "status": "geocoded",
+    "latitude": 17.57524,
+    "longitude": 76.560558,
+    "matched_query": "Aland, Gulbarga District, Karnataka, India",
+    "display_name": "Aland CHC, SH34, Sangolagi, Kalaburagi, Karnataka, India"
+  },
+  "chitapura government hospital": {
+    "status": "geocoded",
+    "latitude": 17.122325,
+    "longitude": 77.086221,
+    "matched_query": "Chitapura, Gulbarga District, Karnataka, India",
+    "display_name": "State Bank of India Atm, SH126, Chittapura, Chitapura taluku, Kalaburagi, Karnataka, 585211, India"
+  },
+  "shahabad government hospital": {
+    "status": "failed"
+  },
+  "jewargi government hospital": {
+    "status": "geocoded",
+    "latitude": 17.015116,
+    "longitude": 76.774864,
+    "matched_query": "Jewargi Government Hospital, Jewargi, Gulbarga District, Karnataka, India",
+    "display_name": "Jewargi Government Hospital, Bidar - Lakshmisagara Highway, Jevaragi, Kalaburagi, Karnataka, 585310, India"
+  },
+  "chincholi government hospital": {
+    "status": "failed"
+  },
+  "humnabad government hospital": {
+    "status": "geocoded",
+    "latitude": 17.733241,
+    "longitude": 77.217889,
+    "matched_query": "Humnabad, Bidar District, Karnataka, India",
+    "display_name": "Humnabad, Bataguppa, Chittaguppa, Humanabad taluku, Bidar, Karnataka, 585412, India"
+  },
+  "bhalki government hospital": {
+    "status": "geocoded",
+    "latitude": 18.047454,
+    "longitude": 77.214048,
+    "matched_query": "Bhalki Government Hospital, Bhalki, Bidar District, Karnataka, India",
+    "display_name": "Bhalki Taluk Government Hospital, SH34, Bhalki, Bidar, Karnataka, 585328, India"
+  },
+  "basava kalyan government hospital": {
+    "status": "failed"
+  },
+  "aurad government hospital": {
+    "status": "geocoded",
+    "latitude": 18.251017,
+    "longitude": 77.413347,
+    "matched_query": "Aurad Government Hospital, Aurad, Bidar District, Karnataka, India",
+    "display_name": "Aurad Government Taluk Hospital, SH34, Aurad, Aurad taluku, Bidar, Karnataka, 585326, India"
+  },
+  "hallikhed government hospital": {
+    "status": "geocoded",
+    "latitude": 17.848246,
+    "longitude": 77.277207,
+    "matched_query": "Hallikhed, Bidar District, Karnataka, India",
+    "display_name": "Hallikhed, Bidar - Humnabad Road, Hallikheda (b), Sindabandagi, Chittaguppa taluku, Bidar, Karnataka, 585414, India"
+  },
+  "basavana bagewadi government hospital": {
+    "status": "geocoded",
+    "latitude": 16.480299,
+    "longitude": 75.828287,
+    "matched_query": "Basavana Bagewadi, Bijapur District, Karnataka, India",
+    "display_name": "Basavana Bagewadi Road, Basavana Bagevadi Road, Kolahara Taluku, Vijayapura, Karnataka, India"
+  },
+  "sindagi government hospital": {
+    "status": "geocoded",
+    "latitude": 16.919478,
+    "longitude": 76.23503,
+    "matched_query": "Sindagi, Bijapur District, Karnataka, India",
+    "display_name": "Sindagi, Sindagi taluku, Vijayapura, Karnataka, 586128, India"
+  },
+  "indi government hospital": {
+    "status": "geocoded",
+    "latitude": 17.17446,
+    "longitude": 75.955376,
+    "matched_query": "Indi, Bijapur District, Karnataka, India",
+    "display_name": "Indi, Indi taluku, Vijayapura, Karnataka, 586200, India"
+  },
+  "jamakhandi government hospital": {
+    "status": "failed"
+  },
+  "mudhol government hospital": {
+    "status": "geocoded",
+    "latitude": 16.333859,
+    "longitude": 75.287079,
+    "matched_query": "Mudhol, Bagalkote District, Karnataka, India",
+    "display_name": "Mudhol, Mudhola taluku, Bagalkote, Karnataka, 587313, India"
+  },
+  "beelagi government hospital": {
+    "status": "failed"
+  },
+  "devadurga government hospital": {
+    "status": "geocoded",
+    "latitude": 16.414465,
+    "longitude": 76.93079,
+    "matched_query": "Devadurga Government Hospital, Devadurga, Raichur District, Karnataka, India",
+    "display_name": "Devadurga Taluka Government Hospital, SH15, Devadurga taluk, Raichur, Karnataka, 584111, India"
+  },
+  "lingasugur government hospital": {
+    "status": "geocoded",
+    "latitude": 16.1563,
+    "longitude": 76.5242,
+    "matched_query": "Lingasugur, Raichur District, Karnataka, India",
+    "display_name": "Lingasugur, Lingasuguru taluku, Raichur, Karnataka, 584122, India"
+  },
+  "manvi government hospital": {
+    "status": "geocoded",
+    "latitude": 15.996748,
+    "longitude": 77.048118,
+    "matched_query": "Manvi, Raichur District, Karnataka, India",
+    "display_name": "Manvi, Manvi taluku, Raichur, Karnataka, 584123, India"
+  },
+  "sindhanur government hospital": {
+    "status": "geocoded",
+    "latitude": 15.768558,
+    "longitude": 76.754993,
+    "matched_query": "Sindhanur, Raichur District, Karnataka, India",
+    "display_name": "Sindhanur, Sindhanuru taluku, Raichur, Karnataka, 584128, India"
+  },
+  "yelburga government hospital": {
+    "status": "geocoded",
+    "latitude": 15.613397,
+    "longitude": 76.011243,
+    "matched_query": "Yelburga Government Hospital, Yelburga, Koppal District, Karnataka, India",
+    "display_name": "Old Government Hospital, Yelburga, SH63, Yelburga, Yelaburga taluku, Koppal, Karnataka, 583236, India"
+  },
+  "kukkanur government hospital": {
+    "status": "failed"
+  },
+  "gangavati government hospital": {
+    "status": "geocoded",
+    "latitude": 15.526158,
+    "longitude": 76.782439,
+    "matched_query": "Gangavati, Koppal District, Karnataka, India",
+    "display_name": "Gangavati, Karatagi taluku, Koppal, Karnataka, India"
+  },
+  "kanakagiri government hospital": {
+    "status": "geocoded",
+    "latitude": 15.569679,
+    "longitude": 76.418988,
+    "matched_query": "Kanakagiri, Koppal District, Karnataka, India",
+    "display_name": "Kanakagiri, Kanakagiri taluku, Koppal, Karnataka, 584119, India"
+  },
+  "karatagi government hospital": {
+    "status": "geocoded",
+    "latitude": 15.604166,
+    "longitude": 76.660155,
+    "matched_query": "Karatagi Government Hospital, Karatagi, Koppal District, Karnataka, India",
+    "display_name": "Government Hospital, Karatagi, SH23, Karatagi, Karatagi taluku, Koppal, Karnataka, 583229, India"
+  },
+  "munirabad government hospital": {
+    "status": "geocoded",
+    "latitude": 15.278502,
+    "longitude": 76.327488,
+    "matched_query": "Munirabad, Koppal District, Karnataka, India",
+    "display_name": "Munirabad, Koppala taluku, Koppal, Karnataka, 583233, India"
+  },
+  "kustagi government hospital": {
+    "status": "geocoded",
+    "latitude": 15.757158,
+    "longitude": 76.190682,
+    "matched_query": "Kustagi, Koppal District, Karnataka, India",
+    "display_name": "Kushtagi, Kushtagi taluk, Koppal, Karnataka, 583277, India"
+  },
+  "sandur government hospital": {
+    "status": "failed"
+  },
+  "hospet government hospital": {
+    "status": "geocoded",
+    "latitude": 15.272425,
+    "longitude": 76.388419,
+    "matched_query": "Hospet, Bellary District, Karnataka, India",
+    "display_name": "Hospet City Municipal Office, Bellary - Hubli Road, Amaravati, Hosapete, Hosapete taluk, Vijayanagara, Karnataka, 583200, India"
+  },
+  "siruguppa government hospital": {
+    "status": "geocoded",
+    "latitude": 15.16659,
+    "longitude": 76.913434,
+    "matched_query": "Siruguppa, Bellary District, Karnataka, India",
+    "display_name": "Siruguppa Road, Havambhavi, Ballari, Bellary taluk, Ballari, Karnataka, 583275, India"
+  },
+  "hagaribommanahalli government hospital": {
+    "status": "failed"
+  },
+  "kudligi government hospital": {
+    "status": "geocoded",
+    "latitude": 14.9033,
+    "longitude": 76.393102,
+    "matched_query": "Kudligi Government Hospital, Kudligi, Bellary District, Karnataka, India",
+    "display_name": "Kudligi Government Hospital, SH2, Rajivnagara, Kudligi, Kudligi taluku, Vijayanagara, Karnataka, 583135, India"
+  },
+  "victoria hospital": {
+    "status": "geocoded",
+    "latitude": 12.953935,
+    "longitude": 77.585143,
+    "matched_query": "Fort, Bengaluru, Karnataka",
+    "display_name": "Karnataka Grape Growers Association, Lalbagh Fort Road, Mavalli, Ashoka Pillar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560002, India"
+  },
+  "bowring and lady curzon hospital": {
+    "status": "geocoded",
+    "latitude": 12.985529,
+    "longitude": 77.60545,
+    "matched_query": "Shivajinagar, Bengaluru, Karnataka",
+    "display_name": "Shivajinagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560051, India"
+  },
+  "vani vilas hospital": {
+    "status": "geocoded",
+    "latitude": 12.953935,
+    "longitude": 77.585143,
+    "matched_query": "Fort, Bengaluru, Karnataka",
+    "display_name": "Karnataka Grape Growers Association, Lalbagh Fort Road, Mavalli, Ashoka Pillar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560002, India"
+  },
+  "kc general hospital": {
+    "status": "geocoded",
+    "latitude": 13.002735,
+    "longitude": 77.570325,
+    "matched_query": "Malleshwaram, Bengaluru, Karnataka",
+    "display_name": "Malleswaram, Malleshwaram, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India"
+  },
+  "bangalore medical college and research institute": {
+    "status": "geocoded",
+    "latitude": 12.953935,
+    "longitude": 77.585143,
+    "matched_query": "Fort, Bengaluru, Karnataka",
+    "display_name": "Karnataka Grape Growers Association, Lalbagh Fort Road, Mavalli, Ashoka Pillar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560002, India"
+  },
+  "jayadeva institute of cardiovascular sciences": {
+    "status": "geocoded",
+    "latitude": 12.929273,
+    "longitude": 77.582423,
+    "matched_query": "Jayanagar, Bengaluru, Karnataka",
+    "display_name": "Jayanagar, Tilak Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560011, India"
+  },
+  "kidwai memorial institute of oncology": {
+    "status": "geocoded",
+    "latitude": 12.93752,
+    "longitude": 77.598541,
+    "matched_query": "Kidwai Memorial Institute of Oncology, Hosur Road, Bengaluru, Karnataka",
+    "display_name": "Kidwai Memorial Institute of Oncology Blood Bank, Doctor M H Marigowda Road, Chinnayanapalya, Lakkasandra, BHEL Ward, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560029, India"
+  },
+  "nimhans": {
+    "status": "geocoded",
+    "latitude": 12.943168,
+    "longitude": 77.596475,
+    "matched_query": "NIMHANS, Hosur Road, Bengaluru, Karnataka",
+    "display_name": "Nimhans Convention Center, Doctor M H Marigowda Road, Chinnayanapalya, Lakkasandra, Someshwara Nagara, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560029, India"
+  },
+  "indira gandhi institute of child health": {
+    "status": "geocoded",
+    "latitude": 12.985529,
+    "longitude": 77.60545,
+    "matched_query": "Shivajinagar, Bengaluru, Karnataka",
+    "display_name": "Shivajinagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560051, India"
+  },
+  "institute of nephro urology bengaluru": {
+    "status": "geocoded",
+    "latitude": 12.985529,
+    "longitude": 77.60545,
+    "matched_query": "Shivajinagar, Bengaluru, Karnataka",
+    "display_name": "Shivajinagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560051, India"
+  },
+  "st marthas hospital bengaluru": {
+    "status": "geocoded",
+    "latitude": 12.973008,
+    "longitude": 77.585602,
+    "matched_query": "Nrupathunga Road, Bengaluru, Karnataka",
+    "display_name": "Nrupathunga University, Old Post Office Road, Cubbonpet, Sampangirama Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India"
+  },
+  "esi hospital rajajinagar": {
+    "status": "geocoded",
+    "latitude": 12.990498,
+    "longitude": 77.553092,
+    "matched_query": "ESI Hospital Rajajinagar, Rajajinagar, Bengaluru, Karnataka",
+    "display_name": "Esi Hospital Bangalore, 41st Cross Road, Rajajinagar 3rd Block, Rajajinagar, Rajajinagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560010, India"
+  },
+  "esi hospital indiranagar": {
+    "status": "geocoded",
+    "latitude": 12.971302,
+    "longitude": 77.636702,
+    "matched_query": "ESI Hospital Indiranagar, Indiranagar, Bengaluru, Karnataka",
+    "display_name": "ESI Hospital, Sai Baba Mandira Road, Motappanapalya, Indiranagar, Jogpalya, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560008, India"
+  },
+  "esic medical college bengaluru": {
+    "status": "geocoded",
+    "latitude": 13.000536,
+    "longitude": 77.5497,
+    "matched_query": "Rajajinagar, Bengaluru, Karnataka",
+    "display_name": "Rajajinagar, Chord Road, Ketamaranahalli, Basaveshwaranagar, Kethamaranahalli, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560010, India"
+  },
+  "leprosy hospital bengaluru": {
+    "status": "geocoded",
+    "latitude": 12.975653,
+    "longitude": 77.555355,
+    "matched_query": "Magadi Road, Bengaluru, Karnataka",
+    "display_name": "Magadi Road, Gopalpura, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560023, India"
+  },
+  "district hospital bengaluru north": {
+    "status": "geocoded",
+    "latitude": 13.022142,
+    "longitude": 77.640337,
+    "matched_query": "Kalyan Nagar, Bengaluru, Karnataka",
+    "display_name": "Kalyan Nagar, Kalyanagar, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560043, India"
+  },
+  "district hospital bengaluru south": {
+    "status": "geocoded",
+    "latitude": 12.909694,
+    "longitude": 77.586607,
+    "matched_query": "JP Nagar, Bengaluru, Karnataka",
+    "display_name": "JP Nagar, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, India"
+  },
+  "district hospital bengaluru east": {
+    "status": "geocoded",
+    "latitude": 12.978618,
+    "longitude": 77.64187,
+    "matched_query": "District Hospital Bengaluru East, Indiranagar, Bengaluru, Karnataka",
+    "display_name": "Karnataka Bank, Chinmaya Mission Hospital Road, Subedar Garden, Thippasandra, Indiranagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560038, India"
+  },
+  "chc yelahanka": {
+    "status": "geocoded",
+    "latitude": 13.100698,
+    "longitude": 77.596345,
+    "matched_query": "Yelahanka, Bengaluru, Karnataka",
+    "display_name": "Yelahanka, Yelahanka Old Town, Bengaluru North City Corporation, Bengaluru, Yelahanka taluku, Bengaluru Urban, Karnataka, 560064, India"
+  },
+  "chc krishnarajapuram": {
+    "status": "geocoded",
+    "latitude": 13.007516,
+    "longitude": 77.695935,
+    "matched_query": "KR Puram, Bengaluru, Karnataka",
+    "display_name": "KR Puram, K.R Pura, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560036, India"
+  },
+  "chc attibele": {
+    "status": "geocoded",
+    "latitude": 12.775125,
+    "longitude": 77.770922,
+    "matched_query": "Attibele, Bengaluru, Karnataka",
+    "display_name": "Attibele, Anekal, Bengaluru Urban, Karnataka, India"
+  },
+  "district hospital devanahalli": {
+    "status": "geocoded",
+    "latitude": 13.24835,
+    "longitude": 77.713438,
+    "matched_query": "Devanahalli, Karnataka",
+    "display_name": "Devanahalli, Devanahalli taluku, Bengaluru North, Karnataka, 562110, India"
+  },
+  "district hospital doddaballapura": {
+    "status": "geocoded",
+    "latitude": 13.292958,
+    "longitude": 77.543146,
+    "matched_query": "Doddaballapura, Karnataka",
+    "display_name": "Doddaballapura, Doddaballapura taluk, Bengaluru North, Karnataka, 561203, India"
+  },
+  "district hospital hosakote": {
+    "status": "geocoded",
+    "latitude": 13.459941,
+    "longitude": 77.214878,
+    "matched_query": "Hosakote, Karnataka",
+    "display_name": "Hosakote, Koratagere taluku, Tumakuru, Karnataka, 572129, India"
+  },
+  "district hospital nelamangala": {
+    "status": "geocoded",
+    "latitude": 13.097967,
+    "longitude": 77.394559,
+    "matched_query": "Nelamangala, Karnataka",
+    "display_name": "Nelamangala, Nelamangala taluk, Bengaluru North, Karnataka, India"
+  },
+  "chc anekal": {
+    "status": "geocoded",
+    "latitude": 12.710315,
+    "longitude": 77.688619,
+    "matched_query": "Anekal, Karnataka",
+    "display_name": "Anekal, Bengaluru Urban, Karnataka, 562106, India"
+  },
+  "chc hoskote": {
+    "status": "geocoded",
+    "latitude": 13.073014,
+    "longitude": 77.792138,
+    "matched_query": "Hoskote, Karnataka",
+    "display_name": "Hoskote, Hosakote taluk, Bengaluru North, Karnataka, 562114, India"
+  },
+  "chc kanakapura": {
+    "status": "geocoded",
+    "latitude": 12.554856,
+    "longitude": 77.419882,
+    "matched_query": "CHC Kanakapura, Kanakapura, Karnataka",
+    "display_name": "Kanakapura CHC, BWSSB Pipeline Track, Melekote, Kanakapura taluk, Bengaluru South, Karnataka, 562117, India"
+  },
+  "chc magadi": {
+    "status": "geocoded",
+    "latitude": 12.956735,
+    "longitude": 77.224228,
+    "matched_query": "Magadi, Karnataka",
+    "display_name": "Magadi, Magadi taluku, Bengaluru South, Karnataka, 562120, India"
+  },
+  "k r hospital mysuru": {
+    "status": "geocoded",
+    "latitude": 12.313393,
+    "longitude": 76.649727,
+    "matched_query": "K R Hospital Mysuru, Irwin Road, Mysuru, Karnataka",
+    "display_name": "Krishna Rajendra Hospital, Irwin Road, Mandi Mohalla, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  },
+  "cheluvamba hospital mysuru": {
+    "status": "geocoded",
+    "latitude": 12.313893,
+    "longitude": 76.649012,
+    "matched_query": "Cheluvamba Hospital Mysuru, Irwin Road, Mysuru, Karnataka",
+    "display_name": "Cheluvamba Hospital, Irwin Road, Mandi Mohalla, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  },
+  "mysore medical college and research institute": {
+    "status": "geocoded",
+    "latitude": 12.314673,
+    "longitude": 76.649496,
+    "matched_query": "Irwin Road, Mysuru, Karnataka",
+    "display_name": "Irwin Road, Mandi Mohalla, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  },
+  "district hospital mysuru": {
+    "status": "geocoded",
+    "latitude": 12.349918,
+    "longitude": 76.628059,
+    "matched_query": "District Hospital Mysuru, Mysuru, Karnataka",
+    "display_name": "Mysuru District Hospital, Barsha, Kumbara Koppalu, Metagalli, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  },
+  "esi hospital mysuru": {
+    "status": "geocoded",
+    "latitude": 12.357989,
+    "longitude": 76.610508,
+    "matched_query": "Hebbal, Mysuru, Karnataka",
+    "display_name": "Hebbal Lake, Hebbalu, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  },
+  "taluk general hospital hunsur": {
+    "status": "geocoded",
+    "latitude": 12.303509,
+    "longitude": 76.29281,
+    "matched_query": "Hunsur, Mysuru, Karnataka",
+    "display_name": "Hunsur, Hunasuru taluk, Mysuru District, Karnataka, 571105, India"
+  },
+  "taluk general hospital nanjangud": {
+    "status": "geocoded",
+    "latitude": 12.122068,
+    "longitude": 76.684341,
+    "matched_query": "Nanjangud, Mysuru, Karnataka",
+    "display_name": "Nanjangud Town, Mahatma Gandhi Shatabdi Road, Nanjanagudu, Nanjanagudu taluk, Mysuru District, Karnataka, 571300, India"
+  },
+  "taluk general hospital t narsipur": {
+    "status": "geocoded",
+    "latitude": 12.211977,
+    "longitude": 76.898135,
+    "matched_query": "T Narsipur, Mysuru, Karnataka",
+    "display_name": "Government Hospital, T.Narasipura, SH84, Bannahalli, Tirumakudalu Narasipura taluk, Mysuru District, Karnataka, 571124, India"
+  },
+  "taluk general hospital periyapatna": {
+    "status": "geocoded",
+    "latitude": 12.337249,
+    "longitude": 76.098801,
+    "matched_query": "Periyapatna, Mysuru, Karnataka",
+    "display_name": "Periyapatna, Piriyapattana taluk, Mysuru District, Karnataka, 571107, India"
+  },
+  "taluk general hospital h d kote": {
+    "status": "geocoded",
+    "latitude": 12.087726,
+    "longitude": 76.331058,
+    "matched_query": "H D Kote, Mysuru, Karnataka",
+    "display_name": "Heggadadevanakote, Heggadadevanakote taluk, Mysuru District, Karnataka, 571114, India"
+  },
+  "taluk general hospital k r nagar": {
+    "status": "geocoded",
+    "latitude": 12.440022,
+    "longitude": 76.381061,
+    "matched_query": "K R Nagar, Mysuru, Karnataka",
+    "display_name": "Harsha Hospital, K.R.Nagar, SH117, Krishnarajanagara, Krishnarajanagara taluk, Mysuru District, Karnataka, 571602, India"
+  },
+  "chc heggadadevankote": {
+    "status": "geocoded",
+    "latitude": 12.000321,
+    "longitude": 76.396815,
+    "matched_query": "CHC Heggadadevankote, Heggadadevankote, Mysuru, Karnataka",
+    "display_name": "Saragur CHC, SH86, Saraguru, Saraguru taluk, Mysuru District, Karnataka, 571114, India"
+  },
+  "mandya institute of medical sciences": {
+    "status": "geocoded",
+    "latitude": 12.527142,
+    "longitude": 76.901084,
+    "matched_query": "Mandya Institute of Medical Sciences, Mandya, Karnataka",
+    "display_name": "Mandya Institute of Medical Sciences, Nehru Nagar 1st Block, MIMS doctors quarters, Mandya, Mandya taluk, Mandya, Karnataka, 571401, India"
+  },
+  "district hospital mandya": {
+    "status": "geocoded",
+    "latitude": 12.516658,
+    "longitude": 76.89398,
+    "matched_query": "District Hospital Mandya, Mandya, Karnataka",
+    "display_name": "Government District Ayurveda Hospital, ಹೊಸಹಳ್ಳಿ ರಸ್ತೆ, MIMS doctors quarters, Mandya, Mandya taluk, Mandya, Karnataka, 571401, India"
+  },
+  "taluk general hospital maddur": {
+    "status": "geocoded",
+    "latitude": 12.584898,
+    "longitude": 77.044868,
+    "matched_query": "Maddur, Mandya, Karnataka",
+    "display_name": "Maddur, Madduru taluk, Mandya, Karnataka, 571428, India"
+  },
+  "taluk general hospital malavalli": {
+    "status": "geocoded",
+    "latitude": 12.386407,
+    "longitude": 77.058946,
+    "matched_query": "Malavalli, Mandya, Karnataka",
+    "display_name": "Malavalli, Malavalli taluk, Mandya, Karnataka, 571430, India"
+  },
+  "taluk general hospital nagamangala": {
+    "status": "geocoded",
+    "latitude": 12.819608,
+    "longitude": 76.754219,
+    "matched_query": "Nagamangala, Mandya, Karnataka",
+    "display_name": "Nagamangala, Nagamangala taluk, Mandya, Karnataka, 571432, India"
+  },
+  "taluk general hospital pandavapura": {
+    "status": "geocoded",
+    "latitude": 12.501141,
+    "longitude": 76.67315,
+    "matched_query": "Pandavapura, Mandya, Karnataka",
+    "display_name": "Pandavapura, Pandavapura taluk, Mandya, Karnataka, 571484, India"
+  },
+  "taluk general hospital srirangapatna": {
+    "status": "geocoded",
+    "latitude": 12.422644,
+    "longitude": 76.684931,
+    "matched_query": "Srirangapatna, Mandya, Karnataka",
+    "display_name": "Srirangapatna, Srirangapattana taluk, Mandya, Karnataka, 571438, India"
+  },
+  "taluk general hospital krishnarajapet": {
+    "status": "failed"
+  },
+  "hassan institute of medical sciences": {
+    "status": "geocoded",
+    "latitude": 13.004741,
+    "longitude": 76.102372,
+    "matched_query": "Hassan Institute of Medical Sciences, Hassan, Karnataka",
+    "display_name": "Hassan Institute of Medical Sciences, Racecourse Road, Shareef Colony, Ameer Mohalla, Hassan, Hasana taluk, Hassan, Karnataka, 573201, India"
+  },
+  "district hospital hassan": {
+    "status": "geocoded",
+    "latitude": 13.005176,
+    "longitude": 76.103972,
+    "matched_query": "District Hospital Hassan, Hassan, Karnataka",
+    "display_name": "District Hospital, Racecourse Road, Shareef Colony, Ameer Mohalla, Hassan, Hasana taluk, Hassan, Karnataka, 573201, India"
+  },
+  "taluk general hospital arsikere": {
+    "status": "geocoded",
+    "latitude": 13.313782,
+    "longitude": 76.253199,
+    "matched_query": "Arsikere, Hassan, Karnataka",
+    "display_name": "Arsikere Junction, Madliyar Road, Lakshmi Puram, Arasikere, Arasikere taluku, Hassan, Karnataka, 573103, India"
+  },
+  "taluk general hospital belur": {
+    "status": "geocoded",
+    "latitude": 13.164567,
+    "longitude": 75.863485,
+    "matched_query": "Belur, Hassan, Karnataka",
+    "display_name": "Belur, Beluru taluk, Hassan, Karnataka, 573115, India"
+  },
+  "taluk general hospital sakleshpur": {
+    "status": "geocoded",
+    "latitude": 12.943435,
+    "longitude": 75.786232,
+    "matched_query": "Sakleshpur, Hassan, Karnataka",
+    "display_name": "Sakaleshpura, Sakaleshapura taluk, Hassan, Karnataka, 573134, India"
+  },
+  "taluk general hospital holenarasipur": {
+    "status": "failed"
+  },
+  "taluk general hospital channarayapatna": {
+    "status": "geocoded",
+    "latitude": 12.892458,
+    "longitude": 76.393886,
+    "matched_query": "Channarayapatna, Hassan, Karnataka",
+    "display_name": "Channarayapatna, SH8, Guramaranahalli, Channarayapattana taluk, Hassan, Karnataka, 573116, India"
+  },
+  "taluk general hospital alur": {
+    "status": "geocoded",
+    "latitude": 12.978832,
+    "longitude": 75.993578,
+    "matched_query": "Alur, Hassan, Karnataka",
+    "display_name": "Aluru, Aluru taluk, Hassan, Karnataka, 573213, India"
+  },
+  "kodagu institute of medical sciences": {
+    "status": "geocoded",
+    "latitude": 12.441902,
+    "longitude": 75.740369,
+    "matched_query": "Kodagu Institute of Medical Sciences, Madikeri, Kodagu, Karnataka",
+    "display_name": "Kodagu Institute of Medical Sciences, SH27, Madikeri, Madikeri taluku, Kodagu, Karnataka, 571201, India"
+  },
+  "district hospital madikeri": {
+    "status": "geocoded",
+    "latitude": 12.418767,
+    "longitude": 75.742245,
+    "matched_query": "District Hospital Madikeri, Madikeri, Kodagu, Karnataka",
+    "display_name": "Madikeri District Hospital, Mani - Mysore Road, Madikeri, Madikeri taluku, Kodagu, Karnataka, 571201, India"
+  },
+  "taluk general hospital virajpet": {
+    "status": "geocoded",
+    "latitude": 12.197271,
+    "longitude": 75.803342,
+    "matched_query": "Virajpet, Kodagu, Karnataka",
+    "display_name": "Virajpet, Virajpet taluk, Kodagu, Karnataka, 571218, India"
+  },
+  "taluk general hospital somwarpet": {
+    "status": "geocoded",
+    "latitude": 12.597188,
+    "longitude": 75.846687,
+    "matched_query": "Somwarpet, Kodagu, Karnataka",
+    "display_name": "Somwarpet, Somawarpet taluk, Kodagu, Karnataka, 571236, India"
+  },
+  "chikkamagaluru institute of medical sciences": {
+    "status": "geocoded",
+    "latitude": 13.40587,
+    "longitude": 75.638758,
+    "matched_query": "Chikkamagaluru, Karnataka",
+    "display_name": "Chikkamagaluru, Karnataka, India"
+  },
+  "district hospital chikkamagaluru": {
+    "status": "geocoded",
+    "latitude": 13.315619,
+    "longitude": 75.775661,
+    "matched_query": "District Hospital Chikkamagaluru, Chikkamagaluru, Karnataka",
+    "display_name": "District Hospital, Chikmagalur, Beluru Road, Hosamane Badavane, Chikkamagaluru, Chikkamagaluru taluku, Chikkamagaluru, Karnataka, 577142, India"
+  },
+  "taluk general hospital kadur": {
+    "status": "geocoded",
+    "latitude": 13.550251,
+    "longitude": 76.008702,
+    "matched_query": "Kadur, Chikkamagaluru, Karnataka",
+    "display_name": "Kadur Junction, minor road, Kaduru, Kaduru taluk, Chikkamagaluru, Karnataka, 577548, India"
+  },
+  "taluk general hospital tarikere": {
+    "status": "geocoded",
+    "latitude": 13.706231,
+    "longitude": 75.818356,
+    "matched_query": "Tarikere, Chikkamagaluru, Karnataka",
+    "display_name": "Tarikere, Tarikere taluku, Chikkamagaluru, Karnataka, 577228, India"
+  },
+  "taluk general hospital mudigere": {
+    "status": "geocoded",
+    "latitude": 13.133334,
+    "longitude": 75.641918,
+    "matched_query": "Mudigere, Chikkamagaluru, Karnataka",
+    "display_name": "Mudigere, Mudigere taluk, Chikkamagaluru, Karnataka, 577132, India"
+  },
+  "taluk general hospital koppa": {
+    "status": "geocoded",
+    "latitude": 13.533207,
+    "longitude": 75.363399,
+    "matched_query": "Koppa, Chikkamagaluru, Karnataka",
+    "display_name": "Koppa, Koppa taluk, Chikkamagaluru, Karnataka, India"
+  },
+  "taluk general hospital sringeri": {
+    "status": "geocoded",
+    "latitude": 13.426172,
+    "longitude": 75.255369,
+    "matched_query": "Sringeri, Chikkamagaluru, Karnataka",
+    "display_name": "Sringeri, Sringeri taluku, Chikkamagaluru, Karnataka, 577592, India"
+  },
+  "taluk general hospital narasimharajapura": {
+    "status": "geocoded",
+    "latitude": 13.610796,
+    "longitude": 75.51173,
+    "matched_query": "Narasimharajapura, Chikkamagaluru, Karnataka",
+    "display_name": "Narasimharajapura, Narasimharajapura taluk, Chikkamagaluru, Karnataka, 577134, India"
+  },
+  "shivamogga institute of medical sciences": {
+    "status": "geocoded",
+    "latitude": 13.932609,
+    "longitude": 75.574978,
+    "matched_query": "Shivamogga, Karnataka",
+    "display_name": "Shivamogga, Shivamogga taluk, Shimoga, Karnataka, 577200, India"
+  },
+  "mcgann district hospital shivamogga": {
+    "status": "geocoded",
+    "latitude": 13.932609,
+    "longitude": 75.574978,
+    "matched_query": "Shivamogga, Karnataka",
+    "display_name": "Shivamogga, Shivamogga taluk, Shimoga, Karnataka, 577200, India"
+  },
+  "taluk general hospital bhadravathi": {
+    "status": "geocoded",
+    "latitude": 13.850207,
+    "longitude": 75.703786,
+    "matched_query": "Bhadravathi, Shivamogga, Karnataka",
+    "display_name": "Bhadravathi, Bhadravati taluk, Shimoga, Karnataka, 577300, India"
+  },
+  "taluk general hospital thirthahalli": {
+    "status": "geocoded",
+    "latitude": 13.690314,
+    "longitude": 75.240754,
+    "matched_query": "Thirthahalli, Shivamogga, Karnataka",
+    "display_name": "Agumbe Road, Seebinakere, Tirthahalli, Tirthahalli taluk, Shimoga, Karnataka, 577432, India"
+  },
+  "taluk general hospital hosanagara": {
+    "status": "geocoded",
+    "latitude": 13.916789,
+    "longitude": 75.065795,
+    "matched_query": "Hosanagara, Shivamogga, Karnataka",
+    "display_name": "Hosanagara, Hosanagara taluk, Shimoga, Karnataka, 577418, India"
+  },
+  "taluk general hospital sagar": {
+    "status": "geocoded",
+    "latitude": 13.93732,
+    "longitude": 75.557018,
+    "matched_query": "Sagar, Shivamogga, Karnataka",
+    "display_name": "Sagar Road, Kiadb Auto Complex, Shivamogga, Shivamogga taluk, Shimoga, Karnataka, 577200, India"
+  },
+  "taluk general hospital shikaripura": {
+    "status": "geocoded",
+    "latitude": 14.263966,
+    "longitude": 75.35878,
+    "matched_query": "Shikaripura, Shivamogga, Karnataka",
+    "display_name": "Shikaripura, Shikaripura taluk, Shimoga, Karnataka, 577427, India"
+  },
+  "taluk general hospital sorab": {
+    "status": "geocoded",
+    "latitude": 14.174819,
+    "longitude": 75.029293,
+    "matched_query": "Sorab, Shivamogga, Karnataka",
+    "display_name": "Sorab Road, Sagara, Sagara taluk, Shimoga, Karnataka, 577400, India"
+  },
+  "jjm medical college hospital davanagere": {
+    "status": "geocoded",
+    "latitude": 14.255883,
+    "longitude": 75.830342,
+    "matched_query": "Davanagere, Karnataka",
+    "display_name": "Davanagere, Karnataka, India"
+  },
+  "chigateri district hospital davanagere": {
+    "status": "geocoded",
+    "latitude": 14.456983,
+    "longitude": 75.915621,
+    "matched_query": "Chigateri District Hospital Davanagere, Davanagere, Karnataka",
+    "display_name": "Chigateri Government District Hospital, Dental College Road, K.T. Jambanna Nagara, Davanagere, Davanagere Taluku, Davanagere, Karnataka, 577004, India"
+  },
+  "ss institute of medical sciences davanagere": {
+    "status": "geocoded",
+    "latitude": 14.255883,
+    "longitude": 75.830342,
+    "matched_query": "Davanagere, Karnataka",
+    "display_name": "Davanagere, Karnataka, India"
+  },
+  "taluk general hospital channagiri": {
+    "status": "geocoded",
+    "latitude": 14.0252,
+    "longitude": 75.925,
+    "matched_query": "Channagiri, Davanagere, Karnataka",
+    "display_name": "Channagiri, Channagiri taluku, Davanagere, Karnataka, 577213, India"
+  },
+  "taluk general hospital honnali": {
+    "status": "geocoded",
+    "latitude": 14.238978,
+    "longitude": 75.645743,
+    "matched_query": "Honnali, Davanagere, Karnataka",
+    "display_name": "Honnali, Honnali taluku, Davanagere, Karnataka, 577217, India"
+  },
+  "taluk general hospital jagalur": {
+    "status": "geocoded",
+    "latitude": 14.469637,
+    "longitude": 76.353824,
+    "matched_query": "Jagalur, Davanagere, Karnataka",
+    "display_name": "Jagalur Hill, ಗೊಲ್ಲರಹಟ್ಟಿ, Jagaluru taluku, Davanagere, Karnataka, 577528, India"
+  },
+  "taluk general hospital harapanahalli": {
+    "status": "geocoded",
+    "latitude": 14.78192,
+    "longitude": 75.99012,
+    "matched_query": "Harapanahalli, Davanagere, Karnataka",
+    "display_name": "UHC Harapanahalli, SH150, Harapanahalli, Harapanahalli taluku, Davanagere, Karnataka, 583131, India"
+  },
+  "basaveshwara medical college chitradurga": {
+    "status": "geocoded",
+    "latitude": 14.304917,
+    "longitude": 76.529667,
+    "matched_query": "Chitradurga, Karnataka",
+    "display_name": "Chitradurga, Karnataka, India"
+  },
+  "district hospital chitradurga": {
+    "status": "geocoded",
+    "latitude": 14.220476,
+    "longitude": 76.405533,
+    "matched_query": "District Hospital Chitradurga, Chitradurga, Karnataka",
+    "display_name": "District Hospital, Chitradurga, SH48, Chitradurga, Chitradurga taluku, Chitradurga, Karnataka, 577436, India"
+  },
+  "taluk general hospital challakere": {
+    "status": "geocoded",
+    "latitude": 14.316406,
+    "longitude": 76.650414,
+    "matched_query": "Taluk General Hospital Challakere, Challakere, Chitradurga, Karnataka",
+    "display_name": "Government Taluk General Hospital, Challakere, Chitradurga Road, Kattappanahatti, Challakere, Challakere taluku, Chitradurga, Karnataka, 577522, India"
+  },
+  "taluk general hospital holalkere": {
+    "status": "geocoded",
+    "latitude": 14.042833,
+    "longitude": 76.184488,
+    "matched_query": "Holalkere, Chitradurga, Karnataka",
+    "display_name": "Holalkere, Holalkere taluk, Chitradurga, Karnataka, 577526, India"
+  },
+  "taluk general hospital hiriyur": {
+    "status": "geocoded",
+    "latitude": 13.944324,
+    "longitude": 76.616741,
+    "matched_query": "Hiriyur, Chitradurga, Karnataka",
+    "display_name": "Hiriyur, Hiriyuru taluk, Chitradurga, Karnataka, 572143, India"
+  },
+  "taluk general hospital molakalmuru": {
+    "status": "geocoded",
+    "latitude": 14.717316,
+    "longitude": 76.745457,
+    "matched_query": "Molakalmuru, Chitradurga, Karnataka",
+    "display_name": "Molakalmuru, Molakalmuru taluku, Chitradurga, Karnataka, 577535, India"
+  },
+  "taluk general hospital hosadurga": {
+    "status": "geocoded",
+    "latitude": 13.798776,
+    "longitude": 76.283103,
+    "matched_query": "Hosadurga, Chitradurga, Karnataka",
+    "display_name": "Hosadurga, Hosadurga taluku, Chitradurga, Karnataka, 577527, India"
+  },
+  "sri siddhartha medical college tumakuru": {
+    "status": "geocoded",
+    "latitude": 13.348566,
+    "longitude": 77.057591,
+    "matched_query": "Sri Siddhartha Medical College Tumakuru, Tumakuru, Karnataka",
+    "display_name": "Sri Siddhartha Medical and Dental College, NH73, Heggere, Tumkur taluk, Tumakuru, Karnataka, 572107, India"
+  },
+  "district hospital tumakuru": {
+    "status": "geocoded",
+    "latitude": 13.340344,
+    "longitude": 77.099369,
+    "matched_query": "District Hospital Tumakuru, Tumakuru, Karnataka",
+    "display_name": "District Hospital Tumakuru, Bangalore Honnavar Road, Tumakuru, Tumkur taluk, Tumakuru, Karnataka, 572101, India"
+  },
+  "taluk general hospital tiptur": {
+    "status": "geocoded",
+    "latitude": 13.258575,
+    "longitude": 76.473767,
+    "matched_query": "Tiptur, Tumakuru, Karnataka",
+    "display_name": "Tiptur, Tipaturu taluk, Tumakuru, Karnataka, 572200, India"
+  },
+  "taluk general hospital gubbi": {
+    "status": "geocoded",
+    "latitude": 13.309574,
+    "longitude": 76.94007,
+    "matched_query": "Gubbi, Tumakuru, Karnataka",
+    "display_name": "Gubbi, Gubbi taluk, Tumakuru, Karnataka, 572216, India"
+  },
+  "taluk general hospital koratagere": {
+    "status": "geocoded",
+    "latitude": 13.521542,
+    "longitude": 77.235891,
+    "matched_query": "Koratagere, Tumakuru, Karnataka",
+    "display_name": "Koratagere, Koratagere taluku, Tumakuru, Karnataka, 572129, India"
+  },
+  "taluk general hospital madhugiri": {
+    "status": "geocoded",
+    "latitude": 13.660179,
+    "longitude": 77.214088,
+    "matched_query": "Madhugiri, Tumakuru, Karnataka",
+    "display_name": "Madhugiri, Madhugiri taluk, Tumakuru, Karnataka, 572132, India"
+  },
+  "taluk general hospital chikkanayakanahalli": {
+    "status": "geocoded",
+    "latitude": 13.419077,
+    "longitude": 76.620278,
+    "matched_query": "Chikkanayakanahalli, Tumakuru, Karnataka",
+    "display_name": "Chikkanayakanahalli, Chikkanayakanahalli taluk, Tumakuru, Karnataka, 572214, India"
+  },
+  "taluk general hospital pavagada": {
+    "status": "geocoded",
+    "latitude": 14.105449,
+    "longitude": 77.275047,
+    "matched_query": "Pavagada, Tumakuru, Karnataka",
+    "display_name": "Pavagada, Pavagada taluk, Tumakuru, Karnataka, 561202, India"
+  },
+  "taluk general hospital sira": {
+    "status": "geocoded",
+    "latitude": 13.740947,
+    "longitude": 76.905738,
+    "matched_query": "Sira, Tumakuru, Karnataka",
+    "display_name": "Sira, Sira taluk, Tumakuru, Karnataka, 572137, India"
+  },
+  "taluk general hospital turuvekere": {
+    "status": "geocoded",
+    "latitude": 13.16272,
+    "longitude": 76.668068,
+    "matched_query": "Turuvekere, Tumakuru, Karnataka",
+    "display_name": "Turuvekere, Turuvekere taluk, Tumakuru, Karnataka, 572227, India"
+  },
+  "district hospital ramanagara": {
+    "status": "geocoded",
+    "latitude": 12.730123,
+    "longitude": 77.287374,
+    "matched_query": "District Hospital Ramanagara, Ramanagara, Karnataka",
+    "display_name": "District Government Hospital, Bengaluru - Mysuru Road, Basavanapura, Vaderahalli, Ramanagara taluk, Bengaluru South, Karnataka, 562159, India"
+  },
+  "taluk general hospital channapatna": {
+    "status": "geocoded",
+    "latitude": 12.659373,
+    "longitude": 77.203893,
+    "matched_query": "Channapatna, Ramanagara, Karnataka",
+    "display_name": "Channapatna, Railway Station Road, Channapattana, Channapattana taluk, Bengaluru South, Karnataka, 571500, India"
+  },
+  "taluk general hospital magadi": {
+    "status": "geocoded",
+    "latitude": 12.956735,
+    "longitude": 77.224228,
+    "matched_query": "Magadi, Ramanagara, Karnataka",
+    "display_name": "Magadi, Magadi taluku, Bengaluru South, Karnataka, 562120, India"
+  },
+  "taluk general hospital kanakapura": {
+    "status": "geocoded",
+    "latitude": 12.545027,
+    "longitude": 77.41991,
+    "matched_query": "Kanakapura, Ramanagara, Karnataka",
+    "display_name": "Kanakapura, Kanakapura taluk, Bengaluru South, Karnataka, 562117, India"
+  },
+  "district hospital kolar": {
+    "status": "geocoded",
+    "latitude": 13.129124,
+    "longitude": 78.134261,
+    "matched_query": "District Hospital Kolar, Kolar, Karnataka",
+    "display_name": "Sri Narshima Raja District Hospital, S.N.R Hospital Road, Harohalli, Kolar, Kolar taluk, Kolar, Karnataka, 563101, India"
+  },
+  "taluk general hospital bangarpet": {
+    "status": "geocoded",
+    "latitude": 12.98822,
+    "longitude": 78.181256,
+    "matched_query": "Bangarpet, Kolar, Karnataka",
+    "display_name": "Bangarapete, Bangarapet taluk, Kolar, Karnataka, 563114, India"
+  },
+  "taluk general hospital malur": {
+    "status": "geocoded",
+    "latitude": 13.00587,
+    "longitude": 77.939365,
+    "matched_query": "Malur, Kolar, Karnataka",
+    "display_name": "Maluru, Maluru taluk, Kolar, Karnataka, 562116, India"
+  },
+  "taluk general hospital mulbagal": {
+    "status": "geocoded",
+    "latitude": 13.166048,
+    "longitude": 78.392724,
+    "matched_query": "Mulbagal, Kolar, Karnataka",
+    "display_name": "Mulabagilu, Mulubagilu taluk, Kolar, Karnataka, 563131, India"
+  },
+  "taluk general hospital srinivasapur": {
+    "status": "failed"
+  },
+  "taluk general hospital robertsonpet": {
+    "status": "geocoded",
+    "latitude": 12.95813,
+    "longitude": 78.274367,
+    "matched_query": "Robertsonpet, Kolar, Karnataka",
+    "display_name": "Robertsonpet, Kolar Gold Fields, Kolar Gold Field taluk, Kolar, Karnataka, 563115, India"
+  },
+  "district hospital chikkaballapur": {
+    "status": "geocoded",
+    "latitude": 13.099376,
+    "longitude": 77.388729,
+    "matched_query": "Chikkaballapur, Karnataka",
+    "display_name": "Nelamangala - Chikkaballapur Highway, Nelamangala, Nelamangala taluk, Bengaluru North, Karnataka, 562123, India"
+  },
+  "taluk general hospital gauribidanur": {
+    "status": "failed"
+  },
+  "taluk general hospital chintamani": {
+    "status": "geocoded",
+    "latitude": 13.397926,
+    "longitude": 78.053317,
+    "matched_query": "Chintamani, Chikkaballapur, Karnataka",
+    "display_name": "Dhanush Hospital, Chintamani, Filter Bed Road, Chintamani, Chintamani taluk, Chikkaballapura, Karnataka, 563125, India"
+  },
+  "taluk general hospital gudibanda": {
+    "status": "failed"
+  },
+  "taluk general hospital bagepalli": {
+    "status": "failed"
+  },
+  "taluk general hospital sidlaghatta": {
+    "status": "failed"
+  },
+  "sdm medical college hospital dharwad": {
+    "status": "geocoded",
+    "latitude": 15.37073,
+    "longitude": 75.133287,
+    "matched_query": "Dharwad, Karnataka",
+    "display_name": "Dharwad, Karnataka, India"
+  },
+  "district hospital dharwad": {
+    "status": "geocoded",
+    "latitude": 15.443657,
+    "longitude": 75.008016,
+    "matched_query": "District Hospital Dharwad, Dharwad, Karnataka",
+    "display_name": "District Hospital, Dharwad, 2nd Cross, Malmaddi, Saraswathpur, Gandhinagar, Dharwad, Dharawada taluku, Dharwad, Karnataka, 580007, India"
+  },
+  "karnataka institute of medical sciences hubli": {
+    "status": "geocoded",
+    "latitude": 15.361498,
+    "longitude": 75.130941,
+    "matched_query": "Karnataka Institute of Medical Sciences Hubli, Hubli, Dharwad, Karnataka",
+    "display_name": "Institute of Medical Sciences, Pune Bangalore Road, Vidyanagar, Hubballi, Hubballi Urban Taluku, Dharwad, Karnataka, 580022, India"
+  },
+  "esi hospital hubli": {
+    "status": "geocoded",
+    "latitude": 15.340232,
+    "longitude": 75.126967,
+    "matched_query": "ESI Hospital Hubli, Hubli, Dharwad, Karnataka",
+    "display_name": "Heggeri,Esi Hospital, Karwar Road, Bafana Nagar, Old Hubli, Hubballi, Hubballi Urban Taluku, Dharwad, Karnataka, 580030, India"
+  },
+  "taluk general hospital navalgund": {
+    "status": "geocoded",
+    "latitude": 15.558221,
+    "longitude": 75.353848,
+    "matched_query": "Navalgund, Dharwad, Karnataka",
+    "display_name": "Navalgund, Navalagunda taluku, Dharwad, Karnataka, 582208, India"
+  },
+  "taluk general hospital kalghatgi": {
+    "status": "geocoded",
+    "latitude": 15.18312,
+    "longitude": 74.994564,
+    "matched_query": "Kalghatgi, Dharwad, Karnataka",
+    "display_name": "Kalghatgi Road, Madaki Honnalli, Kalaghatagi taluku, Dharwad, Karnataka, 581204, India"
+  },
+  "taluk general hospital kundgol": {
+    "status": "geocoded",
+    "latitude": 15.258883,
+    "longitude": 75.250045,
+    "matched_query": "Kundgol, Dharwad, Karnataka",
+    "display_name": "Kundgol, SH137, Kundagola, Kundagola taluku, Dharwad, Karnataka, India"
+  },
+  "taluk general hospital kalaghatagi": {
+    "status": "geocoded",
+    "latitude": 15.181892,
+    "longitude": 74.971846,
+    "matched_query": "Kalaghatagi, Dharwad, Karnataka",
+    "display_name": "Kalaghatagi, Kalaghatagi taluku, Dharwad, Karnataka, 581204, India"
+  },
+  "s nijalingappa medical college gadag": {
+    "status": "geocoded",
+    "latitude": 15.416692,
+    "longitude": 75.68158,
+    "matched_query": "Gadag, Karnataka",
+    "display_name": "Gadag, Karnataka, India"
+  },
+  "district hospital gadag": {
+    "status": "geocoded",
+    "latitude": 15.378703,
+    "longitude": 75.601934,
+    "matched_query": "District Hospital Gadag, Gadag, Karnataka",
+    "display_name": "Gadag Institute of Medical Sciences & District Hospital Blood Bank, SH6, Malasamudra, Gadag taluk, Gadag, Karnataka, 582103, India"
+  },
+  "taluk general hospital ron": {
+    "status": "geocoded",
+    "latitude": 15.699694,
+    "longitude": 75.734991,
+    "matched_query": "Ron, Gadag, Karnataka",
+    "display_name": "Ron, Rona taluku, Gadag, Karnataka, 582209, India"
+  },
+  "taluk general hospital nargund": {
+    "status": "geocoded",
+    "latitude": 15.722038,
+    "longitude": 75.384625,
+    "matched_query": "Nargund, Gadag, Karnataka",
+    "display_name": "Naragunda, Naragunda taluk, Gadag, Karnataka, 582200, India"
+  },
+  "taluk general hospital mundargi": {
+    "status": "geocoded",
+    "latitude": 15.201367,
+    "longitude": 75.884182,
+    "matched_query": "Mundargi, Gadag, Karnataka",
+    "display_name": "Mundargi Hospital, SH45, Ashraya Badavane, Mundaragi, Mundargi taluku, Gadag, Karnataka, 582118, India"
+  },
+  "taluk general hospital shirahatti": {
+    "status": "geocoded",
+    "latitude": 15.234576,
+    "longitude": 75.5792,
+    "matched_query": "Shirahatti, Gadag, Karnataka",
+    "display_name": "Shirahatti, Shirahatti taluku, Gadag, Karnataka, 582120, India"
+  },
+  "taluk general hospital lakshmeshwar": {
+    "status": "geocoded",
+    "latitude": 15.12373,
+    "longitude": 75.474117,
+    "matched_query": "Lakshmeshwar, Gadag, Karnataka",
+    "display_name": "Lakshmeshwar KSRTC Bus stand, SH6, Bastibana, Lakshmeshvara, Lakshmeshvara taluku, Gadag, Karnataka, 582116, India"
+  },
+  "district hospital haveri": {
+    "status": "geocoded",
+    "latitude": 14.785355,
+    "longitude": 75.403168,
+    "matched_query": "District Hospital Haveri, Haveri, Karnataka",
+    "display_name": "Haveri District Hospital, SH62, Haveri, Haveri taluku, Haveri, Karnataka, 581110, India"
+  },
+  "taluk general hospital ranebennur": {
+    "status": "geocoded",
+    "latitude": 14.61658,
+    "longitude": 75.634153,
+    "matched_query": "Ranebennur, Haveri, Karnataka",
+    "display_name": "Ranebennur, Ranebennuru taluk, Haveri, Karnataka, 581115, India"
+  },
+  "taluk general hospital hangal": {
+    "status": "geocoded",
+    "latitude": 14.782177,
+    "longitude": 75.135686,
+    "matched_query": "Hangal, Haveri, Karnataka",
+    "display_name": "Hangal Bus Depot, SH137, Vivekananda Nagar, Kopparasikoppa, Hanagal taluk, Haveri, Karnataka, 581104, India"
+  },
+  "taluk general hospital savanur": {
+    "status": "geocoded",
+    "latitude": 14.975024,
+    "longitude": 75.339706,
+    "matched_query": "Savanur, Haveri, Karnataka",
+    "display_name": "Savanuru, Savanura taluk, Haveri, Karnataka, 581118, India"
+  },
+  "taluk general hospital shiggaon": {
+    "status": "geocoded",
+    "latitude": 14.989901,
+    "longitude": 75.223482,
+    "matched_query": "Shiggaon, Haveri, Karnataka",
+    "display_name": "Shiggaon, Shiggaon taluk, Haveri, Karnataka, 581205, India"
+  },
+  "taluk general hospital byadgi": {
+    "status": "geocoded",
+    "latitude": 14.699155,
+    "longitude": 75.489622,
+    "matched_query": "Byadgi, Haveri, Karnataka",
+    "display_name": "Byadgi, SH136, Byadagi, Byadagi taluk, Haveri, Karnataka, 581106, India"
+  },
+  "taluk general hospital hirekerur": {
+    "status": "geocoded",
+    "latitude": 14.45624,
+    "longitude": 75.39522,
+    "matched_query": "Hirekerur, Haveri, Karnataka",
+    "display_name": "Hirekerur Government Hospital, SH62, Chikkeruru, Hirekeruru taluk, Haveri, Karnataka, 581111, India"
+  },
+  "district hospital karwar": {
+    "status": "geocoded",
+    "latitude": 14.817509,
+    "longitude": 74.129496,
+    "matched_query": "District Hospital Karwar, Karwar, Uttara Kannada, Karnataka",
+    "display_name": "Karwar District Hospital, Civil Hospital Road, Karnataka Housing Board Colony, Karwar, Karwar taluk, Uttara Kannada, Karnataka, 581301, India"
+  },
+  "district hospital sirsi": {
+    "status": "geocoded",
+    "latitude": 14.619236,
+    "longitude": 74.838861,
+    "matched_query": "Sirsi, Uttara Kannada, Karnataka",
+    "display_name": "Sirsi, Shirasi Taluk, Uttara Kannada, Karnataka, 581401, India"
+  },
+  "taluk general hospital kumta": {
+    "status": "geocoded",
+    "latitude": 14.43724,
+    "longitude": 74.421244,
+    "matched_query": "Kumta, Uttara Kannada, Karnataka",
+    "display_name": "Kumta, Sirsi - Kumta Highway   ಸಿರ್ಸಿ - ಕುಮಟಾ ಹೆದ್ದಾರಿ, Manaki, Kumata taluk, Uttara Kannada, Karnataka, 581343, India"
+  },
+  "taluk general hospital ankola": {
+    "status": "geocoded",
+    "latitude": 14.645359,
+    "longitude": 74.331925,
+    "matched_query": "Ankola, Uttara Kannada, Karnataka",
+    "display_name": "Ankola, NH66, Bole, Ankola taluk, Uttara Kannada, Karnataka, 581353, India"
+  },
+  "taluk general hospital honavar": {
+    "status": "failed"
+  },
+  "taluk general hospital bhatkal": {
+    "status": "geocoded",
+    "latitude": 13.989357,
+    "longitude": 74.56563,
+    "matched_query": "Bhatkal, Uttara Kannada, Karnataka",
+    "display_name": "Bhatkal, NH66, Kokti, Bhatkal, Bhatkal taluk, Uttara Kannada, Karnataka, 581320, India"
+  },
+  "taluk general hospital yellapur": {
+    "status": "geocoded",
+    "latitude": 14.963444,
+    "longitude": 74.712079,
+    "matched_query": "Yellapur, Uttara Kannada, Karnataka",
+    "display_name": "Yellapura, Yallapura taluk, Uttara Kannada, Karnataka, 581359, India"
+  },
+  "taluk general hospital siddapur": {
+    "status": "geocoded",
+    "latitude": 14.563702,
+    "longitude": 74.804616,
+    "matched_query": "Siddapur, Uttara Kannada, Karnataka",
+    "display_name": "Siddapur Road, Boppanalli, Mashigadde, Shirasi Taluk, Uttara Kannada, Karnataka, 581446, India"
+  },
+  "taluk general hospital haliyal": {
+    "status": "geocoded",
+    "latitude": 15.329973,
+    "longitude": 74.764667,
+    "matched_query": "Haliyal, Uttara Kannada, Karnataka",
+    "display_name": "Haliyal, Haliyala taluku, Uttara Kannada, Karnataka, 581329, India"
+  },
+  "taluk general hospital dandeli": {
+    "status": "geocoded",
+    "latitude": 15.249028,
+    "longitude": 74.623604,
+    "matched_query": "Dandeli, Uttara Kannada, Karnataka",
+    "display_name": "Dandeli, Dandeli taluku, Uttara Kannada, Karnataka, 581325, India"
+  },
+  "taluk general hospital joida": {
+    "status": "geocoded",
+    "latitude": 15.164551,
+    "longitude": 74.485067,
+    "matched_query": "Joida, Uttara Kannada, Karnataka",
+    "display_name": "Joida, Supa taluk, Uttara Kannada, Karnataka, India"
+  },
+  "taluk general hospital mundgod": {
+    "status": "geocoded",
+    "latitude": 14.971526,
+    "longitude": 75.041308,
+    "matched_query": "Mundgod, Uttara Kannada, Karnataka",
+    "display_name": "Mundgod, Mundagoda taluk, Uttara Kannada, Karnataka, 581349, India"
+  },
+  "wenlock district hospital mangaluru": {
+    "status": "geocoded",
+    "latitude": 12.86981,
+    "longitude": 74.843008,
+    "matched_query": "Mangaluru, Karnataka",
+    "display_name": "Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India"
+  },
+  "district hospital puttur": {
+    "status": "geocoded",
+    "latitude": 12.758473,
+    "longitude": 75.200597,
+    "matched_query": "District Hospital Puttur, Puttur, Dakshina Kannada, Karnataka",
+    "display_name": "Puttur District Hospital, NH275, ಬನ್ನೂರು, Puttur, Putturu taluk, Dakshina Kannada, Karnataka, 574201, India"
+  },
+  "taluk general hospital sullia": {
+    "status": "geocoded",
+    "latitude": 12.557664,
+    "longitude": 75.390758,
+    "matched_query": "Sullia, Dakshina Kannada, Karnataka",
+    "display_name": "Sulya, Sulya taluk, Dakshina Kannada, Karnataka, 574239, India"
+  },
+  "taluk general hospital bantwal": {
+    "status": "geocoded",
+    "latitude": 12.894021,
+    "longitude": 75.041558,
+    "matched_query": "Taluk General Hospital Bantwal, Bantwal, Dakshina Kannada, Karnataka",
+    "display_name": "Taluk General Hospital, NH73, Kinnibettu, Jakribettu, Dakshina Kannada, Karnataka, 574211, India"
+  },
+  "taluk general hospital belthangady": {
+    "status": "geocoded",
+    "latitude": 12.985127,
+    "longitude": 75.272695,
+    "matched_query": "Belthangady, Dakshina Kannada, Karnataka",
+    "display_name": "Government Pre University College Belthangady, NH73, Maddadka, Guruvayanakere, Beltangadi taluk, Dakshina Kannada, Karnataka, 574228, India"
+  },
+  "taluk general hospital moodabidri": {
+    "status": "geocoded",
+    "latitude": 13.069922,
+    "longitude": 74.997747,
+    "matched_query": "Moodabidri, Dakshina Kannada, Karnataka",
+    "display_name": "Moodabidri, Moodabidri taluk, Dakshina Kannada, Karnataka, 574227, India"
+  },
+  "district hospital udupi": {
+    "status": "geocoded",
+    "latitude": 13.334017,
+    "longitude": 74.742304,
+    "matched_query": "District Hospital Udupi, Udupi, Karnataka",
+    "display_name": "District Hospital, Nairkere Road, Brahmagiri, Kinnimulki, Udupi taluku, Udupi, Karnataka, 576101, India"
+  },
+  "taluk general hospital kundapura": {
+    "status": "geocoded",
+    "latitude": 13.613374,
+    "longitude": 74.728686,
+    "matched_query": "Kundapura, Udupi, Karnataka",
+    "display_name": "Kundapura, Railway Station Road, Kandhavara, Koni, Kundapura, Udupi, Karnataka, 576211, India"
+  },
+  "taluk general hospital karkala": {
+    "status": "geocoded",
+    "latitude": 13.214541,
+    "longitude": 74.995186,
+    "matched_query": "Karkala, Udupi, Karnataka",
+    "display_name": "Karkala, Karkala taluk, Udupi, Karnataka, 574104, India"
+  },
+  "taluk general hospital brahmavar": {
+    "status": "geocoded",
+    "latitude": 13.437535,
+    "longitude": 74.745397,
+    "matched_query": "Brahmavar, Udupi, Karnataka",
+    "display_name": "Brahmavar Market Road, Brahmavara, Brahmavara taluku, Udupi, Karnataka, 576213, India"
+  },
+  "taluk general hospital hebri": {
+    "status": "geocoded",
+    "latitude": 13.459429,
+    "longitude": 74.991552,
+    "matched_query": "Hebri, Udupi, Karnataka",
+    "display_name": "Hebri, Hebri taluku, Udupi, Karnataka, 576112, India"
+  },
+  "taluk general hospital byndoor": {
+    "status": "geocoded",
+    "latitude": 13.8718,
+    "longitude": 74.632716,
+    "matched_query": "Byndoor, Udupi, Karnataka",
+    "display_name": "Mookambika Road Byndoor, NH66, Yojana Nagara, Bainduru, Bainduru taluku, Udupi, Karnataka, 576214, India"
+  },
+  "belagavi institute of medical sciences": {
+    "status": "geocoded",
+    "latitude": 16.158785,
+    "longitude": 74.888862,
+    "matched_query": "Belagavi, Karnataka",
+    "display_name": "Belagavi, Karnataka, India"
+  },
+  "district hospital belagavi": {
+    "status": "geocoded",
+    "latitude": 15.868517,
+    "longitude": 74.510307,
+    "matched_query": "District Hospital Belagavi, Belagavi, Karnataka",
+    "display_name": "Civil District Hospiltal, SH20, Khade Bazar, Belagavi, Belagavi taluku, Belagavi, Karnataka, 590001, India"
+  },
+  "esi hospital belagavi": {
+    "status": "geocoded",
+    "latitude": 15.872107,
+    "longitude": 74.526872,
+    "matched_query": "ESI Hospital Belagavi, Belagavi, Karnataka",
+    "display_name": "ESI Hospital, NH48, Mahantesh Nagar, Belagavi, Belagavi taluku, Belagavi, Karnataka, 590016, India"
+  },
+  "taluk general hospital gokak": {
+    "status": "geocoded",
+    "latitude": 16.169303,
+    "longitude": 74.822434,
+    "matched_query": "Gokak, Belagavi, Karnataka",
+    "display_name": "Gokak, Gokak taluku, Belagavi, Karnataka, 591307, India"
+  },
+  "taluk general hospital chikkodi": {
+    "status": "geocoded",
+    "latitude": 16.426528,
+    "longitude": 74.586132,
+    "matched_query": "Chikkodi, Belagavi, Karnataka",
+    "display_name": "Chikkodi, Chikodi taluk, Belagavi, Karnataka, 591200, India"
+  },
+  "taluk general hospital athani": {
+    "status": "geocoded",
+    "latitude": 16.727002,
+    "longitude": 75.063143,
+    "matched_query": "Athani, Belagavi, Karnataka",
+    "display_name": "Athani, Athani taluku, Belagavi, Karnataka, 591304, India"
+  },
+  "taluk general hospital raibag": {
+    "status": "geocoded",
+    "latitude": 16.491617,
+    "longitude": 74.774134,
+    "matched_query": "Raibag, Belagavi, Karnataka",
+    "display_name": "Rayabag, Raybag taluk, Belagavi, Karnataka, 591317, India"
+  },
+  "taluk general hospital bailhongal": {
+    "status": "geocoded",
+    "latitude": 15.816422,
+    "longitude": 74.856869,
+    "matched_query": "Bailhongal, Belagavi, Karnataka",
+    "display_name": "Bailahongala, Bailahongala taluku, Belagavi, Karnataka, 591102, India"
+  },
+  "taluk general hospital ramdurg": {
+    "status": "geocoded",
+    "latitude": 15.944955,
+    "longitude": 75.29678,
+    "matched_query": "Ramdurg, Belagavi, Karnataka",
+    "display_name": "Ramadurga, Ramadurga taluku, Belagavi, Karnataka, India"
+  },
+  "taluk general hospital khanapur": {
+    "status": "geocoded",
+    "latitude": 15.638784,
+    "longitude": 74.506102,
+    "matched_query": "Khanapur, Belagavi, Karnataka",
+    "display_name": "Khanapur, Khanapura taluku, Belagavi, Karnataka, 591302, India"
+  },
+  "taluk general hospital hukkeri": {
+    "status": "geocoded",
+    "latitude": 16.230857,
+    "longitude": 74.602977,
+    "matched_query": "Hukkeri, Belagavi, Karnataka",
+    "display_name": "Hukkeri, Hukkeri taluk, Belagavi, Karnataka, 591309, India"
+  },
+  "taluk general hospital savadatti": {
+    "status": "geocoded",
+    "latitude": 15.767182,
+    "longitude": 75.117483,
+    "matched_query": "Savadatti, Belagavi, Karnataka",
+    "display_name": "Savadatti, Savadatti taluku, Belagavi, Karnataka, 591126, India"
+  },
+  "taluk general hospital ramdurga": {
+    "status": "failed"
+  },
+  "s nijalingappa medical college bagalkot": {
+    "status": "geocoded",
+    "latitude": 16.166062,
+    "longitude": 75.672718,
+    "matched_query": "S Nijalingappa Medical College Bagalkot, Bagalkot, Karnataka",
+    "display_name": "S Nijalingappa Medical College, Bahanpur - Gadankeri Highway, Vidyagiri, Bagalkote, Bagalakote taluk, Bagalkote, Karnataka, 587102, India"
+  },
+  "district hospital bagalkot": {
+    "status": "geocoded",
+    "latitude": 16.165376,
+    "longitude": 75.660918,
+    "matched_query": "District Hospital Bagalkot, Bagalkot, Karnataka",
+    "display_name": "District Hospital, Bahanpur - Gadankeri Highway, Vidyagiri, Bagalkote, Bagalakote taluk, Bagalkote, Karnataka, 587301, India"
+  },
+  "taluk general hospital mudhol": {
+    "status": "geocoded",
+    "latitude": 16.334021,
+    "longitude": 75.286508,
+    "matched_query": "Mudhol, Bagalkot, Karnataka",
+    "display_name": "Chetana Hospital, Mudhol, SH34, Mudhol, Mudhola taluku, Bagalkote, Karnataka, 587313, India"
+  },
+  "taluk general hospital jamkhandi": {
+    "status": "geocoded",
+    "latitude": 16.506464,
+    "longitude": 75.293218,
+    "matched_query": "Jamkhandi, Bagalkot, Karnataka",
+    "display_name": "Government Hospital, Jamkhandi, SH34, Jamakhandi, Jamakhandi taluku, Bagalkote, Karnataka, 587300, India"
+  },
+  "taluk general hospital bilgi": {
+    "status": "failed"
+  },
+  "taluk general hospital badami": {
+    "status": "geocoded",
+    "latitude": 15.921668,
+    "longitude": 75.677894,
+    "matched_query": "Badami, Bagalkot, Karnataka",
+    "display_name": "Government Hospital, Badami, 17/3 Station Road Badami, Agastya Tirtha, Badami, Badami taluku, Bagalkote, Karnataka, 587201, India"
+  },
+  "taluk general hospital hungund": {
+    "status": "geocoded",
+    "latitude": 16.06689,
+    "longitude": 76.059741,
+    "matched_query": "Hungund, Bagalkot, Karnataka",
+    "display_name": "Hungund Government Hospital, SH60, Hunagund, Hunagunda taluku, Bagalkote, Karnataka, 587118, India"
+  },
+  "taluk general hospital ilkal": {
+    "status": "geocoded",
+    "latitude": 15.950577,
+    "longitude": 76.109555,
+    "matched_query": "Ilkal, Bagalkot, Karnataka",
+    "display_name": "Ilkal CHC, SH6, Ilakal, Ilkal taluka, Bagalkote, Karnataka, 587125, India"
+  },
+  "taluk general hospital rabkavi banhatti": {
+    "status": "failed"
+  },
+  "bldeu shri bm patil medical college vijayapura": {
+    "status": "geocoded",
+    "latitude": 16.814415,
+    "longitude": 75.893386,
+    "matched_query": "Vijayapura, Karnataka",
+    "display_name": "Vijayapura, Karnataka, India"
+  },
+  "district hospital vijayapura": {
+    "status": "geocoded",
+    "latitude": 16.825402,
+    "longitude": 75.69243,
+    "matched_query": "District Hospital Vijayapura, Vijayapura, Karnataka",
+    "display_name": "District Hospital, Ring Road, Ibrahimpura, Vijayapura, Bijapur Taluk, Vijayapura, Karnataka, 586101, India"
+  },
+  "taluk general hospital sindgi": {
+    "status": "failed"
+  },
+  "taluk general hospital indi": {
+    "status": "geocoded",
+    "latitude": 17.17446,
+    "longitude": 75.955376,
+    "matched_query": "Indi, Vijayapura, Karnataka",
+    "display_name": "Indi, Indi taluku, Vijayapura, Karnataka, 586200, India"
+  },
+  "taluk general hospital muddebihal": {
+    "status": "geocoded",
+    "latitude": 16.25538,
+    "longitude": 76.162412,
+    "matched_query": "Muddebihal, Vijayapura, Karnataka",
+    "display_name": "Muddebihal, Kolura, Muddebihala taluku, Vijayapura, Karnataka, India"
+  },
+  "taluk general hospital basavana bagewadi": {
+    "status": "geocoded",
+    "latitude": 16.480299,
+    "longitude": 75.828287,
+    "matched_query": "Basavana Bagewadi, Vijayapura, Karnataka",
+    "display_name": "Basavana Bagewadi Road, Basavana Bagevadi Road, Kolahara Taluku, Vijayapura, Karnataka, India"
+  },
+  "taluk general hospital chadchan": {
+    "status": "failed"
+  },
+  "bidar institute of medical sciences": {
+    "status": "geocoded",
+    "latitude": 17.919135,
+    "longitude": 77.515793,
+    "matched_query": "Bidar Institute of Medical Sciences, Bidar, Karnataka",
+    "display_name": "Bidar Institute of Medical Sciences, NH50, Mamanakeri, Bidar, Bidar taluku, Bidar, Karnataka, 585400, India"
+  },
+  "district hospital bidar": {
+    "status": "geocoded",
+    "latitude": 17.917788,
+    "longitude": 77.514672,
+    "matched_query": "District Hospital Bidar, Bidar, Karnataka",
+    "display_name": "The District Surgeon District Hospital Blood Bank, Madival Circle road, Mamanakeri, Bidar, Bidar taluku, Bidar, Karnataka, 585401, India"
+  },
+  "taluk general hospital aurad": {
+    "status": "geocoded",
+    "latitude": 18.250166,
+    "longitude": 77.406739,
+    "matched_query": "Aurad, Bidar, Karnataka",
+    "display_name": "Aurad, Aurad taluku, Bidar, Karnataka, India"
+  },
+  "taluk general hospital bhalki": {
+    "status": "geocoded",
+    "latitude": 18.000067,
+    "longitude": 77.202733,
+    "matched_query": "Bhalki, Bidar, Karnataka",
+    "display_name": "Bhalki, Bhalki taluku, Bidar, Karnataka, India"
+  },
+  "taluk general hospital humnabad": {
+    "status": "geocoded",
+    "latitude": 17.733241,
+    "longitude": 77.217889,
+    "matched_query": "Humnabad, Bidar, Karnataka",
+    "display_name": "Humnabad, Bataguppa, Chittaguppa, Humanabad taluku, Bidar, Karnataka, 585412, India"
+  },
+  "taluk general hospital basavakalyan": {
+    "status": "geocoded",
+    "latitude": 17.869767,
+    "longitude": 76.950953,
+    "matched_query": "Basavakalyan, Bidar, Karnataka",
+    "display_name": "Basavakalyan, Basavakalyana taluku, Bidar, Karnataka, 585327, India"
+  },
+  "taluk general hospital kamalapur": {
+    "status": "geocoded",
+    "latitude": 17.583692,
+    "longitude": 76.98185,
+    "matched_query": "Kamalapur, Bidar, Karnataka",
+    "display_name": "Kamalapur PHC, SH126, Kamalapura Tanda, Kalakora, Kalakhora, Kalaburagi, Karnataka, 585313, India"
+  },
+  "gulbarga institute of medical sciences": {
+    "status": "geocoded",
+    "latitude": 17.240896,
+    "longitude": 76.769744,
+    "matched_query": "Kalaburagi, Karnataka",
+    "display_name": "Kalaburagi, Karnataka, India"
+  },
+  "esic hospital kalaburagi": {
+    "status": "geocoded",
+    "latitude": 17.321263,
+    "longitude": 76.871739,
+    "matched_query": "ESIC Hospital Kalaburagi, Kalaburagi, Karnataka",
+    "display_name": "ESIC Hospital, Kalaburagi, Sedam Road, Rajapura, Kalaburagi, Kalaburagi taluku, Kalaburagi, Karnataka, 585106, India"
+  },
+  "district hospital kalaburagi": {
+    "status": "geocoded",
+    "latitude": 17.328193,
+    "longitude": 76.842996,
+    "matched_query": "District Hospital Kalaburagi, Kalaburagi, Karnataka",
+    "display_name": "Gulbarga District Hospital, Sedam Road, Rajapura, Kalaburagi, Kalaburagi taluku, Kalaburagi, Karnataka, 585102, India"
+  },
+  "basaveshwar teaching hospital kalaburagi": {
+    "status": "geocoded",
+    "latitude": 17.240896,
+    "longitude": 76.769744,
+    "matched_query": "Kalaburagi, Karnataka",
+    "display_name": "Kalaburagi, Karnataka, India"
+  },
+  "taluk general hospital shahapur": {
+    "status": "failed"
+  },
+  "taluk general hospital shorapur": {
+    "status": "failed"
+  },
+  "taluk general hospital gurmatkal": {
+    "status": "failed"
+  },
+  "taluk general hospital chincholi": {
+    "status": "geocoded",
+    "latitude": 17.465199,
+    "longitude": 77.418967,
+    "matched_query": "Chincholi, Kalaburagi, Karnataka",
+    "display_name": "Chincholi, Chincholi taluku, Kalaburagi, Karnataka, 585307, India"
+  },
+  "taluk general hospital jewargi": {
+    "status": "geocoded",
+    "latitude": 17.012195,
+    "longitude": 76.775235,
+    "matched_query": "Jewargi, Kalaburagi, Karnataka",
+    "display_name": "Jevaragi, Jevargi taluku, Kalaburagi, Karnataka, 585310, India"
+  },
+  "taluk general hospital afzalpur": {
+    "status": "geocoded",
+    "latitude": 17.200576,
+    "longitude": 76.360578,
+    "matched_query": "Afzalpur, Kalaburagi, Karnataka",
+    "display_name": "Afzalpur, Afzalpura taluku, Kalaburagi, Karnataka, 585301, India"
+  },
+  "district hospital yadgir": {
+    "status": "geocoded",
+    "latitude": 16.780902,
+    "longitude": 77.102826,
+    "matched_query": "District Hospital Yadgir, Yadgir, Karnataka",
+    "display_name": "District Hospital, Raichur - Wadi Road, Mudnal Sanna Tanda, Chamnalli Tanda, Yadagiri taluku, Yadgir, Karnataka, 585202, India"
+  },
+  "taluk general hospital shorapur yadgir": {
+    "status": "geocoded",
+    "latitude": 16.547695,
+    "longitude": 76.737958,
+    "matched_query": "Shorapur, Yadgir, Karnataka",
+    "display_name": "Shorapur, Yadgir, Karnataka, India"
+  },
+  "taluk general hospital wadagera": {
+    "status": "geocoded",
+    "latitude": 16.585157,
+    "longitude": 77.037325,
+    "matched_query": "Wadagera, Yadgir, Karnataka",
+    "display_name": "Wadagera taluku, Yadgir, Karnataka, 585355, India"
+  },
+  "taluk general hospital gurmatkal yadgir": {
+    "status": "geocoded",
+    "latitude": 16.867969,
+    "longitude": 77.392933,
+    "matched_query": "Gurmatkal, Yadgir, Karnataka",
+    "display_name": "Gurumathakal, Gurumitkal taluku, Yadgir, Karnataka, 585214, India"
+  },
+  "raichur institute of medical sciences": {
+    "status": "geocoded",
+    "latitude": 16.232867,
+    "longitude": 77.362382,
+    "matched_query": "Raichur Institute of Medical Sciences, Raichur, Karnataka",
+    "display_name": "Raichur Institute of Medical Sciences, Hyderabad–Panaji Economic Corridor, Singanodi, Rayachuru taluku, Raichur, Karnataka, 584101, India"
+  },
+  "district hospital raichur": {
+    "status": "geocoded",
+    "latitude": 16.780902,
+    "longitude": 77.102826,
+    "matched_query": "District Hospital Raichur, Raichur, Karnataka",
+    "display_name": "District Hospital, Raichur - Wadi Road, Mudnal Sanna Tanda, Chamnalli Tanda, Yadagiri taluku, Yadgir, Karnataka, 585202, India"
+  },
+  "taluk general hospital manvi": {
+    "status": "geocoded",
+    "latitude": 15.996748,
+    "longitude": 77.048118,
+    "matched_query": "Manvi, Raichur, Karnataka",
+    "display_name": "Manvi, Manvi taluku, Raichur, Karnataka, 584123, India"
+  },
+  "taluk general hospital sindhanur": {
+    "status": "geocoded",
+    "latitude": 15.768558,
+    "longitude": 76.754993,
+    "matched_query": "Sindhanur, Raichur, Karnataka",
+    "display_name": "Sindhanur, Sindhanuru taluku, Raichur, Karnataka, 584128, India"
+  },
+  "taluk general hospital devadurga": {
+    "status": "geocoded",
+    "latitude": 16.417574,
+    "longitude": 76.932022,
+    "matched_query": "Devadurga, Raichur, Karnataka",
+    "display_name": "Devadurga taluk, Raichur, Karnataka, India"
+  },
+  "taluk general hospital lingasugur": {
+    "status": "geocoded",
+    "latitude": 16.1563,
+    "longitude": 76.5242,
+    "matched_query": "Lingasugur, Raichur, Karnataka",
+    "display_name": "Lingasugur, Lingasuguru taluku, Raichur, Karnataka, 584122, India"
+  },
+  "taluk general hospital mudgal": {
+    "status": "geocoded",
+    "latitude": 16.01439,
+    "longitude": 76.446449,
+    "matched_query": "Mudgal, Raichur, Karnataka",
+    "display_name": "Government Hospital, Mudgal, SH20, Buddinni, Lingasuguru taluku, Raichur, Karnataka, 584125, India"
+  },
+  "district hospital koppal": {
+    "status": "geocoded",
+    "latitude": 15.574824,
+    "longitude": 76.311849,
+    "matched_query": "Koppal, Karnataka",
+    "display_name": "Koppal, Karnataka, India"
+  },
+  "taluk general hospital gangavathi": {
+    "status": "geocoded",
+    "latitude": 15.430887,
+    "longitude": 76.531972,
+    "matched_query": "Gangavathi, Koppal, Karnataka",
+    "display_name": "Gangavathi, Gangavati taluku, Koppal, Karnataka, 583227, India"
+  },
+  "taluk general hospital yelburga": {
+    "status": "geocoded",
+    "latitude": 15.615251,
+    "longitude": 76.012779,
+    "matched_query": "Yelburga, Koppal, Karnataka",
+    "display_name": "Yelburga, Yelaburga taluku, Koppal, Karnataka, 583236, India"
+  },
+  "taluk general hospital kustagi": {
+    "status": "geocoded",
+    "latitude": 15.757158,
+    "longitude": 76.190682,
+    "matched_query": "Kustagi, Koppal, Karnataka",
+    "display_name": "Kushtagi, Kushtagi taluk, Koppal, Karnataka, 583277, India"
+  },
+  "taluk general hospital kuknoor": {
+    "status": "geocoded",
+    "latitude": 15.490275,
+    "longitude": 75.993493,
+    "matched_query": "Kuknoor, Koppal, Karnataka",
+    "display_name": "Kuknoor, Kukunoor taluku, Koppal, Karnataka, 583232, India"
+  },
+  "vijayanagara institute of medical sciences ballari": {
+    "status": "geocoded",
+    "latitude": 15.154925,
+    "longitude": 76.895544,
+    "matched_query": "Vijayanagara Institute of Medical Sciences Ballari, Ballari, Karnataka",
+    "display_name": "Vijayanagar Institute of Medical Science Ballari, Hosapete Road, Cantonment, Ballari, Bellary taluk, Ballari, Karnataka, 583104, India"
+  },
+  "district hospital ballari": {
+    "status": "geocoded",
+    "latitude": 15.145024,
+    "longitude": 76.934674,
+    "matched_query": "District Hospital Ballari, Ballari, Karnataka",
+    "display_name": "District Hospital, Ballari, Dr Rajkumar Road, Bandimot, Ballari, Bellary taluk, Ballari, Karnataka, 583101, India"
+  },
+  "taluk general hospital sandur": {
+    "status": "geocoded",
+    "latitude": 15.083275,
+    "longitude": 76.543411,
+    "matched_query": "Sandur, Ballari, Karnataka",
+    "display_name": "Sanduru, Sanduru taluk, Ballari, Karnataka, 583119, India"
+  },
+  "taluk general hospital hadagali": {
+    "status": "failed"
+  },
+  "taluk general hospital siruguppa": {
+    "status": "geocoded",
+    "latitude": 15.634557,
+    "longitude": 76.893741,
+    "matched_query": "Siruguppa, Ballari, Karnataka",
+    "display_name": "Siruguppa, Siruguppa taluku, Ballari, Karnataka, 583121, India"
+  },
+  "taluk general hospital hosapete": {
+    "status": "geocoded",
+    "latitude": 15.14179,
+    "longitude": 76.91921,
+    "matched_query": "Hosapete, Ballari, Karnataka",
+    "display_name": "Hosapete Road, Gandhinagara, Ballari, Bellary taluk, Ballari, Karnataka, 583101, India"
+  },
+  "taluk general hospital kudligi": {
+    "status": "geocoded",
+    "latitude": 14.933353,
+    "longitude": 76.410162,
+    "matched_query": "Kudligi, Ballari, Karnataka",
+    "display_name": "Kudligi Road, Shriramashettihalli, Sanduru taluk, Ballari, Karnataka, 583135, India"
+  },
+  "taluk general hospital hagaribommanahalli": {
+    "status": "failed"
+  },
+  "manipal hospital whitefield": {
+    "status": "geocoded",
+    "latitude": 12.958259,
+    "longitude": 77.745391,
+    "matched_query": "Manipal Hospital Whitefield, Whitefield, Bengaluru, Karnataka",
+    "display_name": "Manipal Hospitals, Whitefield Main Road, Ramagondanahalli, Whitefield, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560066, India"
+  },
+  "manipal hospital old airport road": {
+    "status": "geocoded",
+    "latitude": 12.959678,
+    "longitude": 77.649238,
+    "matched_query": "Manipal Hospital Old Airport Road, Old Airport Road, Bengaluru, Karnataka",
+    "display_name": "Manipal Hospital, HAL Old Airport Road, Corporation Colony, Kodihalli, Konena Agrahara, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560017, India"
+  },
+  "manipal hospital yeshwanthpur": {
+    "status": "geocoded",
+    "latitude": 13.017694,
+    "longitude": 77.555501,
+    "matched_query": "Yeshwanthpur, Bengaluru, Karnataka",
+    "display_name": "BMTC Depot 8 (Yeshwanthpura), Subedarpalya, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India"
+  },
+  "manipal hospital sarjapur road": {
+    "status": "geocoded",
+    "latitude": 12.923994,
+    "longitude": 77.65303,
+    "matched_query": "Sarjapur Road, Bengaluru, Karnataka",
+    "display_name": "Sarjapur Road, Agaram, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560102, India"
+  },
+  "fortis hospital bannerghatta": {
+    "status": "geocoded",
+    "latitude": 12.894751,
+    "longitude": 77.598676,
+    "matched_query": "Fortis Hospital Bannerghatta, Bannerghatta Road, Bengaluru, Karnataka",
+    "display_name": "Fortis Hospitals, Bannerghatta Road, Bannerghatta Road, Panduranga Nagar, Arekere, Doresanipalya, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560076, India"
+  },
+  "fortis hospital cunningham road": {
+    "status": "geocoded",
+    "latitude": 12.988549,
+    "longitude": 77.594574,
+    "matched_query": "Fortis Hospital Cunningham Road, Cunningham Road, Bengaluru, Karnataka",
+    "display_name": "Fortis Hospitals Limited, Bengaluru Urban, Cunningham Road, Kaverappa Layout, Vasanth Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560052, India"
+  },
+  "apollo hospital bannerghatta road": {
+    "status": "geocoded",
+    "latitude": 12.896298,
+    "longitude": 77.598285,
+    "matched_query": "Apollo Hospital Bannerghatta Road, Bannerghatta Road, Bengaluru, Karnataka",
+    "display_name": "Apollo Hospital, Bannerghatta Road, Panduranga Nagar, Arekere, Doresanipalya, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560076, India"
+  },
+  "apollo hospital jayanagar": {
+    "status": "geocoded",
+    "latitude": 12.929273,
+    "longitude": 77.582423,
+    "matched_query": "Jayanagar, Bengaluru, Karnataka",
+    "display_name": "Jayanagar, Tilak Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560011, India"
+  },
+  "apollo hospital sheshadripuram": {
+    "status": "geocoded",
+    "latitude": 12.997121,
+    "longitude": 77.580675,
+    "matched_query": "Sheshadripuram, Bengaluru, Karnataka",
+    "display_name": "Sheshadripuram Main Road, Basappa Garden, Seshadripuram, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India"
+  },
+  "narayana health city": {
+    "status": "geocoded",
+    "latitude": 12.816016,
+    "longitude": 77.689222,
+    "matched_query": "Bommasandra, Bengaluru, Karnataka",
+    "display_name": "Bommasandra, Kittaganahalli, Anekal, Bengaluru Urban, Karnataka, India"
+  },
+  "narayana institute of cardiac sciences": {
+    "status": "geocoded",
+    "latitude": 12.816016,
+    "longitude": 77.689222,
+    "matched_query": "Bommasandra, Bengaluru, Karnataka",
+    "display_name": "Bommasandra, Kittaganahalli, Anekal, Bengaluru Urban, Karnataka, India"
+  },
+  "columbia asia hospital hebbal": {
+    "status": "geocoded",
+    "latitude": 13.038218,
+    "longitude": 77.5919,
+    "matched_query": "Hebbal, Bengaluru, Karnataka",
+    "display_name": "Hebbal, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India"
+  },
+  "columbia asia hospital yeshwanthpur": {
+    "status": "geocoded",
+    "latitude": 13.017694,
+    "longitude": 77.555501,
+    "matched_query": "Yeshwanthpur, Bengaluru, Karnataka",
+    "display_name": "BMTC Depot 8 (Yeshwanthpura), Subedarpalya, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India"
+  },
+  "columbia asia hospital whitefield": {
+    "status": "geocoded",
+    "latitude": 12.958259,
+    "longitude": 77.745391,
+    "matched_query": "Columbia Asia Hospital Whitefield, Whitefield, Bengaluru, Karnataka",
+    "display_name": "Manipal Hospitals, Whitefield Main Road, Ramagondanahalli, Whitefield, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560066, India"
+  },
+  "aster cmi hospital": {
+    "status": "geocoded",
+    "latitude": 13.038218,
+    "longitude": 77.5919,
+    "matched_query": "Hebbal, Bengaluru, Karnataka",
+    "display_name": "Hebbal, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India"
+  },
+  "aster rv hospital": {
+    "status": "geocoded",
+    "latitude": 12.911417,
+    "longitude": 77.585027,
+    "matched_query": "Aster RV Hospital, JP Nagar, Bengaluru, Karnataka",
+    "display_name": "Aster RV Hospital, CA-37, 5th Cross Road, Sarakki, JP Nagar 1st Phase, JP Nagar, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560078, India"
+  },
+  "sakra world hospital": {
+    "status": "geocoded",
+    "latitude": 12.955257,
+    "longitude": 77.698416,
+    "matched_query": "Marathahalli, Bengaluru, Karnataka",
+    "display_name": "Marathahalli, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, India"
+  },
+  "bgs gleneagles global hospital": {
+    "status": "geocoded",
+    "latitude": 12.917657,
+    "longitude": 77.483757,
+    "matched_query": "Kengeri, Bengaluru, Karnataka",
+    "display_name": "Kengeri, Kengeri Main Road, Kengeri, Bengaluru West City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560060, India"
+  },
+  "vikram hospital millers road": {
+    "status": "geocoded",
+    "latitude": 12.988213,
+    "longitude": 77.592159,
+    "matched_query": "Vikram Hospital Millers Road, Millers Road, Bengaluru, Karnataka",
+    "display_name": "Manipal Hospital, Millers Road, Kaverappa Layout, Vasanth Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560052, India"
+  },
+  "vikram hospital bellandur": {
+    "status": "geocoded",
+    "latitude": 12.932049,
+    "longitude": 77.684292,
+    "matched_query": "Bellandur, Bengaluru, Karnataka",
+    "display_name": "Bellandur, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, India"
+  },
+  "st. john's medical college hospital": {
+    "status": "geocoded",
+    "latitude": 12.929678,
+    "longitude": 77.618358,
+    "matched_query": "St. John's Medical College Hospital, Koramangala, Bengaluru, Karnataka",
+    "display_name": "St.John's Medical College Hospital, Sarjapur Road, Kormangala West, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560034, India"
+  },
+  "ms ramaiah memorial hospital": {
+    "status": "geocoded",
+    "latitude": 13.03331,
+    "longitude": 77.56682,
+    "matched_query": "MSR Nagar, Bengaluru, Karnataka",
+    "display_name": "MSR Nagar, Aramane Nagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560054, India"
+  },
+  "sparsh hospital infantry road": {
+    "status": "geocoded",
+    "latitude": 12.98333,
+    "longitude": 77.594536,
+    "matched_query": "Sparsh Hospital Infantry Road, Infantry Road, Bengaluru, Karnataka",
+    "display_name": "Sparsh Hospital For Advanced Surgeries, Bengaluru Urban, Infantry Road, Vasanth Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India"
+  },
+  "sparsh hospital yeshwanthpur": {
+    "status": "geocoded",
+    "latitude": 13.017694,
+    "longitude": 77.555501,
+    "matched_query": "Yeshwanthpur, Bengaluru, Karnataka",
+    "display_name": "BMTC Depot 8 (Yeshwanthpura), Subedarpalya, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India"
+  },
+  "hcg cancer centre bengaluru": {
+    "status": "geocoded",
+    "latitude": 12.966608,
+    "longitude": 77.592509,
+    "matched_query": "Sampangi Rama Nagar, Bengaluru, Karnataka",
+    "display_name": "Sampangi Rama Nagar Vegetables Market, 6th Cross Road, D'Souza Layout, Shanthala Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560027, India"
+  },
+  "sagar hospitals jayanagar": {
+    "status": "geocoded",
+    "latitude": 12.927891,
+    "longitude": 77.599838,
+    "matched_query": "Sagar Hospitals Jayanagar, Jayanagar, Bengaluru, Karnataka",
+    "display_name": "Sagar Hospitals, Swagath Road, Tilak Nagar, Jayanagar East, Tilak Nagara, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560041, India"
+  },
+  "sagar hospitals banashankari": {
+    "status": "geocoded",
+    "latitude": 12.92782,
+    "longitude": 77.556621,
+    "matched_query": "Banashankari, Bengaluru, Karnataka",
+    "display_name": "Banashankari, Kathriguppe, Bengaluru West City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560085, India"
+  },
+  "rainbow children's hospital bengaluru": {
+    "status": "geocoded",
+    "latitude": 12.955257,
+    "longitude": 77.698416,
+    "matched_query": "Marathahalli, Bengaluru, Karnataka",
+    "display_name": "Marathahalli, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, India"
+  },
+  "motherhood hospital indiranagar": {
+    "status": "geocoded",
+    "latitude": 12.978441,
+    "longitude": 77.637585,
+    "matched_query": "Motherhood Hospital Indiranagar, Indiranagar, Bengaluru, Karnataka",
+    "display_name": "Motherhood Hospital(Unit Of Rhea Healthcare Pvt Ltd), Chinmaya Mission Hospital Road, Indiranagar 1st Stage, Hoysala Nagara Central, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560038, India"
+  },
+  "cloudnine hospital old airport road": {
+    "status": "geocoded",
+    "latitude": 12.959775,
+    "longitude": 77.656913,
+    "matched_query": "Cloudnine Hospital Old Airport Road, Old Airport Road, Bengaluru, Karnataka",
+    "display_name": "Cloudnine Hospital Pvt. Ltd., HAL Old Airport Road, NR Colony, Jeevan Bhima Nagar, Jeevan Bhimanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560001, India"
+  },
+  "bangalore baptist hospital": {
+    "status": "geocoded",
+    "latitude": 13.035789,
+    "longitude": 77.589498,
+    "matched_query": "Bangalore Baptist Hospital, Bellary Road, Bengaluru, Karnataka",
+    "display_name": "Bangalore Baptist Hospital Blood Bank, Bellary Road, Anand Nagar Colony, Hebbal, Bengaluru North City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560024, India"
+  },
+  "mallya hospital": {
+    "status": "geocoded",
+    "latitude": 12.96798,
+    "longitude": 77.595074,
+    "matched_query": "Mallya Hospital, Vittal Mallya Road, Bengaluru, Karnataka",
+    "display_name": "Vydehi Superspeciality Hospital, 2, Vittal Mallya Road, Sampangirama Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India"
+  },
+  "vydehi institute of medical sciences": {
+    "status": "geocoded",
+    "latitude": 12.995743,
+    "longitude": 77.757949,
+    "matched_query": "Whitefield, Bengaluru, Karnataka",
+    "display_name": "Whitefield (Kadugodi), SH35, Belathur, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560067, India"
+  },
+  "east point hospital": {
+    "status": "geocoded",
+    "latitude": 13.052684,
+    "longitude": 77.716977,
+    "matched_query": "East Point Hospital, Bangalore Urban, Karnataka, India",
+    "display_name": "East Point Hospital and Medical College, Hirandahalli Main Road, Bidarahalli, Bangalore East, Bengaluru Urban, Karnataka, 560049, India"
+  },
+  "apollo bgs hospital mysuru": {
+    "status": "geocoded",
+    "latitude": 12.27664,
+    "longitude": 76.62911,
+    "matched_query": "Adichunchanagiri Road, Mysuru, Karnataka",
+    "display_name": "Adichunchanagiri Road, Sriramapura, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  },
+  "jss hospital mysuru": {
+    "status": "geocoded",
+    "latitude": 12.297588,
+    "longitude": 76.654858,
+    "matched_query": "MG Road, Mysuru, Karnataka",
+    "display_name": "N. Ranga Rao & Sons (Rangsons), 1553, Mahatma Gandhi Road, Ittigegudu, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570004, India"
+  },
+  "vikram hospital mysuru": {
+    "status": "geocoded",
+    "latitude": 12.303755,
+    "longitude": 76.691372,
+    "matched_query": "Siddhartha Layout, Mysuru, Karnataka",
+    "display_name": "Karnataka Bank, Vinaya Marga, Siddhartha Nagar, K C Layout, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  },
+  "columbia asia hospital mysuru": {
+    "status": "geocoded",
+    "latitude": 12.350047,
+    "longitude": 76.660655,
+    "matched_query": "Columbia Asia Hospital Mysuru, Mysuru, Karnataka",
+    "display_name": "Columbia Asia Hospital, Bangalore Road, Rajendra Nagar, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India"
+  },
+  "kmc hospital attavar mangaluru": {
+    "status": "geocoded",
+    "latitude": 12.858859,
+    "longitude": 74.848002,
+    "matched_query": "KMC Hospital Attavar Mangaluru, Attavar, Mangaluru, Karnataka",
+    "display_name": "KMC Hospital, Ambedkar Circle, 5th Cross Road, Attavar, Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India"
+  },
+  "kmc hospital ambedkar circle mangaluru": {
+    "status": "geocoded",
+    "latitude": 12.858859,
+    "longitude": 74.848002,
+    "matched_query": "Ambedkar Circle, Mangaluru, Karnataka",
+    "display_name": "KMC Hospital, Ambedkar Circle, 5th Cross Road, Attavar, Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India"
+  },
+  "aj hospital and research centre mangaluru": {
+    "status": "failed"
+  },
+  "father muller medical college hospital mangaluru": {
+    "status": "geocoded",
+    "latitude": 12.864648,
+    "longitude": 74.860003,
+    "matched_query": "Kankanady, Mangaluru, Karnataka",
+    "display_name": "Kankanady, Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India"
+  },
+  "unity hospital mangaluru": {
+    "status": "geocoded",
+    "latitude": 12.87114,
+    "longitude": 74.849112,
+    "matched_query": "Falnir, Mangaluru, Karnataka",
+    "display_name": "Falnir-Jyothi Road, Bendoor, Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India"
+  },
+  "kasturba hospital manipal": {
+    "status": "geocoded",
+    "latitude": 13.35381,
+    "longitude": 74.790093,
+    "matched_query": "Kasturba Hospital Manipal, Manipal, Udupi, Karnataka",
+    "display_name": "Kasturba Hospital, Udupi, Perampalli Nekkar Krishnadasa Marga, Indrali, Manipal, Udupi taluku, Udupi, Karnataka, 576104, India"
+  },
+  "suyog hospital hubli": {
+    "status": "geocoded",
+    "latitude": 15.351838,
+    "longitude": 75.137985,
+    "matched_query": "Hubli, Karnataka",
+    "display_name": "Hubballi, Hubballi Urban Taluku, Dharwad, Karnataka, 580020, India"
+  },
+  "vinayaka hospital hubli": {
+    "status": "geocoded",
+    "latitude": 15.351838,
+    "longitude": 75.137985,
+    "matched_query": "Hubli, Karnataka",
+    "display_name": "Hubballi, Hubballi Urban Taluku, Dharwad, Karnataka, 580020, India"
+  },
+  "kles dr prabhakar kore hospital belagavi": {
+    "status": "geocoded",
+    "latitude": 15.885726,
+    "longitude": 74.51844,
+    "matched_query": "Nehru Nagar, Belagavi, Karnataka",
+    "display_name": "Jawaharlal Nehru Medical College, Belgaum - Panaji Highway, Subhash Nagar, Belagavi, Belagavi taluku, Belagavi, Karnataka, 590001, India"
+  },
+  "manipal hospital malleshwaram": {
+    "status": "geocoded",
+    "latitude": 13.001128,
+    "longitude": 77.563929,
+    "matched_query": "Manipal Hospital Malleshwaram, Malleshwaram, Bengaluru, Karnataka",
+    "display_name": "Manipal Northside Hospital, 71, 11th Main Road, Malleswaram, Malleshwaram, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560003, India"
+  },
+  "manipal hospital hal airport road": {
+    "status": "geocoded",
+    "latitude": 12.959846,
+    "longitude": 77.649214,
+    "matched_query": "Manipal Hospital HAL Airport Road, HAL Airport Road, Bengaluru, Karnataka",
+    "display_name": "Manipal Hospital, HAL Old Airport Road, Corporation Colony, Kodihalli, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560008, India"
+  },
+  "kauvery hospital electronic city": {
+    "status": "geocoded",
+    "latitude": 12.855088,
+    "longitude": 77.66316,
+    "matched_query": "Kauvery Hospital Electronic City, Electronic City, Bengaluru, Karnataka",
+    "display_name": "Kauvery hospital, Hewlett Packard Avenue, Hewlett Packard GlobalSoft Pvt. Ltd., Electronics City Phase 1, Electronic City, Bangalore South, Bengaluru Urban, Karnataka, 560100, India"
+  },
+  "aster whitefield hospital": {
+    "status": "geocoded",
+    "latitude": 12.995743,
+    "longitude": 77.757949,
+    "matched_query": "Whitefield, Bengaluru, Karnataka",
+    "display_name": "Whitefield (Kadugodi), SH35, Belathur, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560067, India"
+  },
+  "narayana multispeciality hospital hsr layout": {
+    "status": "geocoded",
+    "latitude": 12.908209,
+    "longitude": 77.643513,
+    "matched_query": "Narayana Multispeciality Hospital HSR Layout, HSR Layout, Bengaluru, Karnataka",
+    "display_name": "Narayana Multispeciality Hospital, 23rd A Cross Road, Sector 3, HSR Layout, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560102, India"
+  },
+  "cytecare cancer hospital": {
+    "status": "geocoded",
+    "latitude": 12.923994,
+    "longitude": 77.65303,
+    "matched_query": "Sarjapur Road, Bengaluru, Karnataka",
+    "display_name": "Sarjapur Road, Agaram, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560102, India"
+  },
+  "shanti hospital and research centre": {
+    "status": "geocoded",
+    "latitude": 12.995743,
+    "longitude": 77.757949,
+    "matched_query": "Kadugodi, Bengaluru, Karnataka",
+    "display_name": "Whitefield (Kadugodi), SH35, Belathur, Bengaluru East City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560067, India"
+  },
+  "chinmaya mission hospital": {
+    "status": "geocoded",
+    "latitude": 12.978483,
+    "longitude": 77.646222,
+    "matched_query": "Chinmaya Mission Hospital, Indiranagar, Bengaluru, Karnataka",
+    "display_name": "Chinmaya Mission Hospital, Chinmaya Mission Hospital Road, Subedar Garden, Thippasandra, Indiranagar, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, 560038, India"
+  },
+  "sri shankara cancer hospital": {
+    "status": "geocoded",
+    "latitude": 12.954262,
+    "longitude": 77.570947,
+    "matched_query": "Sri Shankara Cancer Hospital, Basavanagudi, Bengaluru, Karnataka",
+    "display_name": "Sri Shankara Cancer Hospital And Research Centre (A Service Unit Of Sscf), Devudu Narasimha Shastry Road, Shankarapuram, Basavanagudi, Sunkenahalli, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560004, India"
+  },
+  "trustwell hospital rajajinagar": {
+    "status": "geocoded",
+    "latitude": 13.000523,
+    "longitude": 77.549617,
+    "matched_query": "Rajajinagar, Bengaluru, Karnataka",
+    "display_name": "Rajajinagar, Chord Road, Nagapura, Mahalakshmipuram, Nagapura, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560086, India"
+  },
+  "hosmat hospital": {
+    "status": "geocoded",
+    "latitude": 12.969112,
+    "longitude": 77.613307,
+    "matched_query": "HOSMAT Hospital, Magrath Road, Bengaluru, Karnataka",
+    "display_name": "Hosmat Hospital, Magrath Road, Corporation Quarters, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560025, India"
+  },
+  "trinity hospital and heart foundation": {
+    "status": "geocoded",
+    "latitude": 12.962467,
+    "longitude": 77.638196,
+    "matched_query": "Domlur, Bengaluru, Karnataka",
+    "display_name": "Domlur, Domluru, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560071, India"
+  },
+  "people tree hospitals tumkur road": {
+    "status": "geocoded",
+    "latitude": 13.028727,
+    "longitude": 77.539383,
+    "matched_query": "People Tree Hospitals Tumkur Road, Tumkur Road, Bengaluru, Karnataka",
+    "display_name": "Dr. Srikanth KP, People Tree Hospitals, Tumkur Road, Goragunte Palya, Peenya, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560022, India"
+  },
+  "narayana institute of cardiac sciences hubli": {
+    "status": "geocoded",
+    "latitude": 15.351838,
+    "longitude": 75.137985,
+    "matched_query": "Hubli, Karnataka",
+    "display_name": "Hubballi, Hubballi Urban Taluku, Dharwad, Karnataka, 580020, India"
+  },
+  "kims hospital hubli": {
+    "status": "geocoded",
+    "latitude": 15.361448,
+    "longitude": 75.132633,
+    "matched_query": "KIMS Hospital Hubli, Vidyanagar, Hubli, Karnataka",
+    "display_name": "KIMS Hospital, Casualty and Emergency, Vidyanagar, Hubballi, Hubballi Urban Taluku, Dharwad, Karnataka, 580020, India"
+  },
+  "bapuji hospital davanagere": {
+    "status": "geocoded",
+    "latitude": 14.455262,
+    "longitude": 75.917375,
+    "matched_query": "Bapuji Hospital Davanagere, Davanagere, Karnataka",
+    "display_name": "Bapuji Hospital, Bapuji Hospital Road, K.T. Jambanna Nagara, Davanagere, Davanagere Taluku, Davanagere, Karnataka, 577000, India"
+  },
+  "suyog hospital belagavi": {
+    "status": "geocoded",
+    "latitude": 16.158785,
+    "longitude": 74.888862,
+    "matched_query": "Belagavi, Karnataka",
+    "display_name": "Belagavi, Karnataka, India"
+  },
+  "siddaganga hospital tumakuru": {
+    "status": "geocoded",
+    "latitude": 13.339784,
+    "longitude": 77.11319,
+    "matched_query": "Siddaganga Hospital Tumakuru, Tumakuru, Karnataka",
+    "display_name": "Siddaganga Hospital, Bengaluru Honnavara Road, Kyatasandra, Tumakuru, Tumkur taluk, Tumakuru, Karnataka, 572101, India"
+  },
+  "basappa memorial hospital mysuru": {
+    "status": "geocoded",
+    "latitude": 12.320693,
+    "longitude": 76.620407,
+    "matched_query": "Basappa Memorial Hospital Mysuru, Mysuru, Karnataka",
+    "display_name": "Basappa Memorial Hospital, ವನೊಬ ರಸ್ತೆ, Jayalakshmipuram, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570012, India"
+  },
+  "minto ophthalmic hospital": {
+    "status": "geocoded",
+    "latitude": 12.957758,
+    "longitude": 77.566534,
+    "matched_query": "Chamarajpet, Bengaluru, Karnataka",
+    "display_name": "Chamarajpet, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560018, India"
+  },
+  "rajiv gandhi institute of chest diseases": {
+    "status": "geocoded",
+    "latitude": 12.894381,
+    "longitude": 77.636524,
+    "matched_query": "Hosur Road, Bengaluru, Karnataka",
+    "display_name": "Hosur Road, GarvebhaviPalya, Garvebavi Palya, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, 560068, India"
+  },
+  "trauma care centre victoria hospital": {
+    "status": "geocoded",
+    "latitude": 12.953935,
+    "longitude": 77.585143,
+    "matched_query": "Fort, Bengaluru, Karnataka",
+    "display_name": "Karnataka Grape Growers Association, Lalbagh Fort Road, Mavalli, Ashoka Pillar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560002, India"
+  },
+  "sanjay gandhi accident hospital bengaluru": {
+    "status": "geocoded",
+    "latitude": 12.929593,
+    "longitude": 77.581181,
+    "matched_query": "Byrasandra, Bengaluru, Karnataka",
+    "display_name": "Byrasandra, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, India"
+  },
+  "taluk general hospital mysuru rural": {
+    "status": "geocoded",
+    "latitude": 12.315862,
+    "longitude": 76.624098,
+    "matched_query": "Mysuru Taluk, Mysuru, Karnataka",
+    "display_name": "Karnataka State Open University, Hunsur Road, Jayalakshmipuram, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570006, India"
+  },
+  "taluk general hospital hassan rural": {
+    "status": "geocoded",
+    "latitude": 12.984806,
+    "longitude": 76.106707,
+    "matched_query": "Hassan Taluk, Hassan, Karnataka",
+    "display_name": "Karnataka Milk Federation, Bommanayakanahalli, Hassan, Hasana taluk, Hassan, Karnataka, 573201, India"
+  },
+  "taluk general hospital tumakuru rural": {
+    "status": "geocoded",
+    "latitude": 13.462221,
+    "longitude": 77.050243,
+    "matched_query": "Tumakuru Taluk, Tumakuru, Karnataka",
+    "display_name": "Karnataka Food Processing SEZ, Chikkonahalli, Tumkur taluk, Tumakuru, Karnataka, India"
+  },
+  "chc bommanahalli": {
+    "status": "geocoded",
+    "latitude": 12.903458,
+    "longitude": 77.623003,
+    "matched_query": "Bommanahalli, Bengaluru, Karnataka",
+    "display_name": "Bommanahalli, Bengaluru South City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, India"
+  },
+  "chc byatarayanapura": {
+    "status": "geocoded",
+    "latitude": 13.068322,
+    "longitude": 77.591006,
+    "matched_query": "Byatarayanapura, Bengaluru, Karnataka",
+    "display_name": "Byatarayanapura, Bengaluru North City Corporation, Bengaluru, Yelahanka taluku, Bengaluru Urban, Karnataka, 560092, India"
+  },
+  "district hospital vijayanagara": {
+    "status": "geocoded",
+    "latitude": 15.266493,
+    "longitude": 76.38723,
+    "matched_query": "Hosapete, Vijayanagara, Karnataka",
+    "display_name": "Hosapete, Hosapete taluk, Vijayanagara, Karnataka, 583200, India"
+  },
+  "district hospital chamarajanagar": {
+    "status": "geocoded",
+    "latitude": 11.926564,
+    "longitude": 76.941437,
+    "matched_query": "District Hospital Chamarajanagar, Chamarajanagar, Karnataka",
+    "display_name": "District Hospital Blood Bank Chamarajanagar, BR Hills Road, Chamarajanagara, Chamarajanagara taluk, Chamarajanagar, Karnataka, 571313, India"
+  },
+  "taluk general hospital gundlupet": {
+    "status": "geocoded",
+    "latitude": 11.808496,
+    "longitude": 76.691614,
+    "matched_query": "Gundlupet, Chamarajanagar, Karnataka",
+    "display_name": "Gundlupet, Gundlupet taluk, Chamarajanagar, Karnataka, 571111, India"
+  },
+  "taluk general hospital kollegal": {
+    "status": "geocoded",
+    "latitude": 12.156097,
+    "longitude": 77.107173,
+    "matched_query": "Kollegal, Chamarajanagar, Karnataka",
+    "display_name": "Kollegal, Kollegala taluk, Chamarajanagar, Karnataka, 571440, India"
+  },
+  "taluk general hospital hanur": {
+    "status": "geocoded",
+    "latitude": 12.087032,
+    "longitude": 77.301797,
+    "matched_query": "Hanur, Chamarajanagar, Karnataka",
+    "display_name": "Hanur, Hanur taluk, Chamarajanagar, Karnataka, 571439, India"
+  },
+  "taluk general hospital nippani": {
+    "status": "geocoded",
+    "latitude": 16.40204,
+    "longitude": 74.384237,
+    "matched_query": "Nippani, Belagavi, Karnataka",
+    "display_name": "Nippani, Nippani taluka, Belagavi, Karnataka, 591237, India"
+  },
+  "taluk general hospital kagwad": {
+    "status": "geocoded",
+    "latitude": 16.696079,
+    "longitude": 74.718722,
+    "matched_query": "Kagwad, Belagavi, Karnataka",
+    "display_name": "Kagwad CHC, NH548B, Kagawada, Kagawada taluku, Belagavi, Karnataka, 591223, India"
+  },
+  "taluk general hospital mangaluru rural": {
+    "status": "geocoded",
+    "latitude": 12.938237,
+    "longitude": 74.877365,
+    "matched_query": "Mangaluru Taluk, Dakshina Kannada, Karnataka",
+    "display_name": "Mangaluru taluk, Dakshina Kannada, Karnataka, India"
+  }
+}
