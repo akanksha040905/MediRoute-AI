@@ -94,3 +94,14 @@ All tuneable constants live in `config.py`:
 - `SCORING_WEIGHTS` — per-severity weighting of beds / distance / queue / ventilators
 - `FALLBACK_SPEED_KMH` — ETA fallback speed when OSRM is down
 - `TOP_N_HOSPITALS` — number of recommendations returned (default: 3)
+
+## 📸 Project Screenshots
+
+### 🏥 Dashboard View
+![Dashboard](images/dashboard.png)
+
+### 🗺️ Hospital Map Routing
+![Map](images/map.png)
+
+### 🤖 ICU Prediction Output
+![Prediction](images/prediction.png)
